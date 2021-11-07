@@ -31,5 +31,7 @@
   * [Staking](insignia-swap/staking.md)
   * [Farms](insignia-swap/farms.md)
 * [Vesting](vesting.md)
-* [Funds breakdown](funds-breakdown.md)
+* [Funds Breakdown](funds-breakdown/README.md)
+  * [Private Sale](funds-breakdown/private-sale.md)
+  * [Public Sale](funds-breakdown/public-sale.md)
 * [Roadmap](roadmap.md)

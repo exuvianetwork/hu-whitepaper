@@ -16,10 +16,10 @@
 |         | Staking and Farms Contract Development Starts  | :white\_check\_mark: |
 |         | Governance Token Deployment                    | :gear:               |
 |         | TGE                                            | :gear:               |
-|         | Premarketing                                   | :gear:               |
+|         | Pre-Marketing                                  | :gear:               |
 |         | Website Release                                | :gear:               |
 |         | Whitepaper Release                             | :gear:               |
-|         | Early Adopters Rewards                         | :gear:               |
+|         | Early Adopters Event Start                     | :gear:               |
 |         | Whitelisting starts                            | :gear:               |
 |         | Private Sale round                             | :gear:               |
 |         | Vesting Period Starts                          | :gear:               |

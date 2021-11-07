@@ -12,30 +12,23 @@ Image
 
 Insignia (SGN), a BEP-20 token, is the governance token for Heroes Uprising. Having insignia allows its users the ability to vote on modifications to the protocol's functioning, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing normal swords and heroes.
 
-### Insignia Tokenomics
+### SGN Tokenomics
 
-Initial Supply 1m&#x20;
-
-Mint per block&#x20;
-
-Decimals&#x20;
-
-Ticker
+| SECTION                | VALUE            |
+| ---------------------- | ---------------- |
+| Initial Supply         | 1,000,000 $SGN   |
+| Token Type             | Governance Token |
+| Decimals               | 18               |
+| Ticker                 | SGN              |
+| Minted Token Per Block | 20               |
 
 ### Token Breakdown&#x20;
 
-Development 200000 (20%)&#x20;
-
-Private Sale 80000 (8%)&#x20;
-
-Public Sale 200000 (20%)&#x20;
-
-Staking rewards 140000 (14%)&#x20;
-
-Ecosystem fund (Community Growth) 80000 (8%)&#x20;
-
-Farms Rewards 140000 (14%)&#x20;
-
-Liquidity 110000 (11%)&#x20;
-
-Team 50000 (5%)
+| SECTION      | ALLOCATION | TOKENS  |
+| ------------ | ---------- | ------- |
+| Development  | 30%        | 300,000 |
+| Private Sale | 8%         | 80,000  |
+| Public Sale  | 15%        | 150,000 |
+| Reserved     | 12%        | 120,000 |
+| Liquidity    | 25%        | 250,000 |
+| Team         | 10%        | 100,000 |
