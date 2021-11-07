@@ -16,22 +16,34 @@
   * [Genesis](gamebook/weapons/genesis/README.md)
     * [Heroic](gamebook/weapons/genesis/heroic.md)
     * [Corrupted](gamebook/weapons/genesis/corrupted.md)
+* [Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
+* [Forging](gamebook/forging.md)
+* [Classifications](gamebook/classifications.md)
+* [Specialties](gamebook/specialties.md)
 
-***
+## GAME ECONOMICS
 
-* [Buffs and Debuffs](buffs-and-debuffs.md)
-* [Forging](forging.md)
-* [Classifications](classifications.md)
-* [Specialties](specialties.md)
-* [Tokenomics](tokenomics/README.md)
-  * [Insignia](tokenomics/insignia.md)
-  * [Rare Amethyst Particle](tokenomics/rare-amethyst-particle.md)
-* [Burning Mechanism](burning-mechanism.md)
-* [Insignia Swap](insignia-swap/README.md)
-  * [Staking](insignia-swap/staking.md)
-  * [Farms](insignia-swap/farms.md)
-* [Vesting](vesting.md)
-* [Funds Breakdown](funds-breakdown/README.md)
-  * [Private Sale](funds-breakdown/private-sale.md)
-  * [Public Sale](funds-breakdown/public-sale.md)
-* [Roadmap](roadmap.md)
+* [Burning Mechanism](game-economics/burning-mechanism.md)
+
+## TOKENS AND FUNDS INFORMATION
+
+* [Tokenomics](tokens-and-funds-information/tokenomics/README.md)
+  * [Insignia (SGN)](tokens-and-funds-information/tokenomics/insignia-sgn.md)
+  * [Rare Amethyst Particle (RAP)](tokens-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
+* [Private Sale Vesting](tokens-and-funds-information/private-sale-vesting.md)
+* [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
+  * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
+  * [Public Sale](tokens-and-funds-information/funds-breakdown/public-sale.md)
+
+## PRODUCTS
+
+* [Insignia Swap](products/insignia-swap/README.md)
+  * [AMM](products/insignia-swap/amm.md)
+  * [Staking](products/insignia-swap/staking.md)
+  * [Farms](products/insignia-swap/farms.md)
+
+## GLOBAL INFORMATION
+
+* [Team](global-information/team.md)
+* [Roadmap](global-information/roadmap.md)
+* [Socials and Verified Links](global-information/socials-and-verified-links.md)

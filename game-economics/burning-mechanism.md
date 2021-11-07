@@ -8,7 +8,7 @@ Creating new weaponry required Insignia and Rare amethyst Particle all of the to
 
 #### Heroes
 
-Normal Heroes can be purchased with Insignia and Rare Amethyst Particle. When the marketplace launches, it will charge at least 10%  of its usrs as a fee, of which 5% will be liquidated and used to buy back tokens for burn, and the remaining 5% will be sent to the burn address automatically, reducing the circulating supply.&#x20;
+Normal Heroes can be purchased with Insignia and Rare Amethyst Particle. When the marketplace launches, it will charge at least 10%  of its users as a fee, of which 5% will be liquidated and used to buy back tokens for burn, and the remaining 5% will be sent to the burn address automatically, reducing the circulating supply.&#x20;
 
 #### Swords
 

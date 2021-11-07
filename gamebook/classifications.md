@@ -8,7 +8,7 @@ Which can be seen below
 
 image
 
-![](.gitbook/assets/black---chart-01.png)
+![](../.gitbook/assets/black---chart-01.png)
 
 
 

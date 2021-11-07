@@ -1,8 +1,8 @@
-# Rare Amethyst Particle
+# Rare Amethyst Particle (RAP)
 
 Image
 
-![](../.gitbook/assets/rap-particle11111.png)
+![](../../.gitbook/assets/rap-particle11111.png)
 
 
 

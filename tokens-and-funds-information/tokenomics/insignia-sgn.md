@@ -1,8 +1,8 @@
-# Insignia
+# Insignia (SGN)
 
 Image
 
-![](../.gitbook/assets/INSIGNIA-symbol111.png)
+![](../../.gitbook/assets/INSIGNIA-symbol111.png)
 
 
 
@@ -21,6 +21,7 @@ Insignia (SGN), a BEP-20 token, is the governance token for Heroes Uprising. Hav
 | Decimals               | 18               |
 | Ticker                 | SGN              |
 | Minted Token Per Block | 20               |
+| Contract Address       | TBA              |
 
 ### Token Breakdown&#x20;
 
