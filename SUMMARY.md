@@ -34,13 +34,16 @@
 * [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
   * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
   * [Public Sale](tokens-and-funds-information/funds-breakdown/public-sale.md)
+  * [Sale Development Breakdown](tokens-and-funds-information/funds-breakdown/sale-development-breakdown/README.md)
+    * [Private Sale (DEV)](tokens-and-funds-information/funds-breakdown/sale-development-breakdown/private-sale-dev.md)
+    * [Public Sale (DEV)](tokens-and-funds-information/funds-breakdown/sale-development-breakdown/public-sale-dev.md)
 
 ## PRODUCTS
 
 * [Insignia Swap](products/insignia-swap/README.md)
   * [AMM](products/insignia-swap/amm.md)
+  * [Yield Farms](products/insignia-swap/yield-farms.md)
   * [Staking](products/insignia-swap/staking.md)
-  * [Farms](products/insignia-swap/farms.md)
 
 ## GLOBAL INFORMATION
 
