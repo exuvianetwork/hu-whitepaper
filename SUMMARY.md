@@ -34,9 +34,9 @@
 * [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
   * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
   * [Public Sale](tokens-and-funds-information/funds-breakdown/public-sale.md)
-  * [Sale Development Breakdown](tokens-and-funds-information/funds-breakdown/sale-development-breakdown/README.md)
-    * [Private Sale (DEV)](tokens-and-funds-information/funds-breakdown/sale-development-breakdown/private-sale-dev.md)
-    * [Public Sale (DEV)](tokens-and-funds-information/funds-breakdown/sale-development-breakdown/public-sale-dev.md)
+  * [Development Funds Breakdown](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/README.md)
+    * [Private Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
+    * [Public Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
 
 ## PRODUCTS
 
