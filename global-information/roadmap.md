@@ -29,8 +29,8 @@
 |         | Gameplay Video Release                         | :gear:               |
 |         | Yield Farm Website Release                     | :gear:               |
 | Phase 4 | Marketplace Release                            | :gear:               |
-|         | Limited Nft sale starts (Founders/Genesis NFT) | :gear:               |
-|         | Games Nft sale starts (Ordinary)               | :gear:               |
+|         | Limited NFT sale starts (Founders/Genesis NFT) | :gear:               |
+|         | Games NFT sale starts (Ordinary)               | :gear:               |
 |         | Game Alpha Testing starts                      | :gear:               |
 |         | Token Bridge Development Starts                | :gear:               |
 |         | Game Beta testing starts                       | :gear:               |
@@ -39,7 +39,7 @@
 | Phase 5 | Game Public Launch                             | :gear:               |
 |         | Forging Enabled                                | :gear:               |
 |         | UI improvement                                 | :gear:               |
-|         | Nft Burning Introduction                       | :gear:               |
+|         | NFT Burning Introduction                       | :gear:               |
 | Phase 6 | Game NFT Migration                             | :gear:               |
 |         | Token Bridge Release                           | :gear:               |
 |         | Blockchain Release                             | :gear:               |
