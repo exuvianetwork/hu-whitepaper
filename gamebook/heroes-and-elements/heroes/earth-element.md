@@ -11,7 +11,7 @@ description: >-
 
 ![](../../../.gitbook/assets/character-stats-mason.png)
 
-Headstrong and brave Mason never backs down from a fight always on the frontline protecting he cares for.
+Headstrong and brave Mason never backs down from a fight always in the frontline protecting he cares for.
 
 
 

@@ -10,7 +10,7 @@ description: >-
 
 ![](../../../.gitbook/assets/character-flyse.png)
 
-Flyse rarely takes action opting to just watch from the sidelinebut when the waters he vowed to protect are threatened his wrath is not far behind.
+Flyse rarely takes action opting to just watch from the sideline but when the waters he vowed to protect are threatened his wrath is not far behind.
 
 
 

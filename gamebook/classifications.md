@@ -6,8 +6,6 @@ Which can be seen below
 
 ### Elemental Chart
 
-image
-
 ![](../.gitbook/assets/black---chart-01.png)
 
 
