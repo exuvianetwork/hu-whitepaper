@@ -1,7 +1,5 @@
 # Insignia (SGN)
 
-Image
-
 ![](../../.gitbook/assets/INSIGNIA-symbol111.png)
 
 
