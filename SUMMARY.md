@@ -33,9 +33,11 @@
   * [Rare Amethyst Particle (RAP)](tokens-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
 * [Token Release Schedule](tokens-and-funds-information/token-release-schedule.md)
 * [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
+  * [Seed Sale](tokens-and-funds-information/funds-breakdown/seed-sale.md)
   * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
   * [Public Sale](tokens-and-funds-information/funds-breakdown/public-sale.md)
   * [Development Funds Breakdown](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/README.md)
+    * [Seed Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/seed-sale-development.md)
     * [Private Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
     * [Public Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
 
