@@ -2,6 +2,6 @@
 
 | FUNDS            | ALLOCATION |
 | ---------------- | ---------- |
-| Development      | 55%        |
-| Liquidity        | 30%        |
-| Buyback and Burn | 15%        |
+| DEVELOPMENT      | 55%        |
+| LIQUIDITY        | 30%        |
+| BUYBACK AND BURN | 15%        |

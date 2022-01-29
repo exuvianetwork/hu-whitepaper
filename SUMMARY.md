@@ -24,7 +24,7 @@
 ## GAME FEATURES
 
 * [Burning Mechanism](game-features/burning-mechanism.md)
-* [Scholarship program](game-features/scholarship-program.md)
+* [Scholarship Program](game-features/scholarship-program.md)
 
 ## TOKENS AND FUNDS INFORMATION
 
