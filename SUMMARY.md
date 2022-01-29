@@ -21,17 +21,17 @@
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
 
-## GAME ECONOMICS
+## GAME FEATURES
 
-* [Burning Mechanism](game-economics/burning-mechanism.md)
-* [Scholarship program](game-economics/scholarship-program.md)
+* [Burning Mechanism](game-features/burning-mechanism.md)
+* [Scholarship program](game-features/scholarship-program.md)
 
 ## TOKENS AND FUNDS INFORMATION
 
 * [Tokenomics](tokens-and-funds-information/tokenomics/README.md)
   * [Insignia (SGN)](tokens-and-funds-information/tokenomics/insignia-sgn.md)
   * [Rare Amethyst Particle (RAP)](tokens-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
-* [Token Release Schedule](tokens-and-funds-information/token-release-schedule.md)
+* [Token Vesting Schedule](tokens-and-funds-information/token-release-schedule.md)
 * [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
   * [Seed Sale](tokens-and-funds-information/funds-breakdown/seed-sale.md)
   * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
@@ -40,13 +40,6 @@
     * [Seed Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/seed-sale-development.md)
     * [Private Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
     * [Public Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
-
-## PRODUCTS
-
-* [Insignia Swap](products/insignia-swap/README.md)
-  * [AMM](products/insignia-swap/amm.md)
-  * [Yield Farms](products/insignia-swap/yield-farms.md)
-  * [Staking](products/insignia-swap/staking.md)
 
 ## GLOBAL INFORMATION
 

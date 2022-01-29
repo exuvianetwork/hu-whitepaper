@@ -1,10 +1,7 @@
 # Private Sale
 
-
-
 | FUNDS            | ALLOCATION |
 | ---------------- | ---------- |
-| Development      | 50%        |
+| Development      | 55%        |
 | Liquidity        | 30%        |
 | Buyback and Burn | 15%        |
-| Team             | 5%         |

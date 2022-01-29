@@ -2,6 +2,5 @@
 
 | FUNDS       | ALLOCATION |
 | ----------- | ---------- |
-| DEVELOPMENT | 90%        |
-| TEAM        | 10%        |
+| DEVELOPMENT | 100%       |
 

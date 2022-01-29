@@ -4,5 +4,4 @@
 | ---------------- | ---------- |
 | Development      | 20%        |
 | Liquidity        | 70%        |
-| Buyback and Burn | 7%         |
-| Team             | 3%         |
+| Buyback and Burn | 10%        |
