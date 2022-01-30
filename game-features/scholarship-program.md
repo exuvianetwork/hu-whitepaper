@@ -1,10 +1,10 @@
-# Scholarship program
+# Scholarship Program
 
-Just like any NFT games. We wish to bring fun and amusement to everyone while learning the game fundamentals, including those who do not have the resources to start and earn reward tokens from the game.
+Just like any NFT games that has _**Scholarship Program**_. We wish to bring fun and amusement to everyone while learning the game fundamentals, including those who do not have the resources to start and earn reward tokens from the game.
 
 We want everyone to be able to play a game powered by a blockchain technology through NFT's
 
-So we want to introduce to you "Heroes Scrolls"
+So we want to introduce to you _**"Heroes Scrolls"**_
 
 ### What is Heroes Scrolls?
 

@@ -1,8 +1,6 @@
 # Buffs and Debuffs
 
-There are status affects in heroes uprising, much like in many other games. A good influence is known as "Buffs," whereas a negative effect is known as "Debuffs." They may be used on your allies or your adversaries by using Ability Cards. Heroes who are impacted by certain status effects have a floating symbol over their heads that shows which status effect is active.
-
-
+There are status affects in heroes uprising, much like in many other games. A good influence is known as "Buffs," whereas a negative effect is known as "Debuffs". They may be used on your allies or your adversaries by using Ability Cards. Heroes who are impacted by certain status effects have a floating symbol over their heads that shows which status effect is active.
 
 ### Buffs
 
@@ -14,8 +12,6 @@ There are status affects in heroes uprising, much like in many other games. A go
 |    Armor    | Grant X amount of Armor |
 |     Heal    | Give X amount of health |
 |   Cleanse   |      Remove Debuffs     |
-
-
 
 ### Debuffs
 
@@ -33,3 +29,4 @@ There are status affects in heroes uprising, much like in many other games. A go
 |    Provoke    |                                   Target this unit                                  |
 |  Mana Removal |                                     Remove Mana                                     |
 |      Burn     |                      Deal 3 Damage per card used last's 2 turns                     |
+
