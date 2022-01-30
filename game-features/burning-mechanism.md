@@ -4,7 +4,7 @@ We came up with three methods to burn as many inflated tokens as possible.
 
 #### Forging
 
-Creating new weaponry required SGN and RAP all of the tokens required for forging will be automatically sent to the burn address hence reducing the circulating supply .
+Creating new weaponry required SGN and RAP all of the tokens required will be automatically sent to the burn address hence reducing the circulating supply.
 
 #### Heroes
 
