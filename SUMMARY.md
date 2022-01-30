@@ -13,7 +13,7 @@
     * [Light element](gamebook/heroes-and-elements/heroes/light-element.md)
     * [Dark element](gamebook/heroes-and-elements/heroes/dark-element.md)
 * [Weapons](gamebook/weapons/README.md)
-  * [Genesis](gamebook/weapons/genesis/README.md)
+  * [Founding Swords](gamebook/weapons/genesis/README.md)
     * [Heroic](gamebook/weapons/genesis/heroic.md)
     * [Corrupted](gamebook/weapons/genesis/corrupted.md)
 * [Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
