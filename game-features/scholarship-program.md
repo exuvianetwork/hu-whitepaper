@@ -31,7 +31,7 @@ Before playing, Players and Managers must agree on a contract.
 {% hint style="info" %}
 How does the profit sharing work?\
 \
-As Split scroll acts as its intermediary all Rare Amethyst earned by the heroes called by the split scrolls will be immediately divided and automatically sent to the address each parties provided .
+As Split scroll acts as its intermediary all Rare Amethyst Particle earned by the heroes called by the split scrolls will be immediately divided and automatically sent to the address each parties provided .
 {% endhint %}
 
 ### Rigid Scrolls
