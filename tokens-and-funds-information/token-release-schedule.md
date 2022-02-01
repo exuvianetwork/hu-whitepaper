@@ -1,18 +1,15 @@
-# Private Sale Vesting
+# Token Vesting Schedule
 
-Only 20% of the entire quantity purchased will be distributed to the investor during the private round, while the remaining 80% will be vested for 8 months. This will decrease the possibility of dumping crazy amount of tokens when the public round begins, avoiding a sudden market crash.
+Since preserving market equilibrium is a difficult task, We developed this concept as a viable solution that will benefit both our community and investors
 
-Vesting distribution is shown below
+Seed : 20% Unlocked Before public sale listing, then 10% quarterly
 
+Private : 10% Unlocked Before public sale listing, then 10% quarterly
 
+Liquidity : 25% Unlocked Before public sale listing , Then 10% monthly over 5 months then 5% monthly for another 5 months
 
+Development : 20% unlocked Before public sale listing and 10% quarterly
 
+Team and Reserved : 1 year fully locked then 25% quarterly
 
-
-
-
-
-image
-
-
-
+We've chosen this method for a variety of reasons. To keep the market pricing stable and to be fair to our private and public sale investors, as well as to safeguard everyone from a market crash.

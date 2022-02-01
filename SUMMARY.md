@@ -23,6 +23,8 @@
 
 ## GAME FEATURES
 
+* [Weekly Dungeon Quest](game-features/weekly-dungeon-quest.md)
+* [Arena Battle Royale](game-features/arena-battle-royale.md)
 * [Burning Mechanism](game-features/burning-mechanism.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
