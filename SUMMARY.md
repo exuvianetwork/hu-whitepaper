@@ -21,6 +21,10 @@
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
 
+## Cards
+
+* [Fire Element](cards/fire-element.md)
+
 ## GAME FEATURES
 
 * [Weekly Dungeon Quest](game-features/weekly-dungeon-quest.md)
