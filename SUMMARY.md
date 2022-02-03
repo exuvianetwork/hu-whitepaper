@@ -28,6 +28,7 @@
 * [Air Element](cards/air-element.md)
 * [Earth Element](cards/earth-element.md)
 * [Light Element](cards/light-element.md)
+* [Dark Element](cards/dark-element.md)
 
 ## GAME FEATURES
 
