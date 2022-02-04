@@ -2,9 +2,9 @@
 
 Since preserving market equilibrium is a difficult task, We developed this concept as a viable solution that will benefit both our community and investors
 
-Seed : 20% Unlocked Before public sale listing, then 10% quarterly
+Seed : 10% Unlocked Before public sale listing, then 10% quarterly
 
-Private : 10% Unlocked Before public sale listing, then 10% quarterly
+Private : 20% Unlocked Before public sale listing, then 10% quarterly
 
 Liquidity : 25% Unlocked Before public sale listing , Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked with LP pair)
 
