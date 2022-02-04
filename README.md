@@ -13,7 +13,7 @@ The game was created with the intention of allowing players to have fun while ea
 ### Players can earn reward token thru
 
 * Forging weapons and selling them on the marketplace
-* Completing adventure to win rewards
+* Weekly dungeon quest
 * Competing in PVP Battles
 * Collecting Rare Weapons such as Heroic and Corrupted
 
