@@ -6,7 +6,7 @@ Seed : 10% Unlocked Before public sale listing, then 10% quarterly
 
 Private : 20% Unlocked Before public sale listing, then 20% quarterly
 
-Liquidity : 25% Unlocked Before public sale listing , Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked forever with LP pair)
+Liquidity : 25% Unlocked Before public sale listing , Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked for 2 years to the respective LP pair)
 
 Development : 20% unlocked Before public sale listing and 10% quarterly
 
