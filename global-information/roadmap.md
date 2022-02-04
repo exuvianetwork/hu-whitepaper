@@ -5,8 +5,8 @@
 |         | Team Assemble                            | :white\_check\_mark: |
 |         | Research                                 | :white\_check\_mark: |
 |         | Whitepaper Preparation                   | :white\_check\_mark: |
-|         | Theme and Art creation starts            | :white\_check\_mark: |
-|         | Smart Contract Development starts        | :white\_check\_mark: |
+|         | Theme and Art Creation Starts            | :white\_check\_mark: |
+|         | Smart Contract Development Starts        | :white\_check\_mark: |
 |         | Social Interaction                       | :white\_check\_mark: |
 | Phase 2 | Game Development Starts                  | :white\_check\_mark: |
 |         | Marketplace Development                  | :white\_check\_mark: |
@@ -25,7 +25,7 @@
 |         | Public Sale Starts                       | :gear:               |
 |         | Gameplay Video Release                   | :gear:               |
 | Phase 4 | Marketplace Release                      | :gear:               |
-|         | Limited NFT Sale Starts (Genesis NFT's)  | :gear:               |
+|         | Limited NFT Sale Starts (Founding NFT's) | :gear:               |
 |         | NFT Sale Starts (Normal NFT's)           | :gear:               |
 |         | Game Alpha Testing starts                | :gear:               |
 |         | Game Beta Testing Starts                 | :gear:               |
