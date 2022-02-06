@@ -10,7 +10,7 @@ Heroes Uprising is a fantasy-themed game in which players can earn tokens throug
 
 The game was created with the intention of allowing players to have fun while earning money. Players/gamers are also encouraged to recognize that this is the start of the next chapter of gaming through NFT's.
 
-### Players can earn reward token thru
+### Players can earn reward token through
 
 * Forging weapons and selling them on the marketplace
 * Weekly dungeon quest
