@@ -10,6 +10,8 @@ He helps also on Front-end Developing on Heroes Uprising.
 
 Before Heroes Uprising he is an avid Crypto Investor in some start up company in the crypto world. Also a Guild Leader of some _**Play to Earn**_ games together with his wife.&#x20;
 
+[linkedin](https://www.linkedin.com/in/allanbrandocatayoc/)
+
 
 
 ## Ryan | COO
@@ -36,3 +38,6 @@ When I was a kid my life is boring not until I discover this awesome online oppo
 
 ## Bernardino Custorio | PMO
 
+
+
+[linkedin](https://www.linkedin.com/in/bernardinocustorio/)
