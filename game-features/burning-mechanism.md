@@ -4,7 +4,7 @@ We came up with three methods to burn as many inflated tokens as possible.
 
 #### Forging
 
-Creating new weaponry required SGN and RAP all of the tokens required will be automatically sent to the burn address hence reducing the circulating supply.
+Creating new weaponry required SGN and RAP, all of the RAP tokens required will be automatically sent to the burn address hence reducing the circulating supply and all the SGN will be cut in half, 50% to the treasury and 50% to the prize pools for Seasonal and Guild Domination Prize Pool.
 
 #### Heroes
 
