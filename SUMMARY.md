@@ -18,6 +18,7 @@
     * [Corrupted](gamebook/weapons/genesis/corrupted.md)
 * [Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
 * [Forging](gamebook/forging.md)
+* [Sprites System](gamebook/sprites-system.md)
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
 
@@ -33,13 +34,14 @@
 ## GAME FEATURES
 
 * [Guild System](game-features/guild-system/README.md)
+  * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
   * [Guild Domination](game-features/guild-system/guild-domination.md)
 * [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
-  * [Companion Dungeon Quest](game-features/weekly-dungeon-quest/companion-dungeon-quest.md)
+  * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
 * [Arena Battle Royale](game-features/arena-battle-royale.md)
-* [Burning Mechanism](game-features/burning-mechanism.md)
+* [Game Economic](game-features/burning-mechanism.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
 ## TOKENS AND FUNDS INFORMATION

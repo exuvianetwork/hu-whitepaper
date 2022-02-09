@@ -36,7 +36,7 @@ Sourcing & Negotiation of International Bank Instruments not limited to SBLC/BG/
 
 ## Dave "Decimo" Caacoy | Arts and Game Designer/Founder
 
-asdasfafasf
+Dave is an Arts and Game Designer who leads the game named heroes Uprising to bring to life the idea of the team. He is Designing a game that is easy to maintain, expandable, and comfortable to use and especially injecting fun into the users' experience. Also, He is a front-end developer along with Luis to help the needs.
 
 ## Joenard "AH JIN" Magallanes | Social Media Manager/Founder
 
