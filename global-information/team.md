@@ -34,7 +34,7 @@ Sourcing & Negotiation of International Bank Instruments not limited to SBLC/BG/
 
 [linkedin](https://www.linkedin.com/in/bernardinocustorio/)
 
-## Dave | Arts and Game Designer/Founder
+## Dave "Decimo" Caacoy | Arts and Game Designer/Founder
 
 asdasfafasf
 
