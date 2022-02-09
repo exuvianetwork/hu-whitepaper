@@ -18,6 +18,18 @@ Category of the swords element will be determined on the blade.
 
 ![](../.gitbook/assets/273003254\_462047952071439\_9035256204137697450\_n.png)
 
+## **Forging Fees**
+
+| FORGE COUNT | Forge Number | RAP  | SGN |
+| ----------- | ------------ | ---- | --- |
+| **0/5**     | 1            | 1500 | 15  |
+| 1/5         | 2            | 3000 | 15  |
+| 2/5         | 3            | 4500 | 15  |
+| 3/5         | 4            | 6000 | 15  |
+| 4/5         | 5            | 7500 | 15  |
+
+**T**hese figures may change depending on the games economic balance. The RAP and SGN require per forge can change.&#x20;
+
 ## **Genetics**
 
 Swords has 4 parts, each part possesses 4 genes. A dominant (D), major recessive (R1), minor recessive (R2), and hidden recessive gene (R3). The idea comes from a well known game called Axie Infinity and Cryptokitties

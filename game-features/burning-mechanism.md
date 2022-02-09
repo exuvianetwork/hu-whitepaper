@@ -24,9 +24,18 @@ Normal Heroes can be purchased with SGN and RAP. When the marketplace launches, 
 Normal Swords can also be purchased with SGN and RAP, which means that players will be charged at least a 4% fee, of which if the seller list an item on the marketplace for SGN 2% of the fee will go to treasury and the other 2% will go to the prize pool (1% to the Seasonal Prize Pool and 1% to the Guild Domination Prize Pool). And if the seller list an item on the marketplace for RAP 2% of the fee will go to the treasury for community event rewards and the other 2% will be burned reducing the circulating supply.
 {% endhint %}
 
-##
+## Sprite Fusion
 
-\
+{% hint style="info" %}
+All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned.
+{% endhint %}
 
+## Weekly Dungeon Quest
+
+{% hint style="info" %}
+Both Weekly Dungeon Quest (Sprite and Sword) ticket fee will be burned.
+{% endhint %}
+
+## &#x20;
 
 On this way we can always increase its demand without worrying about over circulation.
