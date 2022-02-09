@@ -42,5 +42,5 @@ asdasfafasf
 
 Joenard is in charge on managing our Social Media accounts, bringing you fast and accurate news about Heroes Uprising.
 
-When I was a kid my life is boring not until I discover this awesome online opportunity where you can communicate and play with other people even though you are stranger, I play various games and play some tournaments but that doesn't satisfied me because growing up need money that's why I started to tackle cryptocurrency to start trading but trading alone is not my forte as a gamer and then I heard about this play to earn system and start playing.
+"When I was a kid my life is boring not until I discover this awesome online opportunity where you can communicate and play with other people even though you are stranger. I play various games and play some tournaments but that doesn't satisfied me because growing up you need money that's why I started to tackle cryptocurrency to start trading but trading alone is not my forte as a gamer and then I heard about this play to earn system and start playing."
 
