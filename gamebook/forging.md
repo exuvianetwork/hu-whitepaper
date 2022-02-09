@@ -15,3 +15,5 @@ Sword can be varied at 4 parts and each parts has its designated cards for the g
 While forging this parts will be randomly dismantle to create a new weapon and cards combination within it.
 
 Category of the swords element will be determined on the blade.
+
+![](../.gitbook/assets/273003254\_462047952071439\_9035256204137697450\_n.png)
