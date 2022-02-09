@@ -20,15 +20,18 @@ Category of the swords element will be determined on the blade.
 
 ## **Genetics**
 
-Swords has 4 parts, each part possesses 4 genes. A dominant (D), major recessive (R1), minor recessive (R2), and hidden recessive gene (R3). The idea comes from a well known game called Axie Infinity and Cryptokitties\
-The dominant gene is what determines the part that is physically present on the Sword. When forging, each gene has a chance to be passed down to offspring:
+Swords has 4 parts, each part possesses 4 genes. A dominant (D), major recessive (R1), minor recessive (R2), and hidden recessive gene (R3). The idea comes from a well known game called Axie Infinity and Cryptokitties
 
-**Dominant (D):** 37.5% chance to pass this gene to offspring.
+{% hint style="info" %}
+The dominant gene is what determines the part that is physically present on the Sword. When forging, each gene has a chance to be passed down to the forged weapon:
+{% endhint %}
 
-**Recessive (R1):** 9.375% chance to pass this gene to offspring.
+* **Dominant (D):** 60% chance to pass this gene to the forged weapon.
+* **Major Recessive (R1):**  24.125% **** chance to pass this gene to the forged weapon.
+* **Minor Recessive (R2):**   12.135% chance to pass this gene to the forged weapon.
+* **Hidden Recessive (R3):** 3.74% chance to pass this gene to the forged weapon
 
-**Minor Recessive (R2):** 3.125% chance to pass this gene to offspring.
+## Element Calculation
 
-You can use [this calculator](https://freakitties.github.io/axie/calc.html?sireId=123\&matronId=701) to look up the probabilities when breeding 2 Axies.
+Each forged weapon has 50% chance of inheriting each of the weapon used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
 
-While we don’t show recessive genes on our website yet, you can view them using [this extension](https://chrome.google.com/webstore/detail/freaks-axie-extension/copjnifcecdedocejpaapepagaodgpbh?hl=en) built by one of our community members, Freak.
