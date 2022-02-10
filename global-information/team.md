@@ -2,7 +2,7 @@
 
 ****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021.
 
-## Allan Brando "pwnjabi" Catayoc | CEO/Founder
+## Allan Brando Catayoc | CEO/Founder
 
 Allan manages and directs the company toward its primary goals and objectives. He leads the development and implementation of the overall company strategy.&#x20;
 
@@ -26,7 +26,7 @@ I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front
 
 asdasdasd
 
-## Bernardino "Dino" Custorio | PM/CGO/Founder
+## Bernardino  Custorio | PM/CGO/Founder
 
 Dino is in charge on managing the project itself, he has a broad knowledge in Managing such as:
 
