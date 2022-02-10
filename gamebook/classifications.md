@@ -6,14 +6,6 @@ Which can be seen below
 
 ### Elemental Chart
 
-![](../.gitbook/assets/black---chart-01.png)
-
-
-
-
-
-
-
 | Element | Description                                                        |
 | :-----: | ------------------------------------------------------------------ |
 |   Fire  | Damage Boost against Earth 15% - Damage Decrease against Water 15% |
@@ -22,4 +14,3 @@ Which can be seen below
 |  Earth  | Damage Boost against Air 15% - Damage Decrease against Fire 15%    |
 |  Light  | Damage Boost against Dark 15%                                      |
 |   Dark  | Damage Boost against Light 15%                                     |
-
