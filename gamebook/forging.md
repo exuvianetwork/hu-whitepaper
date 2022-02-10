@@ -45,5 +45,5 @@ The dominant gene is what determines the part that is physically present on the 
 
 ## Element Calculation
 
-Each forged weapon has 50% chance of inheriting each of the weapon used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
+Each forged weapon has 50% chance of inheriting each of the weapons element used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
 
