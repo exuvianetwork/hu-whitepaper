@@ -5,5 +5,5 @@ The world has numerous vast undiscovered dungeons left behind by an ancient civi
 ## Guild Expedition Mechanic
 
 {% hint style="info" %}
-Every 15 days the guild expedition is available for 24 hours limited to 2 entries to enter 50 players must participate one player is assigned per floor every enemy on each floor is randomized as well as what floor the boss is gonna be in if one player fails the expedition then the whole guild receives no reward.
+Every 15 days the guild expedition is available for 24 hours limited to 2 entries to enter 50 players must participate, one player is assigned per floor, every enemy on each floor is randomized as well as what floor the boss is gonna be in if one player fails the expedition then the whole guild receives no reward. So all guild members must cooperate to complete the tasks.
 {% endhint %}
