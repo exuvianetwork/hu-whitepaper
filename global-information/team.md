@@ -1,6 +1,6 @@
 # Team
 
-****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021.
+****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021 that consist of 7 founders that we will be introduced below.
 
 ## Allan Brando Catayoc | CEO/Founder
 
