@@ -2,7 +2,7 @@
 
 Joining a Guild or creating a Guild will give you access to guild tech, expedition and domination, gain more stamina for your heroes and monthly guild tournaments
 
-Guild Expedition obtain various items by clearing world/dungeon in guild expedition with the help of all the members in the guild, the guild members or all of the participant should finish the expedition within the given amount of time.
+Obtain various items by clearing world/dungeon in guild expedition with the help of all the members in the guild, the guild members or all of the participant should finish the expedition within the given amount of time.
 
 {% hint style="danger" %}
 Guild Expedition requirements

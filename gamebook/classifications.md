@@ -6,6 +6,8 @@ Which can be seen below
 
 ### Elemental Chart
 
+![](../.gitbook/assets/273244582\_483834619814750\_7762905199245026995\_n.png)
+
 | Element | Description                                                        |
 | :-----: | ------------------------------------------------------------------ |
 |   Fire  | Damage Boost against Earth 15% - Damage Decrease against Water 15% |
