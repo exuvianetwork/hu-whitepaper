@@ -26,7 +26,7 @@ I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front
 
 asdasdasd
 
-## Bernardino "Dino" Custorio | PM/Founder
+## Bernardino "Dino" Custorio | PM/CGO/Founder
 
 Dino is in charge on managing the project itself, he has a broad knowledge in Managing such as:
 
