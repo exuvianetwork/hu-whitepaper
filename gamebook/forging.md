@@ -20,13 +20,13 @@ Category of the swords element will be determined on the blade.
 
 ## **Forging Fees**
 
-| FORGE COUNT | Forge Number | RAP  | SGN |
-| ----------- | ------------ | ---- | --- |
-| **0/5**     | 1            | 1500 | 15  |
-| 1/5         | 2            | 3000 | 15  |
-| 2/5         | 3            | 4500 | 15  |
-| 3/5         | 4            | 6000 | 15  |
-| 4/5         | 5            | 7500 | 15  |
+| FORGE COUNT | Forge Number | RAP | SGN |
+| ----------- | ------------ | --- | --- |
+| **0/5**     | 1            | 150 | 7.5 |
+| 1/5         | 2            | 300 | 7.5 |
+| 2/5         | 3            | 450 | 7.5 |
+| 3/5         | 4            | 600 | 7.5 |
+| 4/5         | 5            | 750 | 7.5 |
 
 **T**hese figures may change depending on the games economic balance. The RAP and SGN require per forge can change.&#x20;
 

@@ -19,3 +19,17 @@ Once both players click the Attack Button the battle will begin.
 ## Seasonal System
 
 We will conduct a seasonal system for 3 months, those who are in the leaderboard will have a portion on the seasonal prize pool. So grind to the top to be the best Weapon Wielder of Mydoslyne.
+
+## MMR Brackets and RAP rewards:
+
+| MMR       | RAP REWARDS   |
+| --------- | ------------- |
+| 0-999     | 1 PER WIN     |
+| 1000-1199 | 3 PER WIN     |
+| 1200-1399 | 5 PER WIN     |
+| 1400-1599 | 7 PER WIN     |
+| 1600-1799 | 12-8 PER WIN  |
+| 1800-1999 | 16-13 PER WIN |
+| 2000-2499 | 20-17 PER WIN |
+| 2500-2999 | 25-21 PER WIN |
+| 3000+     | 30-26 PER WIN |
