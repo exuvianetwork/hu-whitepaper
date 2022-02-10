@@ -36,6 +36,10 @@ All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned.
 Both Weekly Dungeon Quest (Sprite and Sword) ticket fee will be burned.
 {% endhint %}
 
-## &#x20;
+## Guild Tech
+
+{% hint style="info" %}
+All of the resources (RAP) needs in order to upgrade a certain Guild Tech will be burned.
+{% endhint %}
 
 On this way we can always increase its demand without worrying about over circulation.
