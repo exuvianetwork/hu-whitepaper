@@ -41,7 +41,7 @@
   * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
 * [Arena Battle Royale](game-features/arena-battle-royale.md)
-* [Game Economic](game-features/burning-mechanism.md)
+* [Game Economic](game-features/game-economic.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
 ## TOKENS AND FUNDS INFORMATION
