@@ -41,7 +41,7 @@ Rigid Scrolls are for managers who have surplus NFT's or Assets that are just si
 Managers must specify the time frame in which the NFT can be used or played with on the marketplace, as well as the leasing charge upon listing.
 
 {% hint style="info" %}
-e.g. 3 Earth weapon + 3 Earth Hero = 100 IGN cost for 1 week leasing
+e.g. 3 Earth weapon + 3 Earth Hero = 100 SGN cost for 1 week leasing
 {% endhint %}
 
 The player of the leased Assets will receive 100% of the total revenue throughout the leasing time. When the leasing period ends, the player will no longer have access to the leased Assets.
