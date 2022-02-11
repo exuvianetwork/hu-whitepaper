@@ -50,6 +50,7 @@
   * [Insignia (SGN)](tokens-and-funds-information/tokenomics/insignia-sgn.md)
   * [Rare Amethyst Particle (RAP)](tokens-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
 * [Token Vesting Schedule](tokens-and-funds-information/token-release-schedule.md)
+* [Sale Information](tokens-and-funds-information/sale-information.md)
 * [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
   * [Seed Sale](tokens-and-funds-information/funds-breakdown/seed-sale.md)
   * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
