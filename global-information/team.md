@@ -1,6 +1,6 @@
 # Team
 
-****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021 that consist of 7 founders that we will be introduced below.
+****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021 that consist of 7 founders that are introduced below.
 
 ## Allan Brando Catayoc | CEO/Founder
 
@@ -14,9 +14,9 @@ Before Heroes Uprising he is an avid Crypto Investor in some start up company in
 
 
 
-## Ryan | COO/Founder
+## Ryan "Rime" Panuncia | COO/Founder
 
-A solid supporter of Ethereum, a Crypto Advisor & Investor, an Article Creator, a Crypto Enthusiast Investor, & has a 6 years of experience on investing crypto.
+Ryan the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups and downs has given me ideas on how to make this game sustainable, especially with my experiences with NFT games. I am competent and confident in my knowledge of cryptocurrency that my knowledge will help in solving problems such as an "economy problem and inflation of the utility token" that will benefit Heroes Uprising and its player base.
 
 ## Luis "CoCoButter" Panta | CTO/Founder
 
