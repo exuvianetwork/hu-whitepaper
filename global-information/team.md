@@ -1,6 +1,6 @@
 # Team
 
-****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021 that consist of 7 founders that are introduced below.
+****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021. It consist of 7 founders that are introduced below.
 
 ## Allan Brando Catayoc | CEO/Founder
 
@@ -26,7 +26,7 @@ I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front
 
 Ainol an Information Technology graduate heads the game development of Heroes Uprising. He loves playing games as much as making them. He has been making games ever since he learned programming upon entering college using different programming languages. Heroes Uprising is he's biggest challenge yet and the team will strive to create the best fantasy-themed cryptocurrency game.
 
-## Bernardino  Custorio | PM/CGO/Founder
+## Bernardino "Dino"  Custorio | PM/CGO/Founder
 
 Dino is in charge on managing the project itself, he has a broad knowledge in Managing such as:
 
