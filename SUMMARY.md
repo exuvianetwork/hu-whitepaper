@@ -44,21 +44,22 @@
 * [Game Economic](game-features/game-economic.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
-## TOKENS AND FUNDS INFORMATION
+## TOKENS, SALE, AND FUNDS INFORMATION
 
-* [Tokenomics](tokens-and-funds-information/tokenomics/README.md)
-  * [Insignia (SGN)](tokens-and-funds-information/tokenomics/insignia-sgn.md)
-  * [Rare Amethyst Particle (RAP)](tokens-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
-* [Token Vesting Schedule](tokens-and-funds-information/token-release-schedule.md)
-* [Sale Information](tokens-and-funds-information/sale-information.md)
-* [Funds Breakdown](tokens-and-funds-information/funds-breakdown/README.md)
-  * [Seed Sale](tokens-and-funds-information/funds-breakdown/seed-sale.md)
-  * [Private Sale](tokens-and-funds-information/funds-breakdown/private-sale.md)
-  * [Public Sale](tokens-and-funds-information/funds-breakdown/public-sale.md)
-  * [Development Funds Breakdown](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/README.md)
-    * [Seed Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/seed-sale-development.md)
-    * [Private Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
-    * [Public Sale (DEVELOPMENT)](tokens-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
+* [Tokenomics](tokens-sale-and-funds-information/tokenomics/README.md)
+  * [Insignia (SGN)](tokens-sale-and-funds-information/tokenomics/insignia-sgn.md)
+  * [Rare Amethyst Particle (RAP)](tokens-sale-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
+* [Token Vesting Schedule](tokens-sale-and-funds-information/token-release-schedule.md)
+* [Sale Information](tokens-sale-and-funds-information/sale-information.md)
+* [Founding NFT Sale](tokens-sale-and-funds-information/founding-nft-sale.md)
+* [Funds Breakdown](tokens-sale-and-funds-information/funds-breakdown/README.md)
+  * [Seed Sale](tokens-sale-and-funds-information/funds-breakdown/seed-sale.md)
+  * [Private Sale](tokens-sale-and-funds-information/funds-breakdown/private-sale.md)
+  * [Public Sale](tokens-sale-and-funds-information/funds-breakdown/public-sale.md)
+  * [Development Funds Breakdown](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/README.md)
+    * [Seed Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/seed-sale-development.md)
+    * [Private Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
+    * [Public Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
 
 ## GLOBAL INFORMATION
 
