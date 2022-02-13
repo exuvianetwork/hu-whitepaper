@@ -2,6 +2,14 @@
 
 > We came up with these methods to burn as many inflated tokens as possible and to put funds on our treasury to sustain support of the never ending development of the team.
 
+## Minting Heroes
+
+By minting heroes you can get your own random hero.&#x20;
+
+{% hint style="info" %}
+All the fee that is required on minting will be burned.
+{% endhint %}
+
 ## Marketplace Forging
 
 We know we can't settle for less so we forge weaponry to achieve or attain some rare weaponry.&#x20;
