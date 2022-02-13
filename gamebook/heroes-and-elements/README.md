@@ -6,4 +6,4 @@ Although heroes can employ opposing elemental weapons, each hero and weapon has 
 
 ###
 
-![](../../.gitbook/assets/273083118\_742158360092661\_5449170953364504536\_n.png)
+![](../../.gitbook/assets/273522564\_470749538011857\_8066609477723809255\_n.png)
