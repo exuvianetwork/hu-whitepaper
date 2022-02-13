@@ -12,15 +12,15 @@
     * [Wind element](gamebook/heroes-and-elements/heroes/wind-element.md)
     * [Light element](gamebook/heroes-and-elements/heroes/light-element.md)
     * [Dark element](gamebook/heroes-and-elements/heroes/dark-element.md)
-* [Weapons](gamebook/weapons/README.md)
-  * [Founding Swords](gamebook/weapons/genesis/README.md)
-    * [Heroic](gamebook/weapons/genesis/heroic.md)
-    * [Corrupted](gamebook/weapons/genesis/corrupted.md)
 * [Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
 * [Forging](gamebook/forging.md)
 * [Sprites System](gamebook/sprites-system.md)
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
+* [Weapons](gamebook/weapons/README.md)
+  * [Founding Swords](gamebook/weapons/founding/README.md)
+    * [Heroic](gamebook/weapons/founding/heroic.md)
+    * [Corrupted](gamebook/weapons/founding/corrupted.md)
 
 ## Cards
 
