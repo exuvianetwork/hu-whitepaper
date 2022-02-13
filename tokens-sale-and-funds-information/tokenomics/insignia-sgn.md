@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/INSIGNIA-symbol111.png)
 
-Insignia (SGN), a ERC20 token, is the governance token for Heroes Uprising. Having SGN allows its users the ability to vote on modifications to the projects future, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing normal swords and heroes.
+Insignia (SGN), a ERC20 token, is the governance token for Project Exuvia that is used on Heroes Uprising. Having SGN allows its users the ability to vote on modifications to the projects future, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing Sword NFT, Heroes NFT, and Sprites. It is also a requirement for forging Sword NFT and Sprite Fusions..
 
 ### SGN Tokenomics
 
@@ -17,7 +17,7 @@ Insignia (SGN), a ERC20 token, is the governance token for Heroes Uprising. Havi
 | Contract Address | TBA                |
 
 {% hint style="info" %}
-only 1% of the total max supply will be generated as a initial supply and the rest will be generated through staking.
+only 1% of the total max supply will be generated as an initial supply and the rest will be generated through staking.
 {% endhint %}
 
 ### Token Breakdown
