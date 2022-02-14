@@ -31,8 +31,10 @@
 
 ## GAME FEATURES
 
-* [Forging System](game-features/forging-system.md)
-* [Sprites System](game-features/sprites-system.md)
+* [Stamina System](game-features/stamina-system.md)
+* [Durability System](game-features/durability-system.md)
+* [Forging System](gamebook/forging.md)
+* [Sprites System](gamebook/sprites-system.md)
 * [Guild System](game-features/guild-system/README.md)
   * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
