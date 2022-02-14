@@ -50,4 +50,10 @@ Both Weekly Dungeon Quest (Sprite and Sword) ticket fee will be burned.
 All of the resources (RAP) needs in order to upgrade a certain Guild Tech will be burned.
 {% endhint %}
 
+## Durability Replenish Potion
+
+{% hint style="info" %}
+All RAP that is used to purchased potion will be burned automatically.
+{% endhint %}
+
 On this way we can always increase its demand without worrying about over circulation.

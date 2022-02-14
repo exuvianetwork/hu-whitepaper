@@ -4,7 +4,7 @@ Each Sword NFT has its own Durability, this will indicate your progress on the g
 
 ### How can I replenish my Swords Durability?
 
-You can replenish your Swords Durability by purchasing a potion that can be purchased using RAP. Each swords need one potion to replenish its durability to 100%.
+You can replenish your Swords Durability by purchasing a potion that can be purchased using RAP on the marketplace. Each swords need one potion to replenish its durability to 100%.
 
 ### What is the max durability of the sword?
 
