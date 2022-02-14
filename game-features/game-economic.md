@@ -1,6 +1,6 @@
-# Game Economic
+# Game Economic Balance
 
-> We came up with these methods to burn as many inflated tokens as possible and to put funds on our treasury to sustain support of the never ending development of the team.
+We came up with these methods to burn as many inflated tokens as possible and to put funds on our treasury to sustain support of the never ending development of the team.
 
 ## Minting Heroes
 
@@ -23,13 +23,13 @@ Creating new weaponry required SGN and RAP, all of the RAP tokens required will 
 Heroes are is basic requirements on playing Heroes Uprising. They will be the one who wields swords and make you a victorious champion.
 
 {% hint style="info" %}
-Normal Heroes can be purchased with SGN and RAP. When the marketplace launches, it will charge at least 4% of its users as a fee, of which if the seller list an item on the marketplace for SGN 2% of the fee will go to treasury and the other 2% will go to the prize pool (1% to the Seasonal Prize Pool and 1% to the Guild Domination Prize Pool). And if the seller list an item on the marketplace for RAP 2% of the fee will go to the treasury for community event rewards and the other 2% will be burned reducing the circulating supply.
+Normal Heroes can be purchased with SGN. When the marketplace launches, it will charge at least 4% of its users as a fee, all SGN fees will be burned reducing the circulating supply.
 {% endhint %}
 
 ## Marketplace Swords&#x20;
 
 {% hint style="info" %}
-Normal Swords can also be purchased with SGN and RAP, which means that players will be charged at least a 4% fee, of which if the seller list an item on the marketplace for SGN 2% of the fee will go to treasury and the other 2% will go to the prize pool (1% to the Seasonal Prize Pool and 1% to the Guild Domination Prize Pool). And if the seller list an item on the marketplace for RAP 2% of the fee will go to the treasury for community event rewards and the other 2% will be burned reducing the circulating supply.
+Normal Swords can also be purchased with SGN and RAP, which means that players will be charged at least a 4% fee, of which if the seller list an item on the marketplace for SGN 2% of the fee will go to treasury and the other 2% will go to the prize pool (1% to the Seasonal Prize Pool and 1% to the Guild Domination Prize Pool). And if the seller list an item on the marketplace for RAP, all SGN fees will be burned reducing the circulating supply.
 {% endhint %}
 
 ## Sprite Fusion

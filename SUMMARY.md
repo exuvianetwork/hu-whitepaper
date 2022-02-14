@@ -13,8 +13,6 @@
     * [Light element](gamebook/heroes-and-elements/heroes/light-element.md)
     * [Dark element](gamebook/heroes-and-elements/heroes/dark-element.md)
 * [Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
-* [Forging](gamebook/forging.md)
-* [Sprites System](gamebook/sprites-system.md)
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
 * [Weapons](gamebook/weapons/README.md)
@@ -33,6 +31,8 @@
 
 ## GAME FEATURES
 
+* [Forging System](game-features/forging-system.md)
+* [Sprites System](game-features/sprites-system.md)
 * [Guild System](game-features/guild-system/README.md)
   * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
@@ -41,7 +41,7 @@
   * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
 * [Arena Battle Royale](game-features/arena-battle-royale.md)
-* [Game Economic](game-features/game-economic.md)
+* [Game Economic Balance](game-features/game-economic.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
 ## TOKENS, SALE, AND FUNDS INFORMATION
