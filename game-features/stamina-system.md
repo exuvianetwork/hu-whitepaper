@@ -4,9 +4,11 @@ Stamina is the main factor on earning RAP in Heroes Uprising, once you start pla
 
 The amount of Stamina you receive prevents players from earning huge amount of RAP, as it can affect our in-game economy. But you can increase your Stamina limit per day if you obtain more Swords and store it on your respective wallet.
 
-| SWORDS OBTAIN | STAMINA LIMIT |
-| ------------- | ------------- |
-| 3-9           | 30/30         |
-| 10-19         | 40/40         |
-| 20-29         | 50/50         |
-| 30 - OR MORE  | 60/60         |
+You can also increase your Stamina limit once you Join a guild. more info [here](https://docs.heroesuprising.com/game-features/guild-system)
+
+| SWORDS OBTAIN | STAMINA LIMIT       |
+| ------------- | ------------------- |
+| 3-9           | 30/30 + GUILD BONUS |
+| 10-19         | 40/40 + GUILD BONUS |
+| 20-29         | 50/50 + GUILD BONUS |
+| 30 - OR MORE  | 60/60 + GUILD BONUS |
