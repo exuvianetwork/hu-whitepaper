@@ -1,25 +1,22 @@
 # Fire Element
 
-### Crimson Blade
 
-* **Inflammation** - Apply Burn to this character, Gain 1 Mana, Base Damage 60, Base Armor 40, Mana Cost 0
-* **Hell Fire** - Disable Healing for 1 round, Base Damage 80, Base Armor 50, Mana Cost 1
 
-### Flare Guard
-
-* **Embodiement of Flame** - If used against an earth character deal 50% more damage and remove 1 Mana. Base Damage 100, Base Armor 0, Mana Cost 1
-* **Plasma** - Increase damage by 30% if target has burn, Base Damage 80, Base Armor 20, Mana Cost 1
-
-### Inferno Grip
-
-* **Spit Fire** - Apply Atk Boost to this character if attacking an earth character, Base Damage 90, Base Armor 0, Mana Cost 1
-
-### Pyre Pommel
-
-* **Blazing Pillar** - Apply Burn, Apply Pacify, Deal 80 damage to this character, Skip nearest character, Base Damage 90, Base Armor 0, Mana Cost 1
-* **Point Blast** - Deal 20% increased damage if target is earth, Base Damage 80, Base Armor 30, Mana Cost 1
-* **Expanding Blaze** - Apply atk boost to this character for 2 turns if attacked, Base Damage 100, Base Armor 15, Mana Cost 1
-* **Fire Coat** - Apply burn to all attacks, Base Damage 0, Base Armor 30, Mana Cost 1
-* **Healing Fire** - For every stack of burn on the target heal 3% of max hp, Base Damage 60, Base Armor 50, Mana Cost 1
-* **Heat Immunity** - Remove all burn stacks on self and apply speed boost, Base Damage 0, Base Armor 80, Mana Cost 1
-
+| **Ability Names**                                               |          **Description**                                                                            | **Base Damage** | **Mana Cost** | **Base Armor** |   **Buff**  |  **Debuff** |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :---------: | :---------: |
+| <p>Inflammation (Melee) - </p><p><strong>(Pommel)</strong></p>  | Apply Burn to this character. Gain 1 mana.                                                          |        20       |       0       |       40       |             |     Burn    |
+| <p>Hell Fire (Range) - </p><p><strong>(Guard)</strong></p>      | Apply Curse to the target.                                                                          |        95       |       1       |       50       |             |    Cursed   |
+| Embodiement of Flame (Melee) - **(Blade)**                      | If used against an earth character, it deals 20% more damage.                                       |        35       |       0       |        0       |             |             |
+| <p>Plasma (Range) - </p><p><strong>(Guard)</strong></p>         | Increase damage by 30% if target has burn.                                                          |        70       |       1       |       20       |             |             |
+| <p>Spit Fire (Range) - </p><p><strong>(Guard)</strong></p>      | Apply Atk Boost to this character if attacking an earth character.                                  |        80       |       1       |        0       |  Atk Boost  |             |
+| <p>Blazing Pillar (Melee) - </p><p><strong>(Blade)</strong></p> | Skip the nearest character. Apply Burn, Pacify, to the target. This character will take 50 damage.  |       110       |       1       |        0       |             | Burn,Pacify |
+| <p>Point Blast (Melee) - </p><p>(Pom<strong>mel)</strong></p>   | Deal 20% increased damage if target is earth.                                                       |        80       |       1       |       30       |             |             |
+| Expanding Blaze (Melee) - **(Pommel)**                          | Apply an atk boost to this character for 2 turns if attacked.                                       |        50       |       1       |       20       |  Atk Boost  |             |
+| <p>Fire Coat - </p><p><strong>(Pommel)</strong></p>             | Apply a 40% chance to burn on attack for 2 turns.                                                   |        0        |       1       |       30       |             |     Burn    |
+| <p>Healing Fire (Melee) - </p><p><strong>(Blade)</strong></p>   | For every stack of burn on the target, heal 3% of max hp.                                           |        35       |       1       |       50       |     Heal    |             |
+| <p>Heat Immunity - </p><p><strong>(Grip)</strong></p>           | Remove all burn stacks on self and apply speed boost.                                               |        0        |       1       |       70       | Speed Boost |             |
+| <p>Firebolt (Range) - </p><p><strong>(Grip)</strong></p>        | Draw a card if this character is under 50% HP.                                                      |        90       |       1       |       20       |             |             |
+| <p>Blaze Bind (Melee) - </p><p><strong>(Grip)</strong></p>      | Apply paralysis to the target for 2 rounds.                                                         |        75       |       1       |       25       |             |  Paralysis  |
+| <p>Flash (Range) - </p><p><strong>(Guard)</strong></p>          | Discard 1 card from the enemy's hand.                                                               |        15       |       0       |       10       |             |             |
+| <p>Combat Mastery - </p><p><strong>(Grip)</strong></p>          | Apply Atk boost.                                                                                    |        0        |       0       |       40       |  Atk Boost  |             |
+| <p>Fast Grab (Melee) - </p><p><strong>(Blade)</strong></p>      | Steal 1 Mana from the enemy if used with another fire card.                                         |        60       |       1       |        0       |             |             |
