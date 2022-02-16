@@ -1,24 +1,19 @@
 # Dark Element
 
-### Dire Blade
-
-* **Dark Alleviate** - Disable Healing cards next turn, Base Damage 60, Base Armor 40, Mana Cost 1
-* Corrosion - Apply Defense Break, Exposed, Base Damage 15, Base Armor 30, Mana Cost 1
-
-### Untamed Guard
-
-* **Dark Nebula** -Apply Pacify, Base Damage 70, Base Armor 40, Mana Cost 1
-* **Black Hole** - Apply Defense Break, Apply Paralysis, Base Damage 20, Base Armor 0, Mana Cost 1
-
-### Grim Grip
-
-* **Sneak Attack** - Ignore Closest character, Apply Bleed, Base Damage 60, Base Armor 0, Mana Cost 1
-
-### Nightfall Pommel
-
-* **Deadly Whisper** - Apply Non Threat, Base Damage 0, Base Armor 0, Mana Cost 1
-* **Evil Entity** - Apply speed boost to this character, Base Damage 100, Base Armor 20, Mana Cost 1
-* **Deep Cut** - Apply two stacks of bleed, Base Damage 80, Base Armor 0, Mana Cost 1
-* **Empowered** - If this character's HP is below 50% increase damage by 25%, Base Damage 100, Base Armor 20, Mana Cost 1
-* **Desolate** - Ignore target's armor if health is 50% below, Base Damage 90, Base Armor 0, Mana Cost 1
-* **Nullified Shield** - Heal 100 hp if this characters shield breaks, Base Damage 0, Base Armor 90, Mana Cost 1
+| **Ability Names**                                                |                      **Description**                                                  | **Base Damage** | **Mana** | **Base Armor** |   **Buff**  |      **Debuff**      |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- | :-------------: | :------: | :------------: | :---------: | :------------------: |
+| <p>Dark Alleviate (Melee) - </p><p><strong>(Blade)</strong></p>  | Apply Cursed for 2 turns.                                                             |        90       |     1    |       30       |             |        Cursed        |
+| <p>Corrosion (Range) - </p><p><strong>(Grip)</strong></p>        | Apply Exposed if used with two other Dark cards                                       |        40       |     1    |       30       |             |        Exposed       |
+| <p>Dark Nebula (Range) - </p><p><strong>(Guard)</strong></p>     | Apply Pacify to the target.                                                           |        15       |     0    |       35       |             |        Pacify        |
+| <p>Black Hole (Range) - </p><p><strong>(Grip)</strong></p>       | Apply Confusion, Paralysis to the target. if used with two other dark cards.          |        70       |     1    |        0       |             | Confusion, Paralysis |
+| <p>Sneak Attack (Melee) - </p><p><strong>(Grip)</strong></p>     | Ignore the closest character. Apply Bleed.                                            |        60       |     1    |        0       |             |         Bleed        |
+| <p>Deadly Whisper - </p><p><strong>(Grip)</strong></p>           | Apply non threat to the target.                                                       |        20       |     1    |       110      |             |      Non Threat      |
+| <p>Evil Entity (Melee) - </p><p><strong>(Blade)</strong></p>     | Apply a speed boost to this character.                                                |       100       |     1    |       20       | Speed Boost |                      |
+| <p>Deep Cut (Melee) - </p><p><strong>(Blade)</strong></p>        | Apply bleed to the target.                                                            |        70       |     1    |        0       |             |         Bleed        |
+| <p>Empowered (Melee) - </p><p><strong>(Blade)</strong></p>       | If this character's HP is below 40%, increase damage by 25%.                          |       100       |     1    |       30       |             |                      |
+| <p>Desolate (Melee) - </p><p><strong>(Pommel)</strong></p>       | Ignore the target's armor if this character's health is 40% below.                    |        90       |     1    |        0       |             |                      |
+| <p>Nullified Shield - </p><p><strong>(Pommel)</strong></p>       | Heal 100 hp if this character's shield breaks.                                        |        0        |     1    |       45       |     Heal    |                      |
+| <p>Baryon Nuclei (Range) - </p><p><strong>(Guard)</strong></p>   | If this character is slower than the target, attack twice.                            |        35       |     0    |       40       |             |                      |
+| <p>Endless Abyss (Range) - </p><p><strong>(Guard)</strong></p>   | Increase the damage of this card by 20% if this character is debuffed.                |        90       |     1    |        0       |             |                      |
+| <p>Pit of Despair (Melee) - </p><p><strong>(Pommel)</strong></p> | Removes all debuffs from the enemy. For every debuff removed, increases damage by 5%. |       105       |     1    |        0       |             |                      |
+| <p>Ultimate Evil (Melee) - </p><p>(<strong>Pommel)</strong></p>  | When attacking a light character, the damage is increased by 35%.                     |        90       |     1    |       20       |             |                      |
