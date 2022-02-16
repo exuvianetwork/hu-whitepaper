@@ -20,16 +20,21 @@ Once both players click the Attack Button the battle will begin.
 
 We will conduct a seasonal system for 3 months, those who are in the leaderboard will have a portion on the seasonal prize pool. So grind to the top to be the best Weapon Wielder of Mydoslyne.
 
-## MMR Brackets and RAP rewards:
+## Rank, MMR Brackets and RAP rewards:
 
-| MMR       | RAP REWARDS   |
-| --------- | ------------- |
-| 0-999     | 1 PER WIN     |
-| 1000-1199 | 3 PER WIN     |
-| 1200-1399 | 5 PER WIN     |
-| 1400-1599 | 7 PER WIN     |
-| 1600-1799 | 12-8 PER WIN  |
-| 1800-1999 | 16-13 PER WIN |
-| 2000-2499 | 20-17 PER WIN |
-| 2500-2999 | 25-21 PER WIN |
-| 3000+     | 30-26 PER WIN |
+| Ranking      | MMR         | RAP REWARDS   |
+| ------------ | ----------- | ------------- |
+| Peasant      | 749 Below   | NO REWARD     |
+| Squire I     | 750 - 949   | 1 PER WIN     |
+| Squire II    | 950 - 1149  | 2 PER WIN     |
+| Squire III   | 1150 -1349  | 3 PER WIN     |
+| Knight I     | 1350 - 1549 | 9-4 PER WIN   |
+| Knight II    | 1550 - 1749 | 12-10 PER WIN |
+| Knight III   | 1750 - 1949 | 15-13 PER WIN |
+| Champion I   | 1950 - 2149 | 20-16 PER WIN |
+| Champion II  | 2150 - 2349 | 23-21 PER WIN |
+| Champion III | 2350 - 2549 | 25-24 PER WIN |
+| Hero I       | 2550 - 2699 | 28-26 PER WIN |
+| Hero II      | 2700 - 2849 | 30-29 PER WIN |
+| Hero III     | 2850 - 2999 | 34-31 PER WIN |
+| Legend       | 3000 +      | 35 PER WIN    |
