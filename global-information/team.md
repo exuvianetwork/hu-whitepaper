@@ -1,8 +1,8 @@
 # Team
 
-****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021. It consist of 7 founders that are introduced below.
+****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021.
 
-## Allan Brando Catayoc | CEO/Founder
+## Allan Brando Catayoc | CEO/ Founder
 
 Allan manages and directs the company toward its primary goals and objectives. He leads the development and implementation of the overall company strategy.&#x20;
 
@@ -14,19 +14,19 @@ Before Heroes Uprising he is an avid Crypto Investor in some start up company in
 
 
 
-## Ryan "Rime" Panuncia | COO/Founder
+## Ryan "Rime" Panuncia | COO/ Co-Founder
 
 Ryan the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups and downs has given me ideas on how to make this game sustainable, especially with my experiences with NFT games. I am competent and confident in my knowledge of cryptocurrency that my knowledge will help in solving problems such as an "economy problem and inflation of the utility token" that will benefit Heroes Uprising and its player base.
 
-## Luis "CoCoButter" Panta | CTO/Founder
+## Luis "CoCoButter" Panta | CTO/ Co-Founder
 
 I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front-end developers and game designer. He leads our technical team and is responsible for our technical operations.
 
-## Ainol Obando | CIO/Founder
+## Ainol Obando | CIO
 
 Ainol an Information Technology graduate heads the game development of Heroes Uprising. He loves playing games as much as making them. He has been making games ever since he learned programming upon entering college using different programming languages. Heroes Uprising is he's biggest challenge yet and the team will strive to create the best fantasy-themed cryptocurrency game.
 
-## Bernardino "Dino"  Custorio | PM/CGO/Founder
+## Bernardino "Dino"  Custorio | CGO
 
 Dino is in charge on managing the project itself, he has a broad knowledge in Managing such as:
 
@@ -34,11 +34,11 @@ Sourcing & Negotiation of International Bank Instruments not limited to SBLC/BG/
 
 [linkedin](https://www.linkedin.com/in/bernardinocustorio/)
 
-## Dave "Decimo" Caacoy | Arts and Game Designer/Founder
+## Dave "Decimo" Caacoy | Arts and Game Designer
 
 Dave is an Arts and Game Designer who leads the game named heroes Uprising to bring to life the idea of the team. He is Designing a game that is easy to maintain, expandable, and comfortable to use and especially injecting fun into the users' experience. Also, He is a front-end developer along with Luis to help the needs.
 
-## Joenard "AH JIN" Magallanes | Social Media Manager/Founder
+## Joenard "AH JIN" Magallanes | Social Media Manager
 
 Joenard is in charge on managing our Social Media accounts, bringing you fast and accurate news about Heroes Uprising.
 
