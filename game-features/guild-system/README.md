@@ -1,6 +1,6 @@
 # Guild System
 
-Joining a Guild or creating a Guild will give you access to guild tech, Guild expedition and Guild domination.
+Joining or creating a Guild will grant you access to guild tech, guild expedition and guild domination.
 
 {% content-ref url="guild-tech.md" %}
 [guild-tech.md](guild-tech.md)
