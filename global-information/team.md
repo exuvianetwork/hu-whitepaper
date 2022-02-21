@@ -10,7 +10,7 @@ He helps also on Front-end Developing on Heroes Uprising.
 
 Before Heroes Uprising he is an avid Crypto Investor in some start up company in the crypto world. Also a Guild Leader of some _**Play to Earn**_ games together with his wife.&#x20;
 
-[linkedin](https://www.linkedin.com/in/allanbrandocatayoc/) / [twitter](https://twitter.com/pwnjabi\_gg)
+[linkedin](https://www.linkedin.com/in/allanbrandocatayoc/) / [twitter](https://twitter.com/allanbrando\_gg)
 
 
 
