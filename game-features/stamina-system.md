@@ -1,10 +1,10 @@
 # Stamina System
 
-Stamina is the main factor on earning RAP in Heroes Uprising, once you start playing you will receive 20 stamina per day that will reset every 12:00 GMT +8. Once you enters Arena Battle Royal a Stamina will be consumed whether the player was successful or not.
+Stamina is the main factor on earning RAP in Heroes Uprising, once the players start playing they will receive 20 stamina per day that will reset every 12:00 GMT +8. Once the players enters the Arena Battle Royal a Stamina will be consumed whether the players was successful or not.
 
-The amount of Stamina you receive prevents players from earning huge amount of RAP, as it can affect our in-game economy. But you can increase your Stamina limit per day if you obtain more Swords and store it on your respective wallet.
+The amount of Stamina players receive prevents players from earning huge amount of RAP, as it can affect our in-game economy. But players can increase your Stamina limit per day if they obtain more Swords and store it in their respective wallet.
 
-You can also increase your Stamina limit once you Join a guild. more info [here](https://docs.heroesuprising.com/game-features/guild-system)
+Players can also increase Stamina limit once they Join a guild. more info [here](https://docs.heroesuprising.com/game-features/guild-system)
 
 | SWORDS OBTAIN | STAMINA LIMIT       |
 | ------------- | ------------------- |

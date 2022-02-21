@@ -45,7 +45,11 @@ The dominant gene is what determines the part that is physically present on the 
 
 ## Element Calculation
 
-Each forged weapon has 50% chance of inheriting each of the weapons element used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
+Each forged weapon has a 50% chance of inheriting each of the weapons element used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
+
+## Forging Event
+
+We invoke a forging event to balance the economic growth of RAP and our Swords. Players can't forge if it is not the Forging Event time yet. We have 2 forging event per Month, every 12th and 24th day of the month (GMT +8) lasting for 24 hours. This method will be a big factor on minting RAP and Swords.
 
 
 
