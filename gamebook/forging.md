@@ -8,7 +8,7 @@ If you want a better card combination, you can forge new weapons, exactly as in 
 Players can only forge their weapons five times with every forge increasing the SGN And RAP required.
 {% endhint %}
 
-## Sword parts
+## Sword Parts
 
 Sword can be varied at 4 parts and each parts has its designated cards for the game
 
@@ -22,11 +22,11 @@ Category of the swords element will be determined on the blade.
 
 | FORGE COUNT | Forge Number | RAP | SGN |
 | ----------- | ------------ | --- | --- |
-| **0/5**     | 1            | 750 | 1   |
-| 1/5         | 2            | 600 | 1   |
+| **0/5**     | 1            | 150 | 1   |
+| 1/5         | 2            | 300 | 1   |
 | 2/5         | 3            | 450 | 1   |
-| 3/5         | 4            | 300 | 1   |
-| 4/5         | 5            | 150 | 1   |
+| 3/5         | 4            | 600 | 1   |
+| 4/5         | 5            | 750 | 1   |
 
 These figures may change depending on the games economic balance. The RAP and SGN require per forge can change.&#x20;
 
