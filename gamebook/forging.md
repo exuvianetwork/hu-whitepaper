@@ -65,7 +65,7 @@ _A player list a collab pair on the market which has 0/5 and 0/5 forge count tha
 
 ## Cooldown Times
 
-We invoke a cooldown time for gifting, forging, and for the forged weapon.
+We invoke a cooldown time for gifting, forging, and smelting.
 
 ### Gifting
 
@@ -87,29 +87,29 @@ We have a forging cooldown to balance the growth of swords.
 | 3/5         | 24             |
 | 4/5         | 12             |
 
-### Forged Weapons
+### Smelting
 
-We have forged weapons cooldown depends on the forge count of the parent. Below are the waiting time to be forged.
+We have smelting time depends on the forge count of the parent. Below are smelting time per forge count.
 
 > _Every forge count will decrease 24 hours of the waiting time to be forged._
 
-| FORGE COUNT | FORGE TIME (HRS) |
-| ----------- | ---------------- |
-| 0/5         | 144              |
-| 1/5         | 120              |
-| 2/5         | 96               |
-| 3/5         | 72               |
-| 4/5         | 48               |
+| FORGE COUNT | SMELTING TIME (HRS) |
+| ----------- | ------------------- |
+| 0/5         | 144                 |
+| 1/5         | 120                 |
+| 2/5         | 96                  |
+| 3/5         | 72                  |
+| 4/5         | 48                  |
 
 {% hint style="danger" %}
 e.g.
 
 \
-Player will forge two swords with 0/5 and 3/5 forge count. The swords forge time will be added.\
+Player will forge two swords with 0/5 and 3/5 forge count. The two swords smelting time will be added.\
 \
 0/5 = 144 HRS\
 3/5 = 72 HRS\
 \
-So the player will wait for 216 HOURS for the forged weapon will be forged.\
+So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.\
 
 {% endhint %}
