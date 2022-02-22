@@ -22,11 +22,11 @@ Category of the swords element will be determined on the blade.
 
 | FORGE COUNT | Forge Number | RAP | SGN |
 | ----------- | ------------ | --- | --- |
-| **0/5**     | 1            | 150 | 6   |
-| 1/5         | 2            | 300 | 6   |
-| 2/5         | 3            | 450 | 6   |
-| 3/5         | 4            | 600 | 6   |
-| 4/5         | 5            | 750 | 6   |
+| **0/5**     | 1            | 750 | 1   |
+| 1/5         | 2            | 600 | 1   |
+| 2/5         | 3            | 450 | 1   |
+| 3/5         | 4            | 300 | 1   |
+| 4/5         | 5            | 150 | 1   |
 
 These figures may change depending on the games economic balance. The RAP and SGN require per forge can change.&#x20;
 
