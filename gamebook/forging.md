@@ -47,9 +47,68 @@ The dominant gene is what determines the part that is physically present on the 
 
 Each forged weapon has a 50% chance of inheriting each of the weapons element used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
 
-## Forging Event
+## Collab Forging
 
-We invoke a forging event to balance the economic growth of RAP and our Swords. Players can't forge if it is not the Forging Event time yet. We have 2 forging event per Month, every 12th and 24th day of the month (GMT +8) lasting for 24 hours. This method will be a big factor on minting RAP and Swords.
+We are pleased to announce that we will have a collab forging for those who don't have a capacity to cater to forge.
 
+Players will list their available pair on the marketplace and wait for the other player to complete and meet the requirement needed to forge.&#x20;
 
+> _They will split in half of the forged weapons._ \
+> __\
+> _The minimum times to forge is incremented by two._&#x20;
 
+{% hint style="danger" %}
+_e.g._\
+__\
+_A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forge to four times. The other player will gather the requirements needed to forge those collab pair. Then after gathering the required amount of RAP and SGN, and completed forging they will split all the forged weapon in half. Having each player two forged weapons._
+{% endhint %}
+
+## Cooldown Times
+
+We invoke a cooldown time for gifting, forging, and for the forged weapon.
+
+### Gifting
+
+Swords gifted under 48 hours will no longer gain rewards from any battle.&#x20;
+
+> _Having one sword gifted will trigger the above consequence._
+
+### Forging
+
+We have a forging cooldown to balance the growth of swords.
+
+> _Every forge count will decrease 12 hours of the forging cooldown._
+
+| FORGE COUNT | COOLDOWN (HRS) |
+| ----------- | -------------- |
+| 0/5         | 60             |
+| 1/5         | 48             |
+| 2/5         | 36             |
+| 3/5         | 24             |
+
+### Forged Weapons
+
+We have forged weapons cooldown depends on the forge count of the parent. Below are the waiting time to be forged.
+
+> _Every forge count will decrease 24 hours of the waiting time to be forged._
+
+| FORGE COUNT | FORGE TIME (HRS) |
+| ----------- | ---------------- |
+| 0/5         | 144              |
+| 1/5         | 120              |
+| 2/5         | 96               |
+| 3/5         | 72               |
+| 4/5         | 48               |
+
+{% hint style="danger" %}
+e.g.
+
+\
+Player will forge two swords with 0/5 and 3/5 forge count. The swords forge time will be added.\
+\
+0/5 = 144 HRS\
+3/5 = 72 HRS\
+\
+So the player will wait for 216 HOURS for the forged weapon will be forged.\
+
+{% endhint %}
