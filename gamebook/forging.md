@@ -85,6 +85,7 @@ We have a forging cooldown to balance the growth of swords.
 | 1/5         | 48             |
 | 2/5         | 36             |
 | 3/5         | 24             |
+| 4/5         | 12             |
 
 ### Forged Weapons
 
