@@ -55,7 +55,7 @@ Players will list their available pair on the marketplace and wait for the other
 
 > _They will split in half of the forged weapons._ \
 > __\
-> _The minimum times to forge is incremented by two._&#x20;
+> _The minimum times to forge are incremented by two._&#x20;
 
 {% hint style="danger" %}
 _e.g._\
