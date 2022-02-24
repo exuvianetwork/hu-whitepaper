@@ -32,6 +32,5 @@
 | Phase 5 | Game Public Launch                       | :gear:               |
 |         | Forging Enabled                          | :gear:               |
 |         | UI improvement                           | :gear:               |
-|         | NFT Burning Introduction                 | :gear:               |
 | Phase 6 | More In-Game Features ( World 2 unlocks) | :gear:               |
 |         | More to follow                           | :gear:               |
