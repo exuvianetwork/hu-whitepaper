@@ -43,6 +43,7 @@
   * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
 * [Arena Battle Royale](game-features/arena-battle-royale.md)
+* [Security Features](game-features/security-features.md)
 * [Game Economic Balance](game-features/game-economic.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
