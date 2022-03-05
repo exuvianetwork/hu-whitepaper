@@ -26,7 +26,7 @@ I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front
 
 Ainol an Information Technology graduate heads the game development of Heroes Uprising. He loves playing games as much as making them. He has been making games ever since he learned programming upon entering college using different programming languages. Heroes Uprising is he's biggest challenge yet and the team will strive to create the best fantasy-themed cryptocurrency game.
 
-## Bernardino "Dino"  Custorio | CGO
+## Bernardino "Dino"  Custorio | Project Manager
 
 Dino is in charge on managing the project itself, he has a broad knowledge in Managing such as:
 
