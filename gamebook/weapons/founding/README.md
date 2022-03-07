@@ -8,8 +8,8 @@ Here are the most limited NFTs that will be available when our marketplace goes 
 
 Each elements has 7 rarity which can be found only on our Founding Swords. Normal Swords doesn't have these rarity. All rarity will be indicated below.
 
-* Uncommon
 * Common
+* Uncommon
 * Rare
 * Epic
 * Legendary
