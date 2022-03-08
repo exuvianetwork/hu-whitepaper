@@ -23,13 +23,13 @@ Creating new weaponry required SGN and RAP, all of the RAP tokens required will 
 Heroes are is basic requirements on playing Heroes Uprising. They will be the one who wields swords and make you a victorious champion.
 
 {% hint style="info" %}
-Normal Heroes can be minted on the marketplace using SGN and can be purchased with RAP on the marketplace when it launches, it will charge at least 4% of users RAP as a fee, all RAP fees will be burned reducing the circulating supply.
+Normal Heroes can be purchased with RAP on the marketplace when it launches, it will charge at least 4% of users RAP as a fee, all RAP fees will be burned reducing the circulating supply.
 {% endhint %}
 
 ## Marketplace Swords&#x20;
 
 {% hint style="info" %}
-Normal Swords can also be purchased with SGN and RAP, which means that players will be charged at least a 4% fee, of which if the seller list an item on the marketplace for SGN 2% of the fee will go to treasury and the other 2% will go to the prize pool (1% to the Seasonal Prize Pool and 1% to the Guild Domination Prize Pool). And if the seller list an item on the marketplace for RAP, all SGN fees will be burned reducing the circulating supply.
+Normal Swords can be purchased with USDT with at least 4% fee upon listing.
 {% endhint %}
 
 ## Sprite Fusion
@@ -41,7 +41,7 @@ All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned.
 ## Weekly Dungeon Quest
 
 {% hint style="info" %}
-Both Weekly Dungeon Quest (Sprite and Sword) ticket fee will be burned.
+Both Weekly Dungeon Quest (Sprite and Sword) ticket fee (RAP) will be burned.
 {% endhint %}
 
 ## Guild Tech
