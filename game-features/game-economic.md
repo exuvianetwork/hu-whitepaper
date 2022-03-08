@@ -23,7 +23,7 @@ Creating new weaponry required SGN and RAP, all of the RAP tokens required will 
 Heroes are is basic requirements on playing Heroes Uprising. They will be the one who wields swords and make you a victorious champion.
 
 {% hint style="info" %}
-Normal Heroes can be purchased with SGN. When the marketplace launches, it will charge at least 4% of its users as a fee, all SGN fees will be burned reducing the circulating supply.
+Normal Heroes can be minted on the marketplace using SGN and can be purchased with RAP on the marketplace when it launches, it will charge at least 4% of users RAP as a fee, all RAP fees will be burned reducing the circulating supply.
 {% endhint %}
 
 ## Marketplace Swords&#x20;
