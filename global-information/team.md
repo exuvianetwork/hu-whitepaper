@@ -18,11 +18,19 @@ Before Heroes Uprising he is an avid Crypto Investor in some start up company in
 
 Ryan the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups and downs has given me ideas on how to make this game sustainable, especially with my experiences with NFT games. I am competent and confident in my knowledge of cryptocurrency that my knowledge will help in solving problems such as an "economy problem and inflation of the utility token" that will benefit Heroes Uprising and its player base.
 
-## Luis "CoCoButter" Panta | CTO/ Co-Founder
+## CTO
+
+
+
+## CGO
+
+
+
+## Luis "CoCoButter" Panta | Arts and Game Design Lead
 
 I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front-end developers and game designer. He leads our technical team and is responsible for our technical operations.
 
-## Ainol Obando | CIO
+## Ainol Obando | Game Development Lead
 
 Ainol an Information Technology graduate heads the game development of Heroes Uprising. He loves playing games as much as making them. He has been making games ever since he learned programming upon entering college using different programming languages. Heroes Uprising is he's biggest challenge yet and the team will strive to create the best fantasy-themed cryptocurrency game.
 
