@@ -45,6 +45,7 @@
 * [Arena Battle Royale](game-features/arena-battle-royale.md)
 * [Security Features](game-features/security-features.md)
 * [Game Economic Balance](game-features/game-economic.md)
+* [Marketplace](game-features/marketplace.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 
 ## TOKENS, SALE, AND FUNDS INFORMATION

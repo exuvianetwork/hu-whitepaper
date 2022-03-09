@@ -20,22 +20,22 @@ Creating new weaponry required SGN and RAP, all of the RAP tokens required will 
 
 ## Marketplace Heroes
 
-Heroes are is basic requirements on playing Heroes Uprising. They will be the one who wields swords and make you a victorious champion.
+Heroes are the basic requirements on playing Heroes Uprising. They will be the one who wields the swords and make you a victorious champion.
 
 {% hint style="info" %}
-Normal Heroes can be purchased with RAP on the marketplace when it launches, it will charge at least 4% of users RAP as a fee, all RAP fees will be burned reducing the circulating supply.
+Normal Heroes can be purchased with SGN on the marketplace, it will charge at least 4% of SGN as a fee, all SGN fees will be put to the project treasury.
 {% endhint %}
 
 ## Marketplace Swords&#x20;
 
 {% hint style="info" %}
-Normal Swords can be purchased with USDT with at least 4% fee upon listing.
+Swords can be purchased with SGN on the marketplace, it will charge at least 4% of SGN as a fee. Fees will be split unto 3; 2% to the team treasury, 1% to the project treasury and 1% to the Prize Pools (50% to the Seasonal and 50% to the Guild Domination Prize Pool).
 {% endhint %}
 
 ## Sprite Fusion
 
 {% hint style="info" %}
-All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned.
+All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned and all the SGN will be put to the project treasury.
 {% endhint %}
 
 ## Weekly Dungeon Quest
@@ -54,6 +54,12 @@ All of the resources (RAP) needs in order to upgrade a certain Guild Tech will b
 
 {% hint style="info" %}
 All RAP that is used to purchased potion will be burned automatically.
+{% endhint %}
+
+## Heroes Cosmetics
+
+{% hint style="info" %}
+All RAP that is used to customized your heroes will be burned automatically.
 {% endhint %}
 
 On this way we can always increase its demand without worrying about over circulation.
