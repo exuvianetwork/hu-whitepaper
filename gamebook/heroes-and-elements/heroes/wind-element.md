@@ -10,9 +10,7 @@ description: >-
 
 ![](../../../.gitbook/assets/character-stats-zephyr.png)
 
-Rarely seen by anyone due to his unmatched speed, fights with him rarely last few seconds enemies go down before even realizing what happened
-
-
+Rarely seen by anyone due to his unmatched speed, fights with Zephyr rarely last few seconds as enemies go down before even realizing what has hit them
 
 ### Misha
 

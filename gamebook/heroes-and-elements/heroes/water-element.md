@@ -1,7 +1,7 @@
 ---
 description: >-
-  An all rounder Water element can both attack and support the team to secure
-  victory even against the most difficult of foes.
+  An all-rounder, Water element can both attack and support the team to secure
+  victory, even against the most difficult of foes.
 ---
 
 # Water element
@@ -10,12 +10,10 @@ description: >-
 
 ![](../../../.gitbook/assets/character-flyse.png)
 
-Flyse rarely takes action opting to just watch from the sideline but when the waters he vowed to protect are threatened his wrath is not far behind.
-
-
+Flyse rarely takes action, opting to just watch from the sideline, but when the waters he vowed to protect are threatened, his wrath is not far behind.
 
 ### Oshal
 
 ![](../../../.gitbook/assets/character-stats-oshal.png)
 
-Compassionate and calm Oshal is always right beside her friends she may seem harmless but she will not hesitate to put down anyone that hurts her friends.
+Compassionate and calm. Oshal is always right beside her friends. She may seem harmless, but she will not hesitate to put down anyone that hurts her friends.

@@ -1,6 +1,6 @@
 # Heroes
 
-Heroes are summoned by players to assist them in their Mysdolyne journey. These summoned heroes will aid your quest, but each element has its own capabilities and weaknesses, so select your hero wisely.
+Heroes are summoned by players to assist them in their journey through the land of Mydoslyne. These summoned heroes will aid you in your quest, but each element has its own set of strengths and weaknesses, so choose your hero wisely and build your team to your liking.
 
 {% hint style="info" %}
 You can get your Heroes by minting or purchasing one on the marketplace.&#x20;
