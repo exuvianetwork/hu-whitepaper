@@ -7,7 +7,7 @@ We came up with these methods to burn as many inflated tokens as possible and to
 By minting heroes you can get your own random hero.&#x20;
 
 {% hint style="info" %}
-All the fee that is required on minting will be burned.
+All the RAP fee that is required on minting will be burned.
 {% endhint %}
 
 ## Marketplace Forging
@@ -23,7 +23,7 @@ Creating new weaponry required SGN and RAP, all of the RAP tokens required will 
 Heroes are the basic requirements on playing Heroes Uprising. They will be the one who wields the swords and make you a victorious champion.
 
 {% hint style="info" %}
-Normal Heroes can be purchased with SGN on the marketplace, it will charge at least 4% of SGN as a fee, all SGN fees will be put to the project treasury.
+Normal Heroes can also be purchased with RAP on the marketplace, it will charge at least 4% of RAP as a fee, all RAP fees will be burned automatically.
 {% endhint %}
 
 ## Marketplace Swords&#x20;
