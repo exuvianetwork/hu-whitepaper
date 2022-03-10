@@ -1,56 +1,29 @@
 # Earth Element
 
-| **Ability Names**                                                   |                           **Description**                                              | **Base Damage** | **Mana Cost** | **Base Armor** |     **Buff**    |  **Debuff**  |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :-------------: | :----------: |
-| <p>Chundra (Melee) - </p><p><strong>(Blade)</strong></p>            | Gain an attack boost and heal 40 HP if the enemy has poison.                           |        50       |       1       |       25       | Atk Boost, Heal |              |
-| <p>Bramble Armor (Melee) - </p><p><strong>(Blade)</strong></p>      | If this character's armor doesn't break, you gain 1 mana.                              |        40       |       1       |       60       |                 |              |
-| <p>Shedding (Melee) - </p><p><strong>(Blade)</strong></p>           | Transfer all debuffs from this character to the target.                                |        60       |       1       |       30       |                 |              |
-| <p>Thorned Shield (Melee) - </p><p><strong>(Blade)</strong></p>     | Return 35% of the damage recieved from melee attacks.                                  |        50       |       1       |       40       |                 |              |
-| <p>Toxic Spray (Range) - </p><p>(<strong>Guard)</strong></p>        | Apply poison to the target, or two if attacking water characters.                      |        40       |       0       |       35       |                 |    Poison    |
-| <p>Rock Throw (Range) - </p><p><strong>(Guard)</strong></p>         | Steal one mana if this character attacks last.                                         |        50       |       0       |       30       |                 | Mana Removal |
-| <p>Poison Throw (Range) - </p><p><strong>(Guard)</strong></p>       | If used with another earth card, apply two stacks of poison.                           |        20       |       0       |       30       |                 |    Poison    |
-| <p>Earth Artillery (Range) - </p><p><strong>(Guard)</strong></p>    | Return 35% of the damage recieved from range attacks                                   |        50       |       1       |       40       |                 |              |
-| <p>Barrier Proficiency (Melee) - </p><p><strong>(Grip)</strong></p> | If enemy character's armor is broken, gain 1 mana.                                     |        70       |       1       |       40       |                 |              |
-| <p>Poison Vines - </p><p><strong>(Grip)</strong></p>                | Every time this character is attacked, apply poison.                                   |        0        |       1       |       30       |                 |    Poison    |
-| <p>Poison Dipped - </p><p><strong>(Grip)</strong></p>               | Apply a 40% chance of poison on attack for 2 turns.                                    |        0        |       1       |       20       |                 |    Poison    |
-| <p>Hardened Body (Melee) - </p><p><strong>(Grip)</strong></p>       | Reduce the damage taken this round by 15%.                                             |        50       |       1       |        10      |                 |              |
-| <p>Sickness Manipulate - </p><p><strong>(Pommel)</strong></p>       | Transfer all debuffs from the party to this character.                                 |        65       |       1       |       70       |                 |              |
-| <p>Rock Bomb (Range) - </p><p><strong>(Pommel)</strong></p>         | Apply Confusion to the target, increase damage by 20% if used with another Earth card. |        60       |       1       |       40       |                 |   Confusion  |
-| <p>Poisonous Death - </p><p><strong>(Pommel)</strong></p>           | If this character dies, this turn, apply 3 stacks of poison to all enemies.            |        0        |       1       |       30       |                 |    Poison    |
-| <p>Final Struggle (Melee) - </p><p><strong>(Pommel)</strong></p>    | This character takes 30% of the damage dealt.                                          |       150       |       1       |       40       |                 |              |
+| **Blade**              |                           **Description**                    | **Base Damage** | **Mana Cost** | **Base Armor** |     **Buff**    | **Debuff** |
+| ---------------------- | ------------------------------------------------------------ | :-------------: | :-----------: | :------------: | :-------------: | :--------: |
+| Chundra (Melee)        | Gain an attack boost and heal 40 HP if the enemy has poison. |        50       |       1       |       25       | Atk Boost, Heal |            |
+| Bramble Armor (Melee)  | If this character's armor doesn't break, you gain 1 mana.    |        40       |       1       |       60       |                 |            |
+| Shedding (Melee)       | Transfer all debuffs from this character to the target.      |        60       |       1       |       30       |                 |            |
+| Thorned Shield (Melee) | Return 35% of the damage recieved from melee attacks.        |        50       |       1       |       40       |                 |            |
 
+| **Guard**               |                           **Description**                         | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** |  **Debuff**  |
+| ----------------------- | ----------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :----------: |
+| Toxic Spray (Range)     | Apply poison to the target, or two if attacking water characters. |        40       |       0       |       35       |          |    Poison    |
+| Rock Throw (Range)      | Steal one mana if this character attacks last.                    |        50       |       0       |       30       |          | Mana Removal |
+| Poison Throw (Range)    | If used with another earth card, apply two stacks of poison.      |        20       |       0       |       30       |          |    Poison    |
+| Earth Artillery (Range) | Return 35% of the damage recieved from range attacks              |        50       |       1       |       40       |          |              |
 
+| **Grip**                    |                           **Description**            | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** | **Debuff** |
+| --------------------------- | ---------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :--------: |
+| Barrier Proficiency (Melee) | If enemy character's armor is broken, gain 1 mana.   |        70       |       1       |       40       |          |            |
+| Poison Vines                | Every time this character is attacked, apply poison. |        0        |       1       |       30       |          |   Poison   |
+| Poison Dipped               | Apply a 40% chance of poison on attack for 2 turns.  |        0        |       1       |       20       |          |   Poison   |
+| Hardened Body (Melee)       | Reduce the damage taken this round by 15%.           |        50       |       1       |        10      |          |            |
 
-| **Ability Names**                                               |                           **Description**                    | **Base Damage** | **Mana Cost** | **Base Armor** |     **Buff**    | **Debuff** |
-| --------------------------------------------------------------- | ------------------------------------------------------------ | :-------------: | :-----------: | :------------: | :-------------: | :--------: |
-| <p>Chundra (Melee) - </p><p><strong>(Blade)</strong></p>        | Gain an attack boost and heal 40 HP if the enemy has poison. |        50       |       1       |       25       | Atk Boost, Heal |            |
-| <p>Bramble Armor (Melee) - </p><p><strong>(Blade)</strong></p>  | If this character's armor doesn't break, you gain 1 mana.    |        40       |       1       |       60       |                 |            |
-| <p>Shedding (Melee) - </p><p><strong>(Blade)</strong></p>       | Transfer all debuffs from this character to the target.      |        60       |       1       |       30       |                 |            |
-| <p>Thorned Shield (Melee) - </p><p><strong>(Blade)</strong></p> | Return 35% of the damage recieved from melee attacks.        |        50       |       1       |       40       |                 |            |
-
-| **Ability Names**                                                   |                           **Description**            | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** | **Debuff** |
-| ------------------------------------------------------------------- | ---------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :--------: |
-| <p>Barrier Proficiency (Melee) - </p><p><strong>(Grip)</strong></p> | If enemy character's armor is broken, gain 1 mana.   |        70       |       1       |       40       |          |            |
-| <p>Poison Vines - </p><p><strong>(Grip)</strong></p>                | Every time this character is attacked, apply poison. |        0        |       1       |       30       |          |   Poison   |
-| <p>Poison Dipped - </p><p><strong>(Grip)</strong></p>               | Apply a 40% chance of poison on attack for 2 turns.  |        0        |       1       |       20       |          |   Poison   |
-| <p>Hardened Body (Melee) - </p><p><strong>(Grip)</strong></p>       | Reduce the damage taken this round by 15%.           |        50       |       1       |        10      |          |            |
-
-| **Ability Names**                                                |                           **Description**                         | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** |  **Debuff**  |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :----------: |
-| <p>Toxic Spray (Range) - </p><p>(<strong>Guard)</strong></p>     | Apply poison to the target, or two if attacking water characters. |        40       |       0       |       35       |          |    Poison    |
-| <p>Rock Throw (Range) - </p><p><strong>(Guard)</strong></p>      | Steal one mana if this character attacks last.                    |        50       |       0       |       30       |          | Mana Removal |
-| <p>Poison Throw (Range) - </p><p><strong>(Guard)</strong></p>    | If used with another earth card, apply two stacks of poison.      |        20       |       0       |       30       |          |    Poison    |
-| <p>Earth Artillery (Range) - </p><p><strong>(Guard)</strong></p> | Return 35% of the damage recieved from range attacks              |        50       |       1       |       40       |          |              |
-
-
-
-| **Ability Names**                                                   |                           **Description**                                              | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** | **Debuff** |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :--------: |
-| <p>Barrier Proficiency (Melee) - </p><p><strong>(Grip)</strong></p> | If enemy character's armor is broken, gain 1 mana.                                     |        70       |       1       |       40       |          |            |
-| <p>Poison Vines - </p><p><strong>(Grip)</strong></p>                | Every time this character is attacked, apply poison.                                   |        0        |       1       |       30       |          |   Poison   |
-| <p>Poison Dipped - </p><p><strong>(Grip)</strong></p>               | Apply a 40% chance of poison on attack for 2 turns.                                    |        0        |       1       |       20       |          |   Poison   |
-| <p>Hardened Body (Melee) - </p><p><strong>(Grip)</strong></p>       | Reduce the damage taken this round by 15%.                                             |        50       |       1       |        10      |          |            |
-| <p>Sickness Manipulate - </p><p><strong>(Pommel)</strong></p>       | Transfer all debuffs from the party to this character.                                 |        65       |       1       |       70       |          |            |
-| <p>Rock Bomb (Range) - </p><p><strong>(Pommel)</strong></p>         | Apply Confusion to the target, increase damage by 20% if used with another Earth card. |        60       |       1       |       40       |          |  Confusion |
-| <p>Poisonous Death - </p><p><strong>(Pommel)</strong></p>           | If this character dies, this turn, apply 3 stacks of poison to all enemies.            |        0        |       1       |       30       |          |   Poison   |
-| <p>Final Struggle (Melee) - </p><p><strong>(Pommel)</strong></p>    | This character takes 30% of the damage dealt.                                          |       150       |       1       |       40       |          |            |
+| **Pommel**             |                           **Description**                                              | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** | **Debuff** |
+| ---------------------- | -------------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :--------: |
+| Sickness Manipulate    | Transfer all debuffs from the party to this character.                                 |        65       |       1       |       70       |          |            |
+| Rock Bomb (Range)      | Apply Confusion to the target, increase damage by 20% if used with another Earth card. |        60       |       1       |       40       |          |  Confusion |
+| Poisonous Death        | If this character dies, this turn, apply 3 stacks of poison to all enemies.            |        0        |       1       |       30       |          |   Poison   |
+| Final Struggle (Melee) | This character takes 30% of the damage dealt.                                          |       150       |       1       |       40       |          |            |

@@ -1,7 +1,5 @@
 # Air Element
 
-###
-
 | **Blade**            |                           **Description**                             | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** | **Debuff** |
 | -------------------- | --------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :--------: |
 | Chipped (Melee)      | Apply Pacify to this character for 2 turns.                           |       150       |       1       |        0       |          |   Pacify   |
