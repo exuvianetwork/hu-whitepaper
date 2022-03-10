@@ -17,4 +17,4 @@ Headstrong and brave. Mason never backs down from a fight, always on the frontli
 
 ![](../../../.gitbook/assets/character-stats-meena.png)
 
-The strongest person in their tribe meena controls the earth itself to help with her fights as well as protect her and her friends from harm.
+The strongest person in their tribe, Meena, controls the earth itself to help with her fights as well as protect her and her friends from harm.

@@ -1,7 +1,7 @@
 ---
 description: >-
   Disables enemies with a large amount of debuffs to cripple foes and use its
-  high damaging moves to finish off enemies.
+  high-damaging moves to finish off enemies.
 ---
 
 # Dark element
