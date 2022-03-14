@@ -4,7 +4,7 @@
 
 | SECTION          | VALUE          |
 | ---------------- | -------------- |
-| TOKENS AVAILABLE | 1,800,000 $SGN |
+| TOKENS AVAILABLE | 3,600,000 $SGN |
 | STARTS           | TBA            |
 | WHITELIST        | N/A            |
 
@@ -14,7 +14,7 @@
 
 | SECTION          | VALUE          |
 | ---------------- | -------------- |
-| TOKENS AVAILABLE | 1,500,000 $SGN |
+| TOKENS AVAILABLE | 3,000,000 $SGN |
 | STARTS           | TBA            |
 | WHITELIST        | TBA            |
 
@@ -24,7 +24,7 @@
 
 | SECTION          | VALUE          |
 | ---------------- | -------------- |
-| TOKENS AVAILABLE | 2,200,000 $SGN |
+| TOKENS AVAILABLE | 4,400,000 $SGN |
 | STARTS           | TBA            |
 | WHITELIST        | N/A            |
 | IDO PLATFORM     | TBA            |
