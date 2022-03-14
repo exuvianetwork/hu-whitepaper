@@ -1,4 +1,4 @@
-# Public Sale (DEV)
+# Public Sale (DEVELOPMENT)
 
 | FUNDS                 | ALLOCATION |
 | --------------------- | ---------- |
@@ -6,7 +6,6 @@
 | SERVER EXPENSES       | 8%         |
 | SECURITY AND LEGALITY | 10%        |
 | MARKETING             | 17%        |
-| BUYBACK FOR SGN       | 5%         |
-| BUYBACK FOR RAP       | 5%         |
+| LIQUIDITY FOR SGN     | 5%         |
+| LIQUIDITY FOR RAP     | 5%         |
 | TEAM SALARY           | 15%        |
-
