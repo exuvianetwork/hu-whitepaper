@@ -22,11 +22,11 @@ Category of the swords element will be determined on the blade.
 
 | FORGE COUNT | Forge Number | RAP | SGN |
 | ----------- | ------------ | --- | --- |
-| **0/5**     | 1            | 150 | 1   |
-| 1/5         | 2            | 300 | 1   |
+| **0/5**     | 1            | 750 | 1   |
+| 1/5         | 2            | 600 | 1   |
 | 2/5         | 3            | 450 | 1   |
-| 3/5         | 4            | 600 | 1   |
-| 4/5         | 5            | 750 | 1   |
+| 3/5         | 4            | 300 | 1   |
+| 4/5         | 5            | 150 | 1   |
 
 These figures may change depending on the games economic balance. The RAP and SGN require per forge can change.&#x20;
 
@@ -77,38 +77,38 @@ Swords gifted under 48 hours will no longer gain rewards from any battle.&#x20;
 
 We have a forging cooldown to balance the growth of swords.
 
-> _Every forge count will decrease 12 hours of the forging cooldown._
+> _Every forge count will increase 12 hours of the forging cooldown._
 
 | FORGE COUNT | COOLDOWN (HRS) |
 | ----------- | -------------- |
-| 0/5         | 60             |
-| 1/5         | 48             |
+| 0/5         | 12             |
+| 1/5         | 24             |
 | 2/5         | 36             |
-| 3/5         | 24             |
-| 4/5         | 12             |
+| 3/5         | 48             |
+| 4/5         | 60             |
 
 ### Smelting
 
 We have smelting time depends on the forge count of the parent. Below are smelting time per forge count.
 
-> _Every forge count will decrease 24 hours of the waiting time to be forged._
+> _Every forge count will increase 24 hours of the waiting time to be forged._
 
 | FORGE COUNT | SMELTING TIME (HRS) |
 | ----------- | ------------------- |
-| 0/5         | 144                 |
-| 1/5         | 120                 |
+| 0/5         | 48                  |
+| 1/5         | 72                  |
 | 2/5         | 96                  |
-| 3/5         | 72                  |
-| 4/5         | 48                  |
+| 3/5         | 120                 |
+| 4/5         | 144                 |
 
 {% hint style="danger" %}
 e.g.
 
 \
-Player will forge two swords with 0/5 and 3/5 forge count. The two swords smelting time will be added.\
+Player will forge two swords with 4/5 and 1/5 forge count. The two swords smelting time will be added.\
 \
-0/5 = 144 HRS\
-3/5 = 72 HRS\
+4/5 = 144 HRS\
+1/5 = 72 HRS\
 \
 So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.\
 
