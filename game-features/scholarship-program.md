@@ -6,7 +6,7 @@ We want everyone to be able to play a game powered by a blockchain technology th
 
 So we want to introduce to you _**"Heroes Scrolls"**_
 
-### What is Heroes Scrolls?
+### What are Heroes Scrolls?
 
 Scholarships were what we termed Heroes Scrolls. Scrolls allow other players to summon other players' Heroes and Weapons to play the game for free.
 
