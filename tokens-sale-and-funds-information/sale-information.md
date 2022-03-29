@@ -6,7 +6,7 @@
 | ---------------- | -------------- |
 | TOKENS AVAILABLE | 3,600,000 $SGN |
 | STARTS           | TBA            |
-| WHITELIST        | N/A            |
+| WHITELIST        | TBA            |
 
 ## PRIVATE SALE
 
