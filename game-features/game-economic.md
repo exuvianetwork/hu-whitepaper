@@ -15,7 +15,7 @@ All the RAP fee that is required on minting will be burned.
 We know we can't settle for less so we forge weaponry to achieve or attain some rare weaponry.&#x20;
 
 {% hint style="info" %}
-Creating new weaponry required SGN and RAP, all of the RAP tokens required will be automatically sent to the burn address hence reducing the circulating supply and all the SGN will be cut in half, 50% to the treasury and 50% to the prize pools for Seasonal and Guild Domination Prize Pool.
+Creating new weaponry required SGN and RAP, all of the RAP tokens required will be automatically sent to the burn address hence reducing the circulating supply and all the SGN will be cut in half, 50% to the treasury (50% to the team treasury and 50% to the project treasury) and 50% to the prize pools ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool.
 {% endhint %}
 
 ## Marketplace Heroes
