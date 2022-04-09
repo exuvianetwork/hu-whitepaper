@@ -30,9 +30,7 @@ Ryan the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups
 
 I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front-end developers and game designer. He leads our technical team and is responsible for our technical operations.
 
-## Ainol Obando | Game Development Lead
 
-Ainol an Information Technology graduate heads the game development of Heroes Uprising. He loves playing games as much as making them. He has been making games ever since he learned programming upon entering college using different programming languages. Heroes Uprising is he's biggest challenge yet and the team will strive to create the best fantasy-themed cryptocurrency game.
 
 ## Bernardino "Dino"  Custorio | Project Manager
 
