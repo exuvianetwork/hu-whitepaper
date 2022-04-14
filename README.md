@@ -4,11 +4,11 @@
 
 > Battle a bunch of enemies in arena and dungeon to unlock loots and become a legendary hero.
 
-The land of Mydoslyne, A land ruled and owned by its people, where they live by the virtues of Courage, Pride and Liberality, The people stood strong as they worked together to bring about its glory in light. Until dark forces, vicious, aggressive monsters have engaged in a never ending war,&#x20;
+The Land of Mydoslyne is the land of Honor, Fame, and Glory. Owned and ruled by its people, where they live by the virtues of Courage, Pride and Liberality. Known for its events, stories, and memories throughout the years.
 
-The land of Mydoslyne is in a state of turmoil between the race of monsters and humans. Battling non-stop as blood is being shed on the battlefield. Destruction of homes, livelihoods, and the lost of lives. Just when the the hope of humankind is about to be crushed, A few numbers of humans kept fighting, as they keep on reminding everyone to fight for the land, to bring it back, one day to its former glory. Even among the feelings of anger, devastation and hopelessness, it gave the humankind reason to fight. The humans have discovered a way to fight off this evil, an ancient sword forged to protect those from the wrath of the darkness. Humanity finally had a fighting chance against their ruthless enemies. It is now up to the heroes to turn the tide of war and earn riches, glory, fame to earn the right to be called the greatest hero in the land of Mydoslyne.
+There are different tribes in every elemental region. The Flames of Phoenetra Tribe, The Waves of Seagandia Tribe, The Great Stone of Yagamuth Tribe, The Breeze of Kuzityre Tribe, The Beam of Arkansun Tribe, and The Depth Void Tribe. Although Monsters are present in the Land of Mydoslene, the tribes go for the hunt, to provide for their needs and to keep the land safe from the evils of the depth. Nothing else feels great than being called the best warriors of the Land of Mydoslene, to be acknowledged as the fiercest, bravest, and smartest. To earn riches, glory, fame and to earn the right to be called the greatest hero in the land of Mydoslyne. The tribes forge their own swords to wield, to slay monsters and to aid in their arena battles. To earn medallions, trophies and to show who has more power in the Land of Mydoslene.
 
-Heroes Uprising is a fantasy-themed game in which players can earn tokens through battling, collecting and forging. The game is designed to reward players for their contributions via blockchain technology.
+Heroes Uprising is a fantasy-themed game in which players can earn tokens through battling, collecting and forging. The game is designed to reward players for their contributions via blockchain technology.&#x20;
 
 The game is created for the players to have fun while earning. Players/gamers are encouraged to recognize that this is the start of the next chapter of gaming through NFT's.
 
