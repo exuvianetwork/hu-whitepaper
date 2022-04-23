@@ -59,10 +59,12 @@
   * [Seed Sale](tokens-sale-and-funds-information/funds-breakdown/seed-sale.md)
   * [Private Sale](tokens-sale-and-funds-information/funds-breakdown/private-sale.md)
   * [Public Sale](tokens-sale-and-funds-information/funds-breakdown/public-sale.md)
+  * [NFT Sale](tokens-sale-and-funds-information/funds-breakdown/nft-sale.md)
   * [Development Funds Breakdown](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/README.md)
     * [Seed Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/seed-sale-development.md)
     * [Private Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
     * [Public Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
+    * [NFT Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development.md)
 
 ## GLOBAL INFORMATION
 
