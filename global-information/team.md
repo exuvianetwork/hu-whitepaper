@@ -2,7 +2,7 @@
 
 ****[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator, is the one who is developing Heroes Uprising and is founded in early 2021.
 
-## Allan Brando Catayoc | CEO/ Founder
+## Allan Brando B. Catayoc | CEO/ Founder
 
 Allan manages and directs the company toward its primary goals and objectives. He leads the development and implementation of the overall company strategy.&#x20;
 
@@ -16,7 +16,7 @@ Before Heroes Uprising he is an avid Crypto Investor in some start up company in
 
 ## Ryan "Rime" Panuncia | COO/ Co-Founder
 
-Ryan the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups and downs has given me ideas on how to make this game sustainable, especially with my experiences with NFT games. I am competent and confident in my knowledge of cryptocurrency that my knowledge will help in solving problems such as an "economy problem and inflation of the utility token" that will benefit Heroes Uprising and its player base.
+Ryan is the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups and downs has given me ideas on how to make this game sustainable, especially with my experiences with NFT games. I am competent and confident in my knowledge of cryptocurrency that my knowledge will help in solving problems such as an "economy problem and inflation of the utility token" that will benefit Heroes Uprising and its player base.
 
 ## CTO
 
@@ -26,9 +26,9 @@ Ryan the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups
 
 
 
-## Luis "CoCoButter" Panta | Arts and Game Design Lead
+## Luis "CoCoButter" Panta | Game Strategic Lead
 
-I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front-end developers and game designer. He leads our technical team and is responsible for our technical operations.
+I'm Luis Chief Technology Officer at Heroes Uprising as well as one of the front-end developers and game designer. He leads our game strategic team and is responsible for our game strategic operations.
 
 
 
@@ -42,7 +42,7 @@ Sourcing & Negotiation of International Bank Instruments not limited to SBLC/BG/
 
 ## Dave "Decimo" Caacoy | Arts and Game Designer
 
-Dave is an Arts and Game Designer who leads the game named heroes Uprising to bring to life the idea of the team. He is Designing a game that is easy to maintain, expandable, and comfortable to use and especially injecting fun into the users' experience. Also, He is a front-end developer along with Luis to help the needs.
+Dave is an Arts and Game Designer who leads the game to bring life for the idea of the team. He is Designing a game that is easy to maintain, expandable, and comfortable to use and especially injecting fun into the users' experience. Also, He is also a front-end developer of the company.
 
 ## Joenard "AH JIN" Magallanes | Social Media Manager
 
