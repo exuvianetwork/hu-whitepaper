@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Heroes Uprising
 
 ![](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
