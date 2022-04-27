@@ -12,6 +12,7 @@
     * [Wind element](gamebook/heroes-and-elements/heroes/wind-element.md)
     * [Light element](gamebook/heroes-and-elements/heroes/light-element.md)
     * [Dark element](gamebook/heroes-and-elements/heroes/dark-element.md)
+  * [Stats](gamebook/heroes-and-elements/stats.md)
 * [Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
