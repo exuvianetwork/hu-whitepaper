@@ -3,7 +3,7 @@
 | FUNDS                 | ALLOCATION |
 | --------------------- | ---------- |
 | DEVELOPMENT           | 70%        |
-| MARKETING             | 15%        |
 | SECURITY AND LEGALITY | 5%         |
+| MARKETING             | 15%        |
 | TEAM SALARY           | 10%        |
 
