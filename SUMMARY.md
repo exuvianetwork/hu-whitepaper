@@ -20,6 +20,7 @@
   * [Founding Swords](gamebook/weapons/founding/README.md)
     * [Heroic](gamebook/weapons/founding/heroic.md)
     * [Corrupted](gamebook/weapons/founding/corrupted.md)
+* [Cosmetics](gamebook/cosmetics.md)
 
 ## Cards
 
