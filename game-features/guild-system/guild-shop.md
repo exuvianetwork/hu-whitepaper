@@ -6,7 +6,13 @@ Participating raids won't be easy, Explore the guild shop and buy some buff and 
 Locked for specific Guild levels
 {% endhint %}
 
+### Potions
 
+|   Potion  |             Description            | Quantity | Availability | Trophy required |
+| :-------: | :--------------------------------: | :------: | :----------: | :-------------: |
+| Fire Vial | +10% Damage boost to Fire Attacks. |          |              |                 |
+|           |                                    |          |              |                 |
+|           |                                    |          |              |                 |
 
 Guild experience Potion +400 EXP
 
