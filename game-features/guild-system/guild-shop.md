@@ -3,42 +3,40 @@
 Participating raids won't be easy, Explore the guild shop and buy some buff and more awesome stuff.
 
 {% hint style="info" %}
-**LOCKED FOR SPECIFIC GUILD LEVELS**
+Locked for specific Guild levels
 {% endhint %}
 
 
 
-\-Guild experience Potion +400 EXP\
-\-Additional entry ticket for Guild expedition\
-\-Durability replenish potion
+Guild experience Potion +400 EXP
 
-\
-\-Stamina potion
+Additional entry ticket for Guild expedition
 
-* Small +1
-* Medium +3
-* Large +5
+Durability replenish potion
 
-{% hint style="info" %}
-Limited
+Guild flag while in PVP
 
-small refresh every 3 days, medium refresh every 4 says, large refresh every 7 days
-{% endhint %}
+Guild name change ticket
 
+Guild logo change ticket&#x20;
 
+Guild logo border
 
-\-Guild flag while in PVP\
-\-Guild name change ticket\
-\-Guild logo change ticket \
-\-Guild logo border\
-\-Guild banner border\
-\-Guild exclusive emotes\
-\-Change name\
-\-Booster NFT\
-\-Sprite and Dungeon NFT Entry ticket&#x20;
+Guild banner border
 
-\
-\-Sprite NFT
+Guild exclusive emotes
+
+Change name
+
+Booster NFT
+
+Sprite and Dungeon NFT Entry ticket&#x20;
+
+50,000 RAP = (x) trophies
+
+100 SGN = (x) trophies
+
+Sprite NFT
 
 * Common
 * Uncommon
@@ -46,44 +44,71 @@ small refresh every 3 days, medium refresh every 4 says, large refresh every 7 d
 * Epic
 
 {% hint style="info" %}
-Random draw
+Sprite NFT will be Random element draw
 {% endhint %}
 
+### **Potions**
 
+Fire Vial +10% Damage boost to Fire Attacks.
 
-\-50,000 RAP = (x) trophies\
-\-100 SGN = (x) trophies
+Water Vial +10% Damage boost to Water Attacks.
 
+Earth Vial +10% Damage boost to Earth Attacks.
 
+Air Vial +10% Damage boost to Air Attacks.
 
-**-Attack Potions**
+Light Vial +10% Damage boost to Light Attacks.
 
-(Fire Vial)+10% Damage boost to Fire Attacks
+Dark Vial +10% Damage boost to Dark Attacks.
 
-(Water Vial)+10% Damage boost to Water Attacks
+Vigor Blessing - gives selected hero additional 10% amount of HP based on Maximum HP, one\
+time use only.
 
-(Earth Vial)+10% Damage boost to Earth Attacks
+Tempo Blessing - Gives selected hero additional 5 speed for 2 turns, one time use only.
 
-(Air Vial)+10% Damage boost to Air Attacks
+Protection Blessing - Increase armor gained by 5 for all cards of the selected hero.
 
-(Light Vial)+10% Damage boost to Light Attacks
+Card Skim - Draw 3 random cards can only be used after round 3, one time use only.
 
-(Dark Vial)+10% Damage boost to Dark Attacks
+Mana blessing - Gives 2 additional mana starting round.
 
-&#x20;
+Revitalize Potion - Heals 30% based on the Max Health of the target hero.
 
-**-Vigor Blessing** = gives selected hero additional 10% amount of HP based on Maximum HP, one\
-&#x20; time use only.\
-\-**Tempo Blessing** = Gives selected hero additional 5 speed for 2 turns, one time use only.\
-\-**Protection Blessing** = Increase armor gained by 5 for all cards of the selected hero.\
-\-**Card Skim** = Draw 3 random cards can only be used after round 3, one time use only.\
-\-**Mana blessing** = +2 mana starting round.\
-\-**Revitalize Potion** = Heals 30% based on the Max Health of the target hero.\
-\-**Brute Potion** = +15% damage increase of the target hero for 1 turn\
-\-**Sharpness Potion** = +10% Critical Rate increase lasts for 3 turns.\
-\-**Bloodlust** = 15% of the damage dealt will heal the hero can only be used if target is below\
-&#x20; 40%HP, One time use only.
+Brute Potion - damage increase for 15% for the target hero for 1 turn.
 
-****
+Sharpness Potion - Critical Rate increase for 10% lasts for 3 turns.
+
+Bloodlust - 15% of the damage dealt will heal the hero can only be used if target is below\
+40%HP, One time use only.
+
+Stamina potion
+
+* Small +1
+* Medium +3
+* Large +5
+
+{% hint style="info" %}
+Stamina potion is only limited
+
+small refresh every 3 days, medium refresh every 4 says, large refresh every 7 days
+{% endhint %}
+
+### **Cosmetics**
+
+Cosmetics will be available in Heroes Uprising, giving players more options in terms of customizing their personal experience and expressing their sense of style in the game. Players will be able to trade and collect cosmetics with one another.
+
+All cosmetics are varied on six parts and rarities with each unique effect added to the game when equipped.
+
+Mask - Enemy kill effect
+
+Dress/shirt - Special Ambient effect when using ranged attacks
+
+Cape/wings - Special Ambient effects on vital strikes
+
+Short/Skirt - Death effect
+
+Boots - Dash/Trail Effect
+
+There will be only seasonal and limited amount of cosmetics that will be released and all will be purchasable with Rare Amethyst Particle all cosmetics will be tradable.
 
 ****
