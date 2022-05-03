@@ -42,7 +42,7 @@
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
   * [Guild Domination](game-features/guild-system/guild-domination.md)
   * [Guild shop](game-features/guild-system/guild-shop.md)
-* [Dual and Quad Combine](game-features/dual-and-quad-combine.md)
+* [Combine System](game-features/combine-system.md)
 * [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
   * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
