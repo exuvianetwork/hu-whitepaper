@@ -1,6 +1,10 @@
-# Dual and Quad Combine
+# Combine System
 
-## Dual Combine
+Combine will be our first sword NFT burning mechanism this feature will be free from transaction fees.
+
+
+
+### Dual Combine
 
 You can combine 2 random sword unto 1 sword with low chance of getting pure elements and cards.&#x20;
 
@@ -8,7 +12,7 @@ You can combine 2 random sword unto 1 sword with low chance of getting pure elem
 Combined unto 1 sword with 90% chance random elements and cards, 10% pure element and cards.
 {% endhint %}
 
-## Quad Combine
+### Quad Combine
 
 You can combine 4 random sword unto 1 sword with high chance of getting pure elements and cards.
 
