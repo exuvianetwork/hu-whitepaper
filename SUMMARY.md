@@ -36,7 +36,6 @@
 * [Stamina System](game-features/stamina-system.md)
 * [Durability System](game-features/durability-system.md)
 * [Forging System](gamebook/forging.md)
-* [Combine](game-features/combine.md)
 * [Sprites System](gamebook/sprites-system.md)
 * [Guild System](game-features/guild-system/README.md)
   * [Guild Tech](game-features/guild-system/guild-tech.md)
