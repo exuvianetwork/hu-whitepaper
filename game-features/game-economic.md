@@ -32,6 +32,12 @@ Normal Heroes can also be purchased with RAP on the marketplace, it will charge 
 Swords can be purchased with SGN on the marketplace, it will charge at least 4% of SGN as a fee. SGN will be split unto 5 parts 15% to the Team Treasury, 25% to the Project Treasury, 10% to the Foundation Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
+## Marketplace Sprite
+
+{% hint style="info" %}
+Sprites can be purchased with SGN on the marketplace, it will charge at least 4% of SGN as a fee. SGN will be split unto 5 parts 15% to the Team Treasury, 25% to the Project Treasury, 10% to the Foundation Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+{% endhint %}
+
 ## Sprite Fusion
 
 {% hint style="info" %}
@@ -70,7 +76,9 @@ All RAP that is used to customized your heroes will be burned automatically.
 
 On this way we can always increase its demand without worrying about over circulation.
 
-
+{% hint style="warning" %}
+ALL FEES ARE SUBJECT TO CHANGE DEPENDS ON THE ECONOMIC GROWTH OF THE GAME.
+{% endhint %}
 
 ## REMARKS!
 
