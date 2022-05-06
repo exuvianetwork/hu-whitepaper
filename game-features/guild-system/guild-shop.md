@@ -1,6 +1,6 @@
 # Guild shop
 
-Participating raids won't be easy, Explore the guild shop and buy some buff and more awesome stuff.
+Participating in raids will be difficult. Explore the guild shop and purchase some buffs and other awesome items.
 
 {% hint style="info" %}
 Locked for specific Guild levels
