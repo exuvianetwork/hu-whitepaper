@@ -1,6 +1,10 @@
 # Combine System
 
-Combine will be our first sword NFT burning mechanism this feature will be free from transaction fees.
+To reduce the number of minted swords, we'll add our Nft Burning system. Integrate
+
+Integrate allows users to merge any swords to create a single random or pure element sword this feature will be free from transaction fees
+
+There are two types of integration, each of which differs in terms of the user's preferred method of performing one.
 
 
 
