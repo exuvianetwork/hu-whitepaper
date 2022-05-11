@@ -74,7 +74,17 @@ All RAP that is used to purchased potion will be burned automatically.
 All RAP that is used to customized your heroes will be burned automatically.
 {% endhint %}
 
-On this way we can always increase its demand without worrying about over circulation.
+## Heroes/Swords Change Name
+
+it needs RAP to change a NFT asset name.
+
+{% hint style="info" %}
+All RAP that is used to changed your heroes/swords name will be burned automatically.
+{% endhint %}
+
+
+
+> On this way we can always increase its demand without worrying about over circulation.
 
 {% hint style="warning" %}
 ALL FEES ARE SUBJECT TO CHANGE DEPENDS ON THE ECONOMIC GROWTH OF THE GAME.
