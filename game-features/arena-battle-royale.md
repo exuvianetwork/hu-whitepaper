@@ -38,3 +38,7 @@ We will conduct a seasonal system for 3 months, those who are in the leaderboard
 | Hero II      | 2700 - 2849 | 30-29 PER WIN |
 | Hero III     | 2850 - 2999 | 34-31 PER WIN |
 | Legend       | 3000 +      | 35 PER WIN    |
+
+{% hint style="danger" %}
+ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDS ON THE ECONOMIC GROWTH OF THE GAME.
+{% endhint %}

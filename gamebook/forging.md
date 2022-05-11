@@ -28,7 +28,7 @@ Category of the swords element will be determined on the blade.
 | 3/5         | 4            | 300 | 1   |
 | 4/5         | 5            | 150 | 1   |
 
-These figures may change depending on the games economic balance. The RAP and SGN require per forge can change.&#x20;
+These figures may change depending on the games economic balance. The RAP and SGN require per forge can change.
 
 ## **Genetics**
 
@@ -39,8 +39,8 @@ The dominant gene is what determines the part that is physically present on the 
 {% endhint %}
 
 * **Dominant (D):** 60% chance to pass this gene to the forged weapon.
-* **Major Recessive (R1):**  24.125% **** chance to pass this gene to the forged weapon.
-* **Minor Recessive (R2):**   12.135% chance to pass this gene to the forged weapon.
+* **Major Recessive (R1):** 24.125% chance to pass this gene to the forged weapon.
+* **Minor Recessive (R2):** 12.135% chance to pass this gene to the forged weapon.
 * **Hidden Recessive (R3):** 3.74% chance to pass this gene to the forged weapon
 
 ## Element Calculation
@@ -49,17 +49,17 @@ Each forged weapon has a 50% chance of inheriting each of the weapons element us
 
 ## Collab Forging
 
-We are pleased to announce that we will have a collab forging for those who don't have a capacity to cater to forge.
+We are pleased to announce that we will have a collaboration forging for those who don't have a capacity to cater to forge.
 
-Players will list their available pair on the marketplace and wait for the other player to complete and meet the requirement needed to forge.&#x20;
+Players will list their available pair on the marketplace and wait for the other player to complete and meet the requirement needed to forge.
 
-> _They will split in half of the forged weapons._ \
-> __\
-> _The minimum times to forge are incremented by two._&#x20;
+> _They will split in half of the forged weapons._\
+> \_\_\
+> _The minimum times to forge are incremented by two._
 
 {% hint style="danger" %}
 _e.g._\
-__\
+\_\_\
 _A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forge to four times. The other player will gather the requirements needed to forge those collab pair. Then after gathering the required amount of RAP and SGN, and completed forging they will split all the forged weapon in half. Having each player two forged weapons._
 {% endhint %}
 
@@ -69,7 +69,7 @@ We invoke a cooldown time for gifting, forging, and smelting.
 
 ### Gifting
 
-Swords gifted under 48 hours will no longer gain rewards from any battle.&#x20;
+Swords gifted under 48 hours will no longer gain rewards from any battle.
 
 > _Having one sword gifted will trigger the above consequence._
 
@@ -110,6 +110,5 @@ Player will forge two swords with 4/5 and 1/5 forge count. The two swords smelti
 4/5 = 144 HRS\
 1/5 = 72 HRS\
 \
-So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.\
-
+So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.\\
 {% endhint %}
