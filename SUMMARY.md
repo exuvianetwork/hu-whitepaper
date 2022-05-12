@@ -59,6 +59,4 @@
 
 ## GLOBAL INFORMATION
 
-* [Team](global-information/team.md)
 * [Roadmap](global-information/roadmap.md)
-* [Socials and Verified Links](global-information/socials-and-verified-links.md)
