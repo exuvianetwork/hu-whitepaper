@@ -20,7 +20,6 @@
   * [Founding Swords](gamebook/weapons/founding/README.md)
     * [Heroic](gamebook/weapons/founding/heroic.md)
     * [Corrupted](gamebook/weapons/founding/corrupted.md)
-* [Cosmetics](gamebook/cosmetics.md)
 
 ## Cards
 
@@ -33,6 +32,7 @@
 
 ## GAME FEATURES
 
+* [Cosmetics](game-features/cosmetics.md)
 * [Stamina System](game-features/stamina-system.md)
 * [Durability System](game-features/durability-system.md)
 * [Forging System](gamebook/forging.md)
