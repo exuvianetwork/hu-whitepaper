@@ -74,3 +74,4 @@
 
 * [Team](global-information/team.md)
 * [Roadmap](global-information/roadmap.md)
+* [Verified Social Media Links](global-information/verified-social-media-links.md)
