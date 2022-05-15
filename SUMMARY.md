@@ -59,4 +59,5 @@
 
 ## GLOBAL INFORMATION
 
+* [Team](global-information/team.md)
 * [Roadmap](global-information/roadmap.md)
