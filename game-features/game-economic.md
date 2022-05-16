@@ -86,11 +86,11 @@ All RAP that is used to changed your heroes/swords name will be burned automatic
 
 RAP Claiming has a limit and it has fees if it exceeds the claiming limit, and it is indicated below;
 
-{% hint style="warning" %}
+{% hint style="info" %}
 RAP CLAIMING LIMIT: 30,000 RAP
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 RAP claiming limit may change depending on the economic growth of the game.
 {% endhint %}
 
