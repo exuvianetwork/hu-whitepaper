@@ -70,10 +70,13 @@
     * [Public Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
     * [NFT Sale (DEVELOPMENT)](tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development.md)
 
+## Project Exuvia
+
+* [Project Exuvia Foundation](project-exuvia/project-exuvia-foundation.md)
+* [Project Exuvia Guard](project-exuvia/project-exuvia-guard.md)
+
 ## GLOBAL INFORMATION
 
 * [Team](global-information/team.md)
-* [Project Exuvia Foundation](global-information/project-exuvia-foundation.md)
-* [Project Exuvia Guard](global-information/project-exuvia-guard.md)
 * [Roadmap](global-information/roadmap.md)
 * [Verified Social Media Links](global-information/verified-social-media-links.md)
