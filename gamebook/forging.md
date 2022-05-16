@@ -57,7 +57,7 @@ Players will list their available pair on the marketplace and wait for the other
 > \_\_\
 > _The minimum times to forge are incremented by two._
 
-{% hint style="info" %}
+{% hint style="danger" %}
 _e.g._\
 \_\_\
 _A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forge to four times. The other player will gather the requirements needed to forge those collab pair. Then after gathering the required amount of RAP and SGN, and completed forging they will split all the forged weapon in half. Having each player two forged weapons._
@@ -101,7 +101,7 @@ We have smelting time depends on the forge count of the parent. Below are smelti
 | 3/5         | 120                 |
 | 4/5         | 144                 |
 
-{% hint style="info" %}
+{% hint style="danger" %}
 e.g.
 
 \

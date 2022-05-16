@@ -6,19 +6,19 @@ The Heroes Journey fighting system is a turn-based card game in which your squad
 
 ### Battle Stage
 
-Once both players click the attack button, the battle will begin.\
-\-At the start of each round, item cards will be added at random.\
-\-Buffs that affect attack sequence will be applied next round.\
-\-The effect of each card will be applied once it is used during the round.\
-\-Heroes will attack their closest target except when using cards that allow the hero to attack furthest or behind their closest target.
+Once both players click the Attack Button the battle will begin.
 
-### Seasonal System
+\-At the start of each round, item cards will be added at random.
 
-We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
+\-Buffs that affects attack sequence will be applied next round.
+
+\-Effect of each cards will be applied once its used during the round.
+
+\-Heroes will attack its closes target except when using cards that allows the hero to attack furthest or behind the closes target.
 
 ## Seasonal System
 
-We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
+We will conduct a seasonal system for 3 months, those who are in the leaderboard will have a portion on the seasonal prize pool. So grind to the top to be the best Weapon Wielder of Mydoslyne.
 
 ## Rank, MMR Brackets and RAP rewards:
 
@@ -39,6 +39,6 @@ We will have a seasonal system for 3 months. Those who are on the leaderboard wi
 | Hero III     | 2850 - 2999 | 34-31 PER WIN |
 | Legend       | 3000 +      | 35 PER WIN    |
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDS ON THE ECONOMIC GROWTH OF THE GAME.
 {% endhint %}

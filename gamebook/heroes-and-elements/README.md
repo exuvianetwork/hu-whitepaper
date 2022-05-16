@@ -4,6 +4,6 @@ To begin the adventure, players must have at least three (3) heroes and three (3
 
 Although heroes can employ opposing elemental weapons, each hero and weapon has its unique set of attributes.
 
-
+###
 
 ![](../../.gitbook/assets/273522564\_470749538011857\_8066609477723809255\_n.png)
