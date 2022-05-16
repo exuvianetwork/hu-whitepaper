@@ -73,5 +73,7 @@
 ## GLOBAL INFORMATION
 
 * [Team](global-information/team.md)
+* [Project Exuvia Foundation](global-information/project-exuvia-foundation.md)
+* [Project Exuvia Guard](global-information/project-exuvia-guard.md)
 * [Roadmap](global-information/roadmap.md)
 * [Verified Social Media Links](global-information/verified-social-media-links.md)
