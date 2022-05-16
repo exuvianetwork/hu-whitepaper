@@ -82,7 +82,30 @@ it needs RAP to change a NFT asset name.
 All RAP that is used to changed your heroes/swords name will be burned automatically.
 {% endhint %}
 
+## Limits and Fees On RAP Claiming
 
+RAP Claiming has a limit and it has fees if it exceeds the claiming limit, and it is indicated below;
+
+{% hint style="warning" %}
+RAP CLAIMING LIMIT: 30,000 RAP
+{% endhint %}
+
+{% hint style="danger" %}
+RAP claiming limit may change depending on the economic growth of the game.
+{% endhint %}
+
+| AMOUNT                            | SANCTION FEE |
+| --------------------------------- | ------------ |
+| Less than or equal to 30,000 RAP  | 0%           |
+| Less than or equal to 50,000 RAP  | 1%           |
+| Less than or equal to 100,000 RAP | 2%           |
+| Less than or equal to 200,000 RAP | 4%           |
+| Less than or equal to 250,000 RAP | 5%           |
+| Greater than 250,000 RAP          | 10%          |
+
+{% hint style="info" %}
+Sanction Fees coming from not abiding the RAP Claiming Limit will be automatically burned.
+{% endhint %}
 
 > On this way we can always increase its demand without worrying about over circulation.
 
