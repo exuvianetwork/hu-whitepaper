@@ -1,6 +1,6 @@
 # Heroes Uprising
 
-![V. 1.0.9](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
+![V. 1.0.10](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
 
 > Battle a bunch of enemies in arena and dungeon to unlock loots and become a legendary hero.
 
