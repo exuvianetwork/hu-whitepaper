@@ -72,7 +72,7 @@
 
 ## Project Exuvia
 
-* [Project Exuvia Foundation](project-exuvia/project-exuvia-foundation.md)
+* [AgriNanay Foundation](project-exuvia/agrinanay-foundation.md)
 * [Project Exuvia Guard](project-exuvia/project-exuvia-guard.md)
 
 ## GLOBAL INFORMATION
