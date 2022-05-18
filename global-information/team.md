@@ -18,11 +18,11 @@ Ryan is the COO of Heroes Uprising. Being in the world of cryptocurrency in its 
 
 ## CTO
 
+## CGO
+
 ## Anne B. Sobrado | Communication Lead
 
 Anne is in charge of the Communication between the project and the audience, as well as planning and creating marketing and communications for the project.
-
-## CGO
 
 ## Luis Miguel "CoCoButter" M. Panta | Game Strategic Lead
 
