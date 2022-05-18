@@ -1,8 +1,12 @@
 # Security Features
 
+## Logging in game
+
+You need to create an account using a metamask wallet on the marketplace. Then you need to verify your email to use the marketplace without limits. Once its verified, you can login on the game using the email that is connected to your metamask on the marketplace.
+
 ## Gifting
 
-Players who want to gift any in-game asset will have to turn on 2FA first.
+Players who want to gift any in-game asset will have to turn on 2FA first. And the player receiving the asset won't be able to earn for _24_ hours prior to the gifting.
 
 ## Renting/Scholarship
 
@@ -30,3 +34,6 @@ The manager will create a team and pick 3 heroes equipped with 3 swords that wil
 The manager can only terminate the contract once it is 14 days old.
 {% endhint %}
 
+## Contract Termination
+
+Contract termination occurs when the manager or the scholar terminates the contract, all the asset rented by the scholar will go back to its manager. And they will be prompted by an email connected to their account a summary of their earnings through out the renting period.
