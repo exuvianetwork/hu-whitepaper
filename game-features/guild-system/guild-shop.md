@@ -1,5 +1,7 @@
 # Guild shop
 
+![](../../.gitbook/assets/SHOP.jpg)
+
 Participating in raids will be difficult. Explore the guild shop and purchase some buffs and other awesome items.
 
 {% hint style="info" %}
