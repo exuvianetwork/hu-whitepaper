@@ -1,6 +1,6 @@
 # Guild System
 
-![](../../.gitbook/assets/274470621\_1550663488634113\_1538154905067680475\_n.png)
+![](../../.gitbook/assets/280046764\_547675686964943\_7143949812595273658\_n.jpg)
 
 Joining or creating a Guild will grant you access to guild tech, guild expedition and guild domination.
 
