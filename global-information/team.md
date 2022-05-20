@@ -38,3 +38,28 @@ Kim Fisico | Moderator\
 KingThor Bonifacio | Moderator\
 Mark Evangelista | Moderator\
 Mitchel Paul | Moderator\
+
+
+## Advisors & Ambassadors&#x20;
+
+## Exuvia Reserve Vault Organization Team
+
+Allan Brando B. Catayoc | CEO / Co-Founder\
+Ryan "Rime" M. Panuncia | COO / Co-Founder\
+Mairambek Arstanbekov | CTO / Co-Founder\
+CGO / Co-Founder\
+&#x20;\| Governing Council\
+&#x20;\| Governing Council\
+&#x20;\| Governing Council\
+&#x20;\| Governing Council\
+&#x20;\| Governing Council\
+&#x20;\| Governing Council
+
+## Agrinanay Foundation Team
+
+Anne B. Sobrado | CEO / Founder\
+Jayvee Estacio | Agrinanay Team Lead\
+Rubz Nuevo | Agrinanay Assitant Team Lead\
+Bryan Mejares | Agrinanay Consultant\
+Jasper Bañez | Agrinanay Inventory Clerk\
+John Zenon Tan | Agrinanay Data Analytics
