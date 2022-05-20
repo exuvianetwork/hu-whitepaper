@@ -70,14 +70,14 @@
     * [Public Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
     * [NFT Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development.md)
 
-## Project Exuvia
-
-* [AgriNanay Foundation](project-exuvia/agrinanay-foundation.md)
-* [Exuvia Reserve Vault (ERV)](project-exuvia/project-exuvia-guard.md)
-  * [ERV Council](project-exuvia/exuvia-protection-vault-epv/epv-council.md)
-
 ## GLOBAL INFORMATION
 
 * [Team](global-information/team.md)
 * [Roadmap](global-information/roadmap.md)
 * [Verified Social Media Links](global-information/verified-social-media-links.md)
+
+## Project Exuvia
+
+* [AgriNanay Foundation](project-exuvia/agrinanay-foundation.md)
+* [Exuvia Reserve Vault (ERV)](project-exuvia/project-exuvia-guard.md)
+  * [ERV Council](project-exuvia/exuvia-protection-vault-epv/epv-council.md)

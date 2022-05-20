@@ -11,10 +11,6 @@ Ryan "Rime" M. Panuncia | COO / Co-Founder\
 Mairambek Arstanbekov | CTO / Co-Founder\
 &#x20;\| CGO / Co-Founder
 
-## Development Team
-
-
-
 ## Production Team
 
 Anne B. Sobrado | Communication Lead\
@@ -27,7 +23,8 @@ Ivan Charlem Igot | Animator Lead \
 Utsukushi Desu | Sketch Art Talent \
 Claire Mamalias | Sketch Art Talent \
 Gabriel Bryan S. Agudo | Documentation Writer\
-Brylle Solano | Documentation Writer
+Brylle Solano | Documentation Writer\
+Ainol Obando | Onsite Security Head / Employee Monitoring
 
 ## Marketing Team
 
@@ -40,7 +37,7 @@ Josephrin Ramos Torcino | Moderator\
 Keith Leugie Albarida | Moderator\
 Kim Fisico | Moderator\
 KingThor Bonifacio | Moderator\
-Mark Caaway | Moderator\
+Mark Evangelista | Moderator\
 Mitchel Paul | Moderator\
 
 
@@ -67,8 +64,3 @@ Rubz Nuevo | Agrinanay Assitant Team Lead\
 Bryan Mejares | Agrinanay Consultant\
 Jasper Bañez | Agrinanay Inventory Clerk\
 John Zenon Tan | Agrinanay Data Analytics
-
-## Project Exuvia Onsite Team
-
-Ainol Obando | Onsite Security Head / Employee Monitoring\
-Henry Alcantara | Company Accountant
