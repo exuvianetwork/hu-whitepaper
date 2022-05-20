@@ -23,8 +23,7 @@ Ivan Charlem Igot | Animator Lead \
 Utsukushi Desu | Sketch Art Talent \
 Claire Mamalias | Sketch Art Talent \
 Gabriel Bryan S. Agudo | Documentation Writer\
-Brylle Solano | Documentation Writer\
-Ainol Obando | Onsite Security Head / Employee Monitoring
+Brylle Solano | Documentation Writer
 
 ## Marketing Team
 
@@ -64,3 +63,8 @@ Rubz Nuevo | Agrinanay Assitant Team Lead\
 Bryan Mejares | Agrinanay Consultant\
 Jasper Bañez | Agrinanay Inventory Clerk\
 John Zenon Tan | Agrinanay Data Analytics
+
+## Project Exuvia Onsite Team
+
+Ainol Obando | Onsite Security Head / Employee Monitoring\
+Henry Alcantara | Company Accountant
