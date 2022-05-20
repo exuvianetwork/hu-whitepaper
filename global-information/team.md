@@ -11,11 +11,14 @@ Ryan "Rime" M. Panuncia | COO / Co-Founder\
 Mairambek Arstanbekov | CTO / Co-Founder\
 &#x20;\| CGO / Co-Founder
 
+## Development Team
+
+
+
 ## Production Team
 
 Anne B. Sobrado | Communication Lead\
 Luis Miguel "CoCoButter" M. Panta | Game Strategic Lead\
-Bernardino "Dino" C. Custorio | Project Manager\
 Dave Agustin "Decimo" A. Caacoy | Creative Director\
 Joenard "AH JIN" V. Magallanes | Social Media Manager\
 Joshua S. Pales | Arts & Design Lead\
@@ -23,8 +26,7 @@ Ivan Charlem Igot | Animator Lead \
 Utsukushi Desu | Sketch Art Talent \
 Claire Mamalias | Sketch Art Talent \
 Gabriel Bryan S. Agudo | Documentation Writer\
-Brylle Solano | Documentation Writer\
-Ainol Obando | Onsite Security Head / Employee Monitoring
+Brylle Solano | Documentation Writer
 
 ## Marketing Team
 
@@ -37,7 +39,7 @@ Josephrin Ramos Torcino | Moderator\
 Keith Leugie Albarida | Moderator\
 Kim Fisico | Moderator\
 KingThor Bonifacio | Moderator\
-Mark Evangelista | Moderator\
+Mark Caaway | Moderator\
 Mitchel Paul | Moderator\
 
 
@@ -64,3 +66,9 @@ Rubz Nuevo | Agrinanay Assitant Team Lead\
 Bryan Mejares | Agrinanay Consultant\
 Jasper Bañez | Agrinanay Inventory Clerk\
 John Zenon Tan | Agrinanay Data Analytics
+
+## Project Exuvia Onsite Team
+
+Bernardino "Dino" C. Custorio | Project Manager\
+Ainol Obando | Cyber Security Head / Employee Monitoring\
+Henry Alcantara | Company Accountant\
