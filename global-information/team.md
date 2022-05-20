@@ -18,7 +18,7 @@ Luis Miguel "CoCoButter" M. Panta | Game Strategic Lead\
 Bernardino "Dino" C. Custorio | Project Manager\
 Dave Agustin "Decimo" A. Caacoy | Creative Director\
 Joenard "AH JIN" V. Magallanes | Social Media Manager\
-Joshua S. Pales | Arts Director \
+Joshua S. Pales | Arts & Design Lead\
 Ivan Charlem Igot | Animator Lead \
 Utsukushi Desu | Sketch Art Talent \
 Claire Mamalias | Sketch Art Talent \
