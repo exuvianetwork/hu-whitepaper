@@ -1,2 +1,2 @@
-# Exuvia Reserve Vault (ERV)
+# Exuvia Protection Vault (EPV)
 

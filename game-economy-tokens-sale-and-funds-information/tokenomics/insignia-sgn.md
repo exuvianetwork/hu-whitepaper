@@ -31,5 +31,5 @@ only 10% of the total max supply will be generated as an initial supply and the 
 | Reserved       | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Liquidity      | 4%         | 4,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Team & Advisor | 7%         | 7,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Game Rewards   | 8%         | 8,000,000 $SGN  |                                                                                            |
-| Airdrop        | 2%         | 2,000,000 $SGN  |                                                                                            |
+| Game Rewards   | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Airdrop        | 2%         | 2,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |

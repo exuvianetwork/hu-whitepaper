@@ -1,6 +1,2 @@
----
-description: Coming soon
----
-
-# AgriNanay Foundation
+# Project Exuvia Foundation
 
