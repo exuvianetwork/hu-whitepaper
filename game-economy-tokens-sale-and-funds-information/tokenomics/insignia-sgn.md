@@ -8,7 +8,7 @@ Insignia (SGN), a ERC20 token, is the governance token for Project Exuvia that i
 
 | SECTION          | VALUE              |
 | ---------------- | ------------------ |
-| Initial Supply   | 20,000,000 $SGN    |
+| Initial Supply   | 100,000,000 $SGN   |
 | Max Supply       | 1,000,000,000 $SGN |
 | Token Type       | Governance Token   |
 | Decimals         | 18                 |
@@ -17,17 +17,19 @@ Insignia (SGN), a ERC20 token, is the governance token for Project Exuvia that i
 | Contract Address | TBA                |
 
 {% hint style="info" %}
-only 2% of the total max supply will be generated as an initial supply and the rest will be generated through staking.
+only 10% of the total max supply will be generated as an initial supply and the rest will be generated through staking.
 {% endhint %}
 
 ### Token Breakdown
 
-| SECTION      | ALLOCATION | TOKENS         | VESTED                                                                                     |
-| ------------ | ---------- | -------------- | ------------------------------------------------------------------------------------------ |
-| Development  | 20%        | 4,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Seed Sale    | 18%        | 3,600,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Private Sale | 15%        | 3,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Public Sale  | 22%        | 4,400,000 $SGN | [NO](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule)  |
-| Reserved     | 7%         | 1,400,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Liquidity    | 13%        | 2,600,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Team         | 5%         | 1,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| SECTION        | ALLOCATION | TOKENS          | VESTED                                                                                     |
+| -------------- | ---------- | --------------- | ------------------------------------------------------------------------------------------ |
+| Development    | 30%        | 30,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Seed Sale      | 20%        | 20,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Private Sale   | 12%        | 12,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Public Sale    | 9%         | 9,000,000 $SGN  | [NO](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule)  |
+| Reserved       | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Liquidity      | 4%         | 4,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Team & Advisor | 7%         | 7,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Game Rewards   | 8%         | 8,000,000 $SGN  |                                                                                            |
+| Airdrop        | 2%         | 2,000,000 $SGN  |                                                                                            |
