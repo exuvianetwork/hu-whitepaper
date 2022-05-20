@@ -11,6 +11,10 @@ Ryan "Rime" M. Panuncia | COO / Co-Founder\
 Mairambek Arstanbekov | CTO / Co-Founder\
 &#x20;\| CGO / Co-Founder
 
+## Development Team
+
+
+
 ## Production Team
 
 Anne B. Sobrado | Communication Lead\
