@@ -23,7 +23,8 @@ Ivan Charlem Igot | Animator Lead \
 Utsukushi Desu | Sketch Art Talent \
 Claire Mamalias | Sketch Art Talent \
 Gabriel Bryan S. Agudo | Documentation Writer\
-Brylle Solano | Documentation Writer
+Brylle Solano | Documentation Writer\
+Ainol Obando | Onsite Security Head / Employee Monitoring
 
 ## Marketing Team
 
