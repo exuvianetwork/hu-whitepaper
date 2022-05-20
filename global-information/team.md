@@ -16,7 +16,9 @@ Before Heroes Uprising he is an avid Crypto Investor in some start up company in
 
 Ryan is the COO of Heroes Uprising. Being in the world of cryptocurrency in its ups and downs has given me ideas on how to make this game sustainable, especially with my experiences with NFT games. I am competent and confident in my knowledge of cryptocurrency that my knowledge will help in solving problems such as an "economy problem and inflation of the utility token" that will benefit Heroes Uprising and its player base.
 
-## CTO
+## Mairambek Arstanbekov | CTO
+
+Is a Full Stack/Blockchain talent engineer
 
 ## CGO
 
