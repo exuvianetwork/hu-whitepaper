@@ -50,6 +50,10 @@
 * [Scholarship Program](game-features/scholarship-program.md)
 * [Security Features](game-features/security-features.md)
 
+## DAPP
+
+* [Marketplace](dapp/marketplace.md)
+
 ## GAME ECONOMY, TOKENS, SALE, AND FUNDS INFORMATION
 
 * [Game Economic Balance](game-economy-tokens-sale-and-funds-information/game-economic.md)
