@@ -14,6 +14,8 @@ Marketplace transactions being carried out will require both a buyer and a selle
 
 ### Sell
 
+## Other Features
+
 ### Forging
 
 ### Rent
