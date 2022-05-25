@@ -9,7 +9,7 @@
 * Allan Brando B. Catayoc | CEO / Co-Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
 * Mairambek Arstanbekov | CTO / Co-Founder
-* &#x20;\| CGO / Co-Founder
+* Kean John Sean Lagbo | CGO / Co-Founder
 
 ## Development Team
 
@@ -49,7 +49,7 @@
 * Allan Brando B. Catayoc | CEO / Co-Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
 * Mairambek Arstanbekov | CTO / Co-Founder
-* &#x20;\| CGO / Co-Founder
+* Kean John Sean Lagbo | CGO / Co-Founder
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council

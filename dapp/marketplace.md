@@ -10,10 +10,6 @@ Marketplace transactions being carried out will require both a buyer and a selle
 
 ### Overview
 
-### Buying
-
-
-
 ### Selling
 
 #### Buy Now
@@ -21,6 +17,8 @@ Marketplace transactions being carried out will require both a buyer and a selle
 #### Auction
 
 #### Lending
+
+### Buying
 
 ## Other Features
 

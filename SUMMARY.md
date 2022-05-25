@@ -32,21 +32,21 @@
 
 ## GAME FEATURES
 
-* [Cosmetics](game-features/cosmetics.md)
-* [Stamina System](game-features/stamina-system.md)
-* [Durability System](game-features/durability-system.md)
 * [Forging System](gamebook/forging.md)
 * [Sprites System](gamebook/sprites-system.md)
+* [Fusion System](game-features/fusion-system.md)
+* [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
+  * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
+  * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
 * [Guild System](game-features/guild-system/README.md)
   * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
   * [Guild Domination](game-features/guild-system/guild-domination.md)
   * [Guild shop](game-features/guild-system/guild-shop.md)
-* [Combine System](game-features/combine-system.md)
-* [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
-  * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
-  * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
+* [Durability System](game-features/durability-system.md)
+* [Stamina System](game-features/stamina-system.md)
 * [Arena Battle Royale](game-features/arena-battle-royale.md)
+* [Cosmetics](game-features/cosmetics.md)
 * [Scholarship Program](game-features/scholarship-program.md)
 * [Security Features](game-features/security-features.md)
 
