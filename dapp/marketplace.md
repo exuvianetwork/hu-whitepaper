@@ -26,7 +26,7 @@ The Heroes Uprising Marketplace is consisting of three ways to sell, these are t
 
 ### Buying
 
-If you are considering on buying an NFT from the market, make sure to have prepared the requested currency the seller has set. To continue, access by simply clicking on the "buy" button from the page, confirm and check your associated wallets for any pop up confirmations regarding the transaction and check details. Once you have accepted the transaction, the purchase will be completed
+If you are considering on buying an NFT from the market, make sure to have prepared the requested currency the seller has set. To continue, access by simply clicking on the "buy" button from the page, confirm and check your associated wallets for any pop up confirmations regarding the transaction and check details. Once you have accepted the transaction, the purchase will be completed.
 
 ## Other Features
 
