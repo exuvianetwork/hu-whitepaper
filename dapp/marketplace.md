@@ -32,9 +32,16 @@ If you are considering on buying an NFT from the market, make sure to have prepa
 
 ### Forging
 
+If you want a better card combination, you can forge new weapons, exactly as in any other fantasy game. These weapons can be utilized in battle, used to make new weapons, or sold on the open market. More info [here](https://docs.heroesuprising.com/game-features/forging).
+
 ### Rent
+
+Just like any NFT game that has a Scholarship Program. We wish to bring fun and amusement to everyone while learning the game fundamentals, including those who do not have the resources to start and earn reward tokens from the game. More info [here.](https://docs.heroesuprising.com/game-features/scholarship-program)
 
 ### Bridge
 
+Coming soon...
+
 ### Utility Shop
 
+Coming soon...
