@@ -41,12 +41,12 @@ If fusion does not result in a rarity increase, then the companion you receive w
 
 Element outcome is dependent on the percentage drop, as will be shown in this chart.
 
-| Elements | Probability |
-| -------- | ----------- |
-| Fire     | 22%         |
-| Water    | 22%         |
-| Earth    | 22%         |
-| Air      | 22%         |
-| Light    | 22%         |
-| Dark     | 22%         |
+| Elements | Probability    |
+| -------- | -------------- |
+| Fire     | 16.6666666667% |
+| Water    | 16.6666666667% |
+| Air      | 16.6666666667% |
+| Earth    | 16.6666666667% |
+| Light    | 16.6666666667% |
+| Dark     | 16.6666666667% |
 

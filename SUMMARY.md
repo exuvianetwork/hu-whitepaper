@@ -34,7 +34,7 @@
 
 * [Forging System](gamebook/forging.md)
 * [Sprites System](gamebook/sprites-system.md)
-* [Fusion System](game-features/fusion-system.md)
+* [Fusion System](game-features/combine-system.md)
 * [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
   * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
