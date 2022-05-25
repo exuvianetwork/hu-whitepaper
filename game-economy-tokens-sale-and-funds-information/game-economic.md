@@ -29,13 +29,13 @@ Normal Heroes can also be purchased with RAP on the marketplace. It will charge 
 ## Marketplace Swords
 
 {% hint style="info" %}
-Swords can be purchased with WETH on the marketplace. It will charge at least 4% of WETH as a fee. WETH will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+Swords can be purchased with SGN on the marketplace. It will charge at least 4% of SGN as a fee. SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Marketplace Sprite
 
 {% hint style="info" %}
-Sprites can be purchased with WETH on the marketplace. It will charge at least 4% of WETH as a fee. WETH will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+Sprites can be purchased with SGN on the marketplace. It will charge at least 4% of SGN as a fee. SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Sprite Fusion
@@ -43,8 +43,6 @@ Sprites can be purchased with WETH on the marketplace. It will charge at least 4
 {% hint style="info" %}
 All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
-
-## Sword Combine
 
 ## Weekly Dungeon Quest
 
