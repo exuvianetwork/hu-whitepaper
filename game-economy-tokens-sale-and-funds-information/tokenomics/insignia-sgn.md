@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/273924197\_241463344753943\_7662091046184021214\_n.png)
 
-Insignia (SGN), a ERC20 token, is the governance token for Project Exuvia that is used on Heroes Uprising. Having SGN allows its users the ability to vote on modifications to the projects future, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing Sword and minting Heroes. It is also a requirement for Forging Swords and Sprite Fusions..
+Insignia (SGN), an ERC20 token, is the governance token for Project Exuvia that is used on Heroes Uprising. Having SGN allows its users the ability to vote on modifications to the projects future, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing Sword and minting Heroes. It is also a requirement for Forging Swords and Sprite Fusions..
 
 ### SGN Tokenomics
 
@@ -24,12 +24,13 @@ only 10% of the total max supply will be generated as an initial supply and the 
 
 | SECTION        | ALLOCATION | TOKENS          | VESTED                                                                                     |
 | -------------- | ---------- | --------------- | ------------------------------------------------------------------------------------------ |
-| Development    | 30%        | 30,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Seed Sale      | 20%        | 20,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Development    | 25%        | 25,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Seed Sale      | 15%        | 15,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Private Sale   | 12%        | 12,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Public Sale    | 9%         | 9,000,000 $SGN  | [NO](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule)  |
 | Reserved       | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Liquidity      | 4%         | 4,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Marketing      | 5%         | 5,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Liquidity      | 9%         | 9,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Team & Advisor | 7%         | 7,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Game Rewards   | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Airdrop        | 2%         | 2,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
