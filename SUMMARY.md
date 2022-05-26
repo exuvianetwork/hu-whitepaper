@@ -33,6 +33,7 @@
 ## GAME FEATURES
 
 * [Forging System](gamebook/forging.md)
+* [Crafting System](game-features/crafting-system.md)
 * [Sprites System](gamebook/sprites-system.md)
 * [Fusion System](game-features/combine-system.md)
 * [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
