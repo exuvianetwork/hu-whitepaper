@@ -29,16 +29,22 @@ Normal Heroes can also be purchased with RAP on the marketplace. It will charge 
 ## Marketplace Swords
 
 {% hint style="info" %}
-Swords can be purchased with SGN on the marketplace. It will charge at least 4% of SGN as a fee. SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+Swords can be purchased with WETH on the marketplace. It will charge at least 4% of WETH as a fee. WETH will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Marketplace Sprite
 
 {% hint style="info" %}
-Sprites can be purchased with SGN on the marketplace. It will charge at least 4% of SGN as a fee. SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+Sprites can be purchased with WETH on the marketplace. It will charge at least 4% of WETH as a fee. WETH will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Sprite Fusion
+
+{% hint style="info" %}
+All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+{% endhint %}
+
+## Sword Fusion
 
 {% hint style="info" %}
 All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 6 parts 15% to the Team Treasury, 15% to the Project Treasury, 5% to the Foundation Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
@@ -119,13 +125,13 @@ All fees are subject to change, depending on the economic growth of the game.
 ALL TERMS WILL BE EXPLAINED BELOW
 {% endhint %}
 
-| TERMS               | DEFINITION                                                                                                                                                    |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SGN                 | Insignia Token (The Governance Token of Project Exuvia)                                                                                                       |
-| RAP                 | Rare Amethyst Particle (The Utility Token of Heroes Uprising)                                                                                                 |
-| Team Treasury       | This will be the treasury for the salary of all Project Exuvia Employee.                                                                                      |
-| Project Treasury    | This will be the treasury for the operating or development expenses of Project Exuvia.                                                                        |
-| Foundation Treasury | This will be the treasury for Project Exuvia Owned Foundation which is AgriNanay Foundation.                                                                  |
-| EPV Treasury        | This will be the treasury for EPV (Exuvia Protection Vault) Treasury, this treasury tackles the safe guard of the economy across all Project Exuvia products. |
-| Prize Pool Treasury | This will be the treasury for Seasonal and Guild Domination Prize Pool for Heroes Uprising.                                                                   |
-| Liquidity Treasury  | This will be the treasury for Liquidity Pairs on Aivuxe which includes the USDT/SGN, USDT/RAP, WETH/SGN, WETH/RAP, BNB/SGN, BNB/RAP, and SGN/RAP pair.        |
+| TERMS               | DEFINITION                                                                                                                                                 |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SGN                 | Insignia Token (The Governance Token of Project Exuvia)                                                                                                    |
+| RAP                 | Rare Amethyst Particle (The Utility Token of Heroes Uprising)                                                                                              |
+| Team Treasury       | This will be the treasury for the salary of all Project Exuvia Employee.                                                                                   |
+| Project Treasury    | This will be the treasury for the operating or development expenses of Project Exuvia.                                                                     |
+| Foundation Treasury | This will be the treasury for Project Exuvia Owned Foundation which is AgriNanay Foundation.                                                               |
+| ERV Treasury        | This will be the treasury for ERV (Exuvia Reserve Vault) Treasury, this treasury tackles the safe guard of the economy across all Project Exuvia products. |
+| Prize Pool Treasury | This will be the treasury for Seasonal and Guild Domination Prize Pool for Heroes Uprising.                                                                |
+| Liquidity Treasury  | This will be the treasury for Liquidity Pairs on Aivuxe which includes the USDT/SGN, USDT/RAP, WETH/SGN, WETH/RAP, BNB/SGN, BNB/RAP, and SGN/RAP pair.     |

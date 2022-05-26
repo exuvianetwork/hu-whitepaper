@@ -12,10 +12,6 @@ Players who want to gift any in-game asset will have to turn on 2FA first. And t
 
 Players who rented out their teams will be held in the escrow wallet. We maximize renting/scholarship security to protect scholars/renting from managers or those who list an asset for rent on the marketplace or give a scholar a scholarship.
 
-## Lending
-
-Players who lends out their teams will be held in the escrow wallet.
-
 ### Rigid Scroll
 
 If you are an individual that lists a team on the marketplace, Read the explanation below.
