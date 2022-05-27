@@ -9,7 +9,7 @@
     * [Fire element](gamebook/heroes-and-elements/heroes/fire-element.md)
     * [Water element](gamebook/heroes-and-elements/heroes/water-element.md)
     * [Earth element](gamebook/heroes-and-elements/heroes/earth-element.md)
-    * [Air element](gamebook/heroes-and-elements/heroes/wind-element.md)
+    * [Air element](gamebook/heroes-and-elements/heroes/air-element.md)
     * [Light element](gamebook/heroes-and-elements/heroes/light-element.md)
     * [Dark element](gamebook/heroes-and-elements/heroes/dark-element.md)
   * [Stats](gamebook/heroes-and-elements/stats.md)
