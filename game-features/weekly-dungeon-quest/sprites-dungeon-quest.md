@@ -9,7 +9,7 @@ Access this dungeon to have a chance to defeat a boss and receive rewards. On a 
 ## Drop Chances
 
 {% hint style="info" %}
-First time player accesses this dungeon gets a guaranteed (Common Pet - Random Element) `But not tradable`
+First time player accesses this dungeon gets a guaranteed (Common Pet - Random Element) `But not tradable and can't be fused`
 {% endhint %}
 
 * Common (40%)
