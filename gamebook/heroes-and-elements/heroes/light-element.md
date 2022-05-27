@@ -1,7 +1,7 @@
 ---
 description: >-
-  What this element lacks in damage, it more than makes up for it in buffs and
-  healing to win fights.
+  What this element lacks is damage, it is more on buffing and healing to win
+  fights.
 ---
 
 # Light element
