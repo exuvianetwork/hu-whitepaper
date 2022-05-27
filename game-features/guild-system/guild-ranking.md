@@ -12,7 +12,7 @@ Recruit more powerful players and work together to climb the guild rankings. Gui
 |       5       |                         (1) Durability Potion                         |      10      |   14   |
 |     6 - 10    |                      (4) Guild experience potion                      |              |   10   |
 |    11 - 50    |                      (3) Guild experience potion                      |              |    8   |
-|    51 - 99    |                      (2) Guild experience potion                      |              |    6   |
+|    51 - 99    |                      (2) Guild experience potion                      |              |    7   |
 | 100 and above |                      (1) Guild experience potion                      |              |    4   |
 
 {% hint style="info" %}
