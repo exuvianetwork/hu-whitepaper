@@ -1,4 +1,4 @@
-# Founding Sword NFT Sale
+# NFT Sale
 
 | FUNDS       | ALLOCATION |
 | ----------- | ---------- |
