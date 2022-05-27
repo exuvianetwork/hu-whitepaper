@@ -6,43 +6,19 @@ Access this dungeon to have a chance to defeat a boss and receive rewards. On a 
 
 (Fire) - (Water) - (Earth) - (Air) - (Light) - (Dark)
 
-## Drop Chances
+
+
+## &#x20;Drop Chances
 
 {% hint style="info" %}
-First time player accesses this dungeon gets a guaranteed (Common Pet - Random Element) `But not tradable and can't be fused`
+First time player accesses this dungeon (Common Pet - Random Element)
 {% endhint %}
 
 * Common (40%)
-* Uncommon (35%)
-* Rare (15%)
-* Epic (2.83%)
-* Legendary (0.10%)
-* Mythic (0.05%)
-* Exotic (0.02%)
+* Uncommon (35%)&#x20;
+* Rare (15%)&#x20;
+* Epic (2.83%)&#x20;
+* Legendary (0.10%)&#x20;
+* Mythic (0.05%)&#x20;
+* Exotic (0.02%)&#x20;
 * No Drop (7%)
-
-{% hint style="info" %}
-All Sprites are tradable on the marketplace and can be fused also, except for the free Sprite upon clearing the dungeon for the first time.
-{% endhint %}
-
-
-
-## Entry Fee
-
-| Entry | RAP Cost             |
-| ----- | -------------------- |
-| 1     | 150                  |
-| 2     | 300                  |
-| 3     | 450                  |
-| 4     | 600                  |
-| 5     | 750                  |
-| 6     | 900                  |
-| 7     | 1050                 |
-| 8     | 1200                 |
-| 9     | 1350                 |
-| 10    | 1500                 |
-| 10+   | .................... |
-
-{% hint style="info" %}
-Each entry will add 150 RAP Fee
-{% endhint %}
