@@ -1,6 +1,6 @@
-# Founding NFT Sale
+# Founding Sword NFT Sale
 
-We have to types of sales Package Mystery Box and Single Mystery Box. We concluded that we enclosed our NFT's to each of the mystery box. And the rarity and chances of the NFT's that are inside the mystery boxes are explained below.
+We have two types of sales Package Mystery Box and Single Mystery Box. We concluded that we enclosed our NFT's to each of the mystery box. And the rarity and probability of the NFT's that are inside the mystery boxes are explained below.
 
 {% hint style="info" %}
 All NFT's inside the Mystery Boxes has a "**Founding**" title

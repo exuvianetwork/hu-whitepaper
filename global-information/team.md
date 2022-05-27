@@ -8,8 +8,8 @@
 
 * Allan Brando B. Catayoc | CEO / Co-Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
-* Mairambek Arstanbekov | CTO / Co-Founder
-* &#x20;\| CGO / Co-Founder
+* &#x20;\| CTO / Co-Founder
+* Kean John Sean Lagbo | CGO / Co-Founder
 
 ## Development Team
 
@@ -41,6 +41,7 @@
 * KingThor Bonifacio | Moderator
 * Mark Caaway | Moderator
 * Mitchel Paul | Moderator
+* Helix Ray Catayoc | Moderator
 
 ## Advisors & Ambassadors&#x20;
 
@@ -49,7 +50,7 @@
 * Allan Brando B. Catayoc | CEO / Co-Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
 * Mairambek Arstanbekov | CTO / Co-Founder
-* &#x20;\| CGO / Co-Founder
+* Kean John Sean Lagbo | CGO / Co-Founder
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
@@ -61,7 +62,7 @@
 
 * Anne B. Sobrado | CEO / Founder
 * Jayvee Estacio | Agrinanay Team Lead
-* Rubz Nuevo | Agrinanay Assitant Team Lead
+* Rubz Nuevo | Agrinanay Assistant Team Lead
 * Bryan Mejares | Agrinanay Consultant
 * Jasper Bañez | Agrinanay Inventory Clerk
 * John Zenon Tan | Agrinanay Data Analytics
