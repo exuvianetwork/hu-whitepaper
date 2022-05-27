@@ -20,3 +20,25 @@ First time player accesses this dungeon gets a guaranteed (Common Pet - Random E
 * Mythic (0.05%)
 * Exotic (0.02%)
 * No Drop (7%)
+
+
+
+## Entry Fee
+
+| Entry | RAP Cost             |
+| ----- | -------------------- |
+| 1     | 150                  |
+| 2     | 300                  |
+| 3     | 450                  |
+| 4     | 600                  |
+| 5     | 750                  |
+| 6     | 900                  |
+| 7     | 1050                 |
+| 8     | 1200                 |
+| 9     | 1350                 |
+| 10    | 1500                 |
+| 10+   | .................... |
+
+{% hint style="info" %}
+Each entry will add 150 RAP Fee
+{% endhint %}
