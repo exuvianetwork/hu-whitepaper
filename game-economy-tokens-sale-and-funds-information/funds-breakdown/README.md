@@ -12,8 +12,8 @@
 [public-sale.md](public-sale.md)
 {% endcontent-ref %}
 
-{% content-ref url="founding-nft-sale/founding-sword-nft-sale.md" %}
-[founding-sword-nft-sale.md](founding-nft-sale/founding-sword-nft-sale.md)
+{% content-ref url="nft-sale.md" %}
+[nft-sale.md](nft-sale.md)
 {% endcontent-ref %}
 
 {% content-ref url="development-funds-breakdown/" %}

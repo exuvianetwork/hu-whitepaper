@@ -1,4 +1,4 @@
-# Sale Information
+# Token Sale Information
 
 ## SEED SALE
 
