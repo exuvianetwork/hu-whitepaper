@@ -28,9 +28,9 @@ only 10% of the total max supply will be generated as an initial supply and the 
 | Seed Sale      | 15%        | 15,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Private Sale   | 12%        | 12,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Public Sale    | 9%         | 9,000,000 $SGN  | [NO](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule)  |
-| Reserved       | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Marketing      | 5%         | 5,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Liquidity      | 9%         | 9,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
-| Team & Advisor | 7%         | 7,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Game Rewards   | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Reserved       | 8%         | 8,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Team & Advisor | 7%         | 7,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
+| Marketing      | 5%         | 5,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
 | Airdrop        | 2%         | 2,000,000 $SGN  | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
