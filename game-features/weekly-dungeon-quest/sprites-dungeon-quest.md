@@ -21,6 +21,10 @@ First time player accesses this dungeon gets a guaranteed (Common Pet - Random E
 * Exotic (0.02%)
 * No Drop (7%)
 
+{% hint style="info" %}
+All Sprites are tradable on the marketplace and can be fused also, except for the free Sprite upon clearing the dungeon for the first time.
+{% endhint %}
+
 
 
 ## Entry Fee
