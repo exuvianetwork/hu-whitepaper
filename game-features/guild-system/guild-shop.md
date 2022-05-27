@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/SHOP.jpg)
 
-Participating in raids will be difficult. Explore the guild shop and purchase some buffs and other awesome items.
+Participating in raids will be difficult. Explore the guild shop and purchase some buffs and other awesome items using your trophy rewards.
 
 {% hint style="info" %}
 Locked for specific Guild levels
