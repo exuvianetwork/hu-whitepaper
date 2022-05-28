@@ -110,5 +110,5 @@ Player will forge two swords with 4/5 and 1/5 forge count. The two swords smelti
 4/5 = 144 HRS\
 1/5 = 72 HRS\
 \
-So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.\\
+So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.
 {% endhint %}
