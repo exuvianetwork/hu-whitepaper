@@ -17,11 +17,10 @@
 * [Classifications](gamebook/classifications.md)
 * [Specialties](gamebook/specialties.md)
 * [Swords](gamebook/weapons/README.md)
-  * [Normal Swords](gamebook/weapons/normal-swords.md)
   * [Founding Swords](gamebook/weapons/founding/README.md)
     * [Heroic](gamebook/weapons/founding/heroic.md)
     * [Corrupted](gamebook/weapons/founding/corrupted.md)
-  * [Normal Sword](gamebook/weapons/normal-sword.md)
+  * [Normal Swords](gamebook/weapons/normal-swords.md)
 * [Sprites](gamebook/sprites-system.md)
 
 ## Cards
