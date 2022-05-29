@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/280046764\_547675686964943\_7143949812595273658\_n.jpg)
 
-Joining or creating a Guild will grant you access to guild tech, guild expedition and guild domination.
+Joining or creating a Guild will grant you access to guild tech, guild expedition, guild domination, guild ranking and guild shop
 
 {% content-ref url="guild-tech.md" %}
 [guild-tech.md](guild-tech.md)
@@ -14,4 +14,12 @@ Joining or creating a Guild will grant you access to guild tech, guild expeditio
 
 {% content-ref url="guild-domination.md" %}
 [guild-domination.md](guild-domination.md)
+{% endcontent-ref %}
+
+{% content-ref url="guild-ranking.md" %}
+[guild-ranking.md](guild-ranking.md)
+{% endcontent-ref %}
+
+{% content-ref url="guild-shop.md" %}
+[guild-shop.md](guild-shop.md)
 {% endcontent-ref %}
