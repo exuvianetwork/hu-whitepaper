@@ -22,6 +22,8 @@ only 10% of the total max supply will be generated as an initial supply and the 
 
 ### Token Breakdown
 
+![](../../.gitbook/assets/CHART-TOKENOMICS.png)
+
 | SECTION        | ALLOCATION | TOKENS          | VESTED                                                                                     |
 | -------------- | ---------- | --------------- | ------------------------------------------------------------------------------------------ |
 | Development    | 25%        | 25,000,000 $SGN | [YES](https://docs.heroesuprising.com/tokens-and-funds-information/token-release-schedule) |
