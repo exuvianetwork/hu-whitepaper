@@ -8,7 +8,7 @@
 
 * Allan Brando B. Catayoc | CEO / Co-Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
-* &#x20;\| CTO / Co-Founder
+* Mairambek Arstanbekov | CTO / Co-Founder
 * Kean John Sean Lagbo | CGO / Co-Founder
 
 ## Development Team
@@ -35,13 +35,16 @@
 * Dawn Kenneth Bensig | Moderator
 * Felix Eras III | Moderator
 * Gab Cantada | Moderator
-* Josephrin Ramos Torcino | Moderator
 * Keith Leugie Albarida | Moderator
 * Kim Fisico | Moderator
 * KingThor Bonifacio | Moderator
-* Mark Caaway | Moderator
 * Mitchel Paul | Moderator
 * Helix Ray Catayoc | Moderator
+* Shawn Justin Canillo | Moderator
+* Manuelito Campos Jr | Moderator
+* Bryan Mejares | Moderator
+* Jasper Bañez | Moderator
+* John Zenon Tan | Moderator
 
 ## Advisors & Ambassadors&#x20;
 
@@ -63,9 +66,8 @@
 * Anne B. Sobrado | CEO / Founder
 * Jayvee Estacio | Agrinanay Team Lead
 * Rubz Nuevo | Agrinanay Assistant Team Lead
-* Bryan Mejares | Agrinanay Consultant
-* Jasper Bañez | Agrinanay Inventory Clerk
-* John Zenon Tan | Agrinanay Data Analytics
+
+
 
 ## Project Exuvia Onsite Team
 
