@@ -88,6 +88,5 @@
 
 ## Project Exuvia
 
-* [AgriNanay Foundation](project-exuvia/agrinanay-foundation.md)
 * [Exuvia Reserve Vault (ERV)](project-exuvia/project-exuvia-guard.md)
   * [ERV Council](project-exuvia/exuvia-protection-vault-epv/epv-council.md)

@@ -61,14 +61,6 @@
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
 
-## Agrinanay Foundation Team
-
-* Anne B. Sobrado | CEO / Founder
-* Jayvee Estacio | Agrinanay Team Lead
-* Rubz Nuevo | Agrinanay Assistant Team Lead
-
-
-
 ## Project Exuvia Onsite Team
 
 * Bernardino "Dino" C. Custorio | Project Manager
