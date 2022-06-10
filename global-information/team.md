@@ -6,7 +6,7 @@
 
 ## Core Founding Team
 
-* Allan Brando B. Catayoc | CEO / Co-Founder
+* Allan Brando B. Catayoc | CEO / Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
 * Mairambek Arstanbekov | CTO / Co-Founder
 * Kean John Sean Lagbo | CGO / Co-Founder
