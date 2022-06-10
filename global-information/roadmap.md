@@ -11,11 +11,11 @@
 | Phase 2 | Game Development Starts                   | :white\_check\_mark: |
 |         | Marketplace Development Starts            | :white\_check\_mark: |
 |         | Website and Whitepaper Development Starts | :white\_check\_mark: |
+|         | Website Release                           | :gear:               |
+|         | Whitepaper Release                        | :gear:               |
 |         | Governance Token Deployment               | :gear:               |
 |         | TGE                                       | :gear:               |
 |         | Pre-Marketing                             | :gear:               |
-|         | Website Release                           | :gear:               |
-|         | Whitepaper Release                        | :gear:               |
 |         | Seed Sale Starts                          | :gear:               |
 |         | Early Adopters Event Start                | :gear:               |
 |         | Whitelisting Starts                       | :gear:               |
