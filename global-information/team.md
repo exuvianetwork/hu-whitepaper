@@ -45,6 +45,7 @@
 * Bryan Mejares | Moderator
 * Jasper Bañez | Moderator
 * John Zenon Tan | Moderator
+* Marlon Calambo | Moderator
 
 ## Advisors & Ambassadors&#x20;
 
