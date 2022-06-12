@@ -1,12 +1,12 @@
 # Team
 
-[**Project Exuvia**](https://exuvia.network) which is a Blockchain-focused Technology Innovator Company, is the one who is developing Heroes Uprising and is founded in early 2021.
+**Project Exuvia** which is a Blockchain-focused Technology Innovator Company, is the one who is developing Heroes Uprising and is founded in the year 2021.
 
 
 
 ## Core Founding Team
 
-* Allan Brando B. Catayoc | CEO / Co-Founder
+* Allan Brando B. Catayoc | CEO / Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
 * Mairambek Arstanbekov | CTO / Co-Founder
 * Kean John Sean Lagbo | CGO / Co-Founder
@@ -34,9 +34,9 @@
 * Arvin John Bulatin | Moderator
 * Dawn Kenneth Bensig | Moderator
 * Felix Eras III | Moderator
-* Gab Cantada | Moderator
+* Adrian Gabriel Cantada | Moderator
 * Keith Leugie Albarida | Moderator
-* Kim Fisico | Moderator
+* Kim Paulo Joyosa Fisico | Moderator
 * KingThor Bonifacio | Moderator
 * Mitchel Paul | Moderator
 * Helix Ray Catayoc | Moderator
@@ -45,6 +45,7 @@
 * Bryan Mejares | Moderator
 * Jasper Bañez | Moderator
 * John Zenon Tan | Moderator
+* Marlon Calambo | Moderator
 
 ## Advisors & Ambassadors&#x20;
 
@@ -60,14 +61,6 @@
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
-
-## Agrinanay Foundation Team
-
-* Anne B. Sobrado | CEO / Founder
-* Jayvee Estacio | Agrinanay Team Lead
-* Rubz Nuevo | Agrinanay Assistant Team Lead
-
-
 
 ## Project Exuvia Onsite Team
 

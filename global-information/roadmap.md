@@ -35,6 +35,8 @@
 |         | UI improvement                            | :gear:               |
 |         | Forging System Release                    | :gear:               |
 |         | Arena Battle Royale Release               | :gear:               |
+|         | Sprites System Release                    | :gear:               |
+|         | Sprites Founding NFT Sale                 | :gear:               |
 |         | Weekly Dungeon Quest Release              | :gear:               |
 |         | Guild System Release                      | :gear:               |
 |         | Fusion System Release                     | :gear:               |
