@@ -13,7 +13,7 @@
 
 ## Development Team
 
-
+* Ainol Obando | Game Developer Lead
 
 ## Production Team
 
@@ -32,12 +32,9 @@
 
 * Gerald Madarang Mercedes | Lead Moderator
 * Arvin John Bulatin | Moderator
-* Dawn Kenneth Bensig | Moderator
 * Felix Eras III | Moderator
 * Adrian Gabriel Cantada | Moderator
 * Keith Leugie Albarida | Moderator
-* Kim Paulo Joyosa Fisico | Moderator
-* KingThor Bonifacio | Moderator
 * Mitchel Paul | Moderator
 * Helix Ray Catayoc | Moderator
 * Shawn Justin Canillo | Moderator
@@ -65,5 +62,4 @@
 ## Project Exuvia Onsite Team
 
 * Bernardino "Dino" C. Custorio | Project Manager
-* Ainol Obando | Cyber Security Head / Employee Monitoring
 * Henry Alcantara | Company Accountant\
