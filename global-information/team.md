@@ -14,7 +14,7 @@
 ## Development Team
 
 * Ainol Obando | Game Developer Lead
-* Kenneth Delos Santos | Assistant Game Developer
+* Kenneth Delos Santos | UI/UX Lead
 
 ## Production Team
 
