@@ -8,12 +8,13 @@
 
 * Allan Brando B. Catayoc | CEO / Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
-* Mairambek Arstanbekov | CTO / Co-Founder
+* &#x20;\| CTO / Co-Founder
 * Kean John Sean Lagbo | CGO / Co-Founder
 
 ## Development Team
 
 * Ainol Obando | Game Developer Lead
+* Kenneth Delos Santos | Assistant Game Developer
 
 ## Production Team
 
@@ -35,14 +36,12 @@
 * Felix Eras III | Moderator
 * Adrian Gabriel Cantada | Moderator
 * Keith Leugie Albarida | Moderator
-* Mitchel Paul | Moderator
 * Helix Ray Catayoc | Moderator
 * Shawn Justin Canillo | Moderator
 * Manuelito Campos Jr | Moderator
 * Bryan Mejares | Moderator
 * Jasper Bañez | Moderator
 * John Zenon Tan | Moderator
-* Marlon Calambo | Moderator
 
 ## Advisors & Ambassadors&#x20;
 
@@ -50,7 +49,7 @@
 
 * Allan Brando B. Catayoc | CEO / Co-Founder
 * Ryan "Rime" M. Panuncia | COO / Co-Founder
-* Mairambek Arstanbekov | CTO / Co-Founder
+* &#x20;\| CTO / Co-Founder
 * Kean John Sean Lagbo | CGO / Co-Founder
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
