@@ -27,8 +27,8 @@
 
 * [Fire Element](cards/fire-element.md)
 * [Water Element](cards/water-element.md)
-* [Air Element](cards/air-element.md)
 * [Earth Element](cards/earth-element.md)
+* [Air Element](cards/air-element.md)
 * [Light Element](cards/light-element.md)
 * [Dark Element](cards/dark-element.md)
 
