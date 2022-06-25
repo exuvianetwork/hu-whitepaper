@@ -16,4 +16,4 @@ An angel came down from heaven to hear the pleas of the people suffering from th
 
 ![](../../../.gitbook/assets/character-stats-alira.png)
 
-Shortly after Bastian came down from heaven, she helped people with smiles as well as giving them the strength to continue fighting.
+Shortly after Bastian came down from heaven, she helped people with smiles as well as gave them the strength to continue fighting.

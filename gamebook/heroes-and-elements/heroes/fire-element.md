@@ -1,7 +1,7 @@
 ---
 description: >-
-  It relies on self-boosting to increase attack, deal heavy damage, and follow
-  up with burns to finish off enemies.
+  It relies on self-boosting to increase attack, deal a heavy amount of damage,
+  and follow up with burns to finish off enemies.
 ---
 
 # Fire element
@@ -16,4 +16,4 @@ Holds a destructive element that destroys anything in its way, Aidan has mastere
 
 ![](../../../.gitbook/assets/character-stats-liayra.png)
 
-Blazing through the battlefield with a fiery resolve, Liayra decimate enemies left and right, choosing to attack first than to wait for a plan.
+Blazing through the battlefield with a fiery resolve, Liayra decimates enemies left and right, choosing to attack first and then wait for a plan.

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Disables enemies with a large amount of debuffs to cripple foes and use its
+  Disables enemies with a large number of debuffs to cripple foes and uses its
   high-damaging moves to finish off enemies.
 ---
 
@@ -16,4 +16,4 @@ After discovering an abandoned temple with his friend, they got engulfed by an i
 
 ![](../../../.gitbook/assets/character-stats-sena.png)
 
-Engulfs fear for those who stand in her way, brings terror and fright wherever she goes by using her dark powers as a way to torment anyone who dares destroy her homeland.
+Engulfs fear for those who stand in her way, and brings terror and fright wherever she goes by using her dark powers as a way to torment anyone who dares destroy her homeland.

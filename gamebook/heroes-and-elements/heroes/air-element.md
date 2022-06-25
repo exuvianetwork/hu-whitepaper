@@ -1,10 +1,10 @@
 ---
 description: >-
-  It is able to attack first with its insane speed, catching enemies off guard
-  and removing threats from the backlines.
+  It can attack first with its insane speed, catching enemies off guard and
+  removing threats from the backlines.
 ---
 
-# Wind element
+# Air element
 
 ### Zephyr
 

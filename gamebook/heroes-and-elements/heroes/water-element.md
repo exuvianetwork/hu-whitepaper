@@ -1,7 +1,7 @@
 ---
 description: >-
-  An all-rounder, the Water element can both attack and support the team to
-  secure victory, even against the most difficult of foes.
+  An all-rounder, Water element can both attack and support the team to secure
+  victory, even against the most difficult of foes.
 ---
 
 # Water element
