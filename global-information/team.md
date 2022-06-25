@@ -4,12 +4,22 @@
 
 
 
-## Core Founding Team
+## Founding Team
 
-* Allan Brando B. Catayoc | CEO / Founder
-* Ryan "Rime" M. Panuncia | COO / Co-Founder
-* &#x20;\| CTO / Co-Founder
-* Kean John Sean Lagbo | CGO / Co-Founder
+* Allan Brando B. Catayoc | Founder
+* Ryan "Rime" M. Panuncia | Co-Founder
+* Kean John Sean Lagbo | Co-Founder
+* Anne B. Sobrado | Co-Founder
+* Luis Miguel M. Panta | Co-Founder
+* Dave Agustin A. Caacoy | Co-Founder
+* Joenard V. Magallanes | Co-Founder
+
+## Core Team
+
+* Allan Brando B. Catayoc | CEO
+* Ryan "Rime" M. Panuncia | COO
+* Joshua S. Pales | CTO
+* Kean John Sean Lagbo | CGO
 
 ## Development Team
 
@@ -19,9 +29,9 @@
 ## Production Team
 
 * Anne B. Sobrado | Communication Lead
-* Luis Miguel "CoCoButter" M. Panta | Game Strategic Lead
-* Dave Agustin "Decimo" A. Caacoy | Creative Director
-* Joenard "AH JIN" V. Magallanes | Social Media Manager
+* Luis Miguel M. Panta | Game Strategic Lead
+* Dave Agustin A. Caacoy | Creative Director
+* Joenard V. Magallanes | Social Media Manager
 * Joshua S. Pales | Arts & Design Lead
 * Ivan Charlem Igot | Animator Lead&#x20;
 * Utsukushi Desu | Sketch Art Talent&#x20;
