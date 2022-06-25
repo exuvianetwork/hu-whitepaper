@@ -7,7 +7,7 @@
 ## Founding Team
 
 * Allan Brando B. Catayoc | Founder
-* Ryan "Rime" M. Panuncia | Co-Founder
+* Ryan M. Panuncia | Co-Founder
 * Kean John Sean Lagbo | Co-Founder
 * Anne B. Sobrado | Co-Founder
 * Luis Miguel M. Panta | Co-Founder
@@ -17,18 +17,19 @@
 ## Core Team
 
 * Allan Brando B. Catayoc | CEO
-* Ryan "Rime" M. Panuncia | COO
+* Ryan  M. Panuncia | COO
 * Joshua S. Pales | CTO
 * Kean John Sean Lagbo | CGO
 
 ## Development Team
 
-* Ainol Obando | Game Developer Lead
+* Arvin John Bulatin | Game Developer Lead
+* Ainol Obando | Game Developer
 * Kenneth Delos Santos | UI/UX Lead
+* Alberto Ymas | Web Developer
 
 ## Production Team
 
-* Anne B. Sobrado | Communication Lead
 * Luis Miguel M. Panta | Game Strategic Lead
 * Dave Agustin A. Caacoy | Creative Director
 * Joenard V. Magallanes | Social Media Manager
@@ -42,7 +43,6 @@
 ## Marketing Team
 
 * Gerald Madarang Mercedes | Lead Moderator
-* Arvin John Bulatin | Moderator
 * Felix Eras III | Moderator
 * Adrian Gabriel Cantada | Moderator
 * Keith Leugie Albarida | Moderator
@@ -52,15 +52,18 @@
 * Bryan Mejares | Moderator
 * Jasper Bañez | Moderator
 * John Zenon Tan | Moderator
+* Mark Caaway | Moderator
+* Kim Fisico | Moderator
+* Gian Catayoc | Moderator
 
 ## Advisors & Ambassadors&#x20;
 
 ## Exuvia Reserve Vault Organization Team
 
-* Allan Brando B. Catayoc | CEO / Co-Founder
-* Ryan "Rime" M. Panuncia | COO / Co-Founder
-* &#x20;\| CTO / Co-Founder
-* Kean John Sean Lagbo | CGO / Co-Founder
+* Allan Brando B. Catayoc | Chairman of the Board
+* Ryan M. Panuncia | Board Member
+* Joshua S. Pales | Board Member
+* Kean John Sean Lagbo | Board Member
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
 * &#x20;\| Governing Council
@@ -70,5 +73,6 @@
 
 ## Project Exuvia Onsite Team
 
+* Anne B. Sobrado | Owner
 * Bernardino "Dino" C. Custorio | Project Manager
 * Henry Alcantara | Company Accountant\
