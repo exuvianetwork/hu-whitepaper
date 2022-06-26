@@ -8,6 +8,7 @@
 
 * Allan Brando B. Catayoc | Founder
 * Ryan M. Panuncia | Co-Founder
+* Joshua S. Pales | Co-Founder
 * Kean John Sean Lagbo | Co-Founder
 * Anne B. Sobrado | Co-Founder
 * Luis Miguel M. Panta | Co-Founder
@@ -33,7 +34,6 @@
 * Luis Miguel M. Panta | Game Strategic Lead
 * Dave Agustin A. Caacoy | Creative Director
 * Joenard V. Magallanes | Social Media Manager
-* Joshua S. Pales | Arts & Design Lead
 * Ivan Charlem Igot | Animator Lead&#x20;
 * Utsukushi Desu | Sketch Art Talent&#x20;
 * Claire Mamalias | Sketch Art Talent&#x20;
