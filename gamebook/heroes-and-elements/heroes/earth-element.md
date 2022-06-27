@@ -9,12 +9,12 @@ description: >-
 
 ### Mason
 
-![](../../../.gitbook/assets/character-stats-mason.png)
+![](../../../.gitbook/assets/1\_U4fMYyUUo4CNXXBOxhjkMg.png)
 
 Headstrong and brave. Mason never backs down from a fight, always on the frontline protecting those he cares for.
 
 ### Meena
 
-![](../../../.gitbook/assets/character-stats-meena.png)
+![](../../../.gitbook/assets/1\_97LP0mr6lpa3X4dRB6UNOQ.png)
 
 The strongest person in their tribe, Meena, controls the earth itself to help with her fights as well as protect her and her friends from harm.

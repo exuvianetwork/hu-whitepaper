@@ -8,6 +8,8 @@ description: >-
 
 ### **Aidan**
 
+![](../../../.gitbook/assets/1\_5wt3oMXM-krmn4V2rfhORQ.png)
+
 Holds a destructive element that destroys anything in its way, Aidan has mastered this element to eliminate demons and return the world to what it once was.
 
 
