@@ -6,7 +6,7 @@ Heroes are summoned by players to assist them in their journey through the land 
 You can get your Heroes by minting or purchasing one on the marketplace.
 {% endhint %}
 
-![](../../../.gitbook/assets/271983240\_1461717624246931\_2705758135915237104\_n.png)
+![](../../../.gitbook/assets/Character-Banner.jpg)
 
 ## Minting Heroes
 

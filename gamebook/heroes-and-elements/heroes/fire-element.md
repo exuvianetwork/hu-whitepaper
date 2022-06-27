@@ -8,12 +8,12 @@ description: >-
 
 ### **Aidan**
 
-![](../../../.gitbook/assets/character-stats-aidan.png)
-
 Holds a destructive element that destroys anything in its way, Aidan has mastered this element to eliminate demons and return the world to what it once was.
+
+
 
 ### Liayra
 
-![](../../../.gitbook/assets/character-stats-liayra.png)
+![](../../../.gitbook/assets/1\_w-iVExiJAjX-c2SEOKdlVA.png)
 
 Blazing through the battlefield with a fiery resolve, Liayra decimates enemies left and right, choosing to attack first and then wait for a plan.
