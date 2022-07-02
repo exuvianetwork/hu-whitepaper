@@ -12,7 +12,7 @@ There are two types of integration, each of which differs in terms of the user's
 
 ### Dual Fusion
 
-You can fuse 2 random sword unto 1 sword with low chance of getting pure elements and cards.&#x20;
+You can fuse 2 random swords into 1 sword with a low chance of getting pure elements and cards.&#x20;
 
 {% hint style="info" %}
 Fused unto 1 sword with 90% chance random elements and cards, 10% pure element and cards.
@@ -20,7 +20,7 @@ Fused unto 1 sword with 90% chance random elements and cards, 10% pure element a
 
 ### Quad Fusion
 
-You can fuse 4 random sword unto 1 sword with high chance of getting pure elements and cards.
+You can fuse 4 random swords into 1 sword with a higher chance of getting pure elements and cards.
 
 {% hint style="info" %}
 Fused unto 1 sword with 60% chance random elements and cards, 40% pure element and cards.
@@ -35,7 +35,7 @@ Fused unto 1 sword with 60% chance random elements and cards, 40% pure element a
 
 ## Sprite Fusion
 
-If fusion does not result in a rarity increase, then the companion you receive will be the same grade as the ones used but will have random element. The companions used for fusion will be automatically burned.
+If fusion does not result in a rarity increase, then the companion you receive will be the same grade as the ones used but will have a random element. The companions used for fusion will be automatically burned.
 
 | From      | To        | Probability |
 | --------- | --------- | ----------- |
@@ -52,8 +52,8 @@ Element outcome is dependent on the percentage drop, as will be shown in this ch
 | -------- | -------------- |
 | Fire     | 16.6666666667% |
 | Water    | 16.6666666667% |
-| Air      | 16.6666666667% |
 | Earth    | 16.6666666667% |
+| Air      | 16.6666666667% |
 | Light    | 16.6666666667% |
 | Dark     | 16.6666666667% |
 
@@ -69,5 +69,5 @@ Element outcome is dependent on the percentage drop, as will be shown in this ch
 | Mythic    | Exotic    | 4        | 9600     |
 
 {% hint style="danger" %}
-These figures may change depending on the games economic balance. The RAP and SGN require per fuse can change.
+These figures may change depending on the game's economic balance. The RAP and SGN required per fuse can change.
 {% endhint %}

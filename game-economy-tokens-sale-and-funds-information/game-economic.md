@@ -41,13 +41,13 @@ Sprites can be purchased with WETH on the marketplace. It will charge at least 4
 ## Sprite Fusion
 
 {% hint style="info" %}
-All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+All of the fusion fees that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Sword Fusion
 
 {% hint style="info" %}
-All of the fusion fee that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+All of the fusion fees that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Weekly Dungeon Quest

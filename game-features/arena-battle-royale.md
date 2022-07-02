@@ -8,7 +8,7 @@ The Heroes Journey fighting system is a turn-based card game in which your squad
 
 Once both players click the attack button, the battle will begin.\
 \-At the start of each round, item cards will be added at random.\
-\-Buffs that affect attack sequence will be applied next round.\
+\-Buffs that affect the attack sequence will be applied next round.\
 \-The effect of each card will be applied once it is used during the round.\
 \-Heroes will attack their closest target except when using cards that allow the hero to attack furthest or behind their closest target.
 
@@ -20,7 +20,7 @@ We will have a seasonal system for 3 months. Those who are on the leaderboard wi
 
 We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
 
-## Rank, MMR Brackets and RAP rewards:
+## Rank, MMR Brackets, and RAP rewards:
 
 | Ranking      | MMR         | RAP REWARDS   |
 | ------------ | ----------- | ------------- |
@@ -40,5 +40,5 @@ We will have a seasonal system for 3 months. Those who are on the leaderboard wi
 | Legend       | 3000 +      | 35 PER WIN    |
 
 {% hint style="warning" %}
-ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDS ON THE ECONOMIC GROWTH OF THE GAME.
+ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDING ON THE ECONOMIC GROWTH OF THE GAME.
 {% endhint %}

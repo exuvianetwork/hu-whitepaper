@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/domination.jpg)
 
-Players can battle other Players from different guilds to represent their guild at the end of the event all wins, loses and draws will be calculated and the victor will be decided the winning guild receives rewards as well as an increase in the overall ranking with other Guilds.
+Players can battle other Players from different guilds to represent their guild at the end of the event all wins, loses, and draws will be calculated and the victor will be decided the winning guild receives rewards as well as an increase in the overall ranking with other Guilds.
 
 {% hint style="warning" %}
 Guild Domination occurs only on the last day of the month.

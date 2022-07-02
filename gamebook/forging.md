@@ -10,11 +10,11 @@ Players can only forge their weapons five times with every forge increasing the 
 
 ## Sword Parts
 
-Sword can be varied at 4 parts and each parts has its designated cards for the game
+Sword can be varied in 4 parts and each part has its designated cards for the game
 
-While forging this parts will be randomly dismantle to create a new weapon and cards combination within it.
+While forging these parts will be randomly dismantled to create a new weapon and card combination within it.
 
-Category of the swords element will be determined on the blade.
+The category of the sword element will be determined on the blade.
 
 ![](../.gitbook/assets/273003254\_462047952071439\_9035256204137697450\_n.png)
 
@@ -28,11 +28,11 @@ Category of the swords element will be determined on the blade.
 | 3/5         | 4            | 300 | 1   |
 | 4/5         | 5            | 150 | 1   |
 
-These figures may change depending on the games economic balance. The RAP and SGN require per forge can change.
+These figures may change depending on the game's economic balance. The RAP and SGN required per forge can change.
 
 ## **Genetics**
 
-Swords has 4 parts, each part possesses 4 genes. A dominant (D), major recessive (R1), minor recessive (R2), and hidden recessive gene (R3). The idea comes from a well known game called Axie Infinity, and Cryptokitties
+Swords have 4 parts, each part possesses 4 genes. A dominant (D), major recessive (R1), minor recessive (R2), and hidden recessive gene (R3). The idea comes from a well-known game called Axie Infinity, and Cryptokitties
 
 {% hint style="info" %}
 The dominant gene is what determines the part that is physically present on the Sword. When forging, each gene has a chance to be passed down to the forged weapon:
@@ -49,18 +49,18 @@ Each forged weapon has a 50% chance of inheriting each of the weapons element us
 
 ## Collab Forging
 
-We are pleased to announce that we will have a collaboration forging for those who don't have a capacity to cater to forge.
+We are pleased to announce that we will have a collaboration forging for those who don't have the capacity to cater to forge.
 
 Players will list their available pair on the marketplace and wait for the other player to complete and meet the requirement needed to forge.
 
 > _They will split in half of the forged weapons._\
-> \_\_\
+> \
 > _The minimum times to forge are incremented by two._
 
 {% hint style="info" %}
 _e.g._\
 \_\_\
-_A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forge to four times. The other player will gather the requirements needed to forge those collab pair. Then after gathering the required amount of RAP and SGN, and completed forging they will split all the forged weapon in half. Having each player two forged weapons._
+_A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forged four times. The other player will gather the requirements needed to forge those collab pairs. Then after gathering the required amount of RAP and SGN, and completing forging they will split all the forged weapons in half. Having each player two forged weapons._
 {% endhint %}
 
 ## Cooldown Times
@@ -89,7 +89,7 @@ We have a forging cooldown to balance the growth of swords.
 
 ### Smelting
 
-We have smelting time depends on the forge count of the parent. Below are smelting time per forge count.
+We have smelting time depending on the forge count of the parent. Below is the smelting time per forge count.
 
 > _Every forge count will increase 24 hours of the waiting time to be forged._
 
@@ -105,10 +105,10 @@ We have smelting time depends on the forge count of the parent. Below are smelti
 e.g.
 
 \
-Player will forge two swords with 4/5 and 1/5 forge count. The two swords smelting time will be added.\
+The Player will forge two swords with 4/5 and 1/5 forge count. The two swords' smelting time will be added.\
 \
 4/5 = 144 HRS\
 1/5 = 72 HRS\
 \
-So the player will wait for 216 HOURS smelting time for the forged weapon to be forged.
+So the player will wait for 216 HOURS of smelting time for the forged weapon to be forged.
 {% endhint %}

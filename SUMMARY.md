@@ -20,7 +20,7 @@
   * [Founding Swords](gamebook/weapons/founding/README.md)
     * [Heroic](gamebook/weapons/founding/heroic.md)
     * [Corrupted](gamebook/weapons/founding/corrupted.md)
-  * [Normal Swords](gamebook/weapons/normal-swords.md)
+  * [Swords](gamebook/weapons/swords.md)
 * [Sprites](gamebook/sprites-system.md)
 
 ## Cards
@@ -44,8 +44,8 @@
   * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
   * [Guild Domination](game-features/guild-system/guild-domination.md)
-  * [Guild Ranking](game-features/guild-system/guild-ranking.md)
-  * [Guild shop](game-features/guild-system/guild-shop.md)
+  * [Guild Ranking Rewards](game-features/guild-system/guild-ranking-rewards.md)
+  * [Guild Shop](game-features/guild-system/guild-shop.md)
 * [Durability System](game-features/durability-system.md)
 * [Stamina System](game-features/stamina-system.md)
 * [Arena Battle Royale](game-features/arena-battle-royale.md)

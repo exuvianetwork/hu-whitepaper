@@ -1,6 +1,6 @@
 # Sprites Dungeon Quest
 
-Access this dungeon to have a chance to defeat a boss and receive rewards. On a specific day, entry is unlimited until the boss is defeated. The entry fee that will be used is RAP (Rare Amethyst Particle). The boss has a huge number of health points, so the player must keep reentering to whittle down the boss's health until it is finally defeated. Bosses change every week on a rotation basis.
+Access this dungeon to have a chance to defeat a boss and receive rewards. On a specific day, entry is unlimited until the boss is defeated. The entry fee that will be used is RAP (Rare Amethyst Particle). The boss has a huge number of health points, so the player must keep re-entering to whittle down the boss's health until it is finally defeated. Bosses change every week on a rotation basis.
 
 ## Boss Rotation
 
@@ -9,7 +9,7 @@ Access this dungeon to have a chance to defeat a boss and receive rewards. On a 
 ## Drop Chances
 
 {% hint style="info" %}
-First time player accesses this dungeon gets a guaranteed (Common Pet - Random Element) `But not tradable and can't be fused`
+First-time player who access this dungeon gets a guaranteed (Common Pet - Random Element) `But not tradable and can't be fused`
 {% endhint %}
 
 * Common (40%)
@@ -44,5 +44,5 @@ All Sprites are tradable on the marketplace and can be fused also, except for th
 | 10+   | .................... |
 
 {% hint style="info" %}
-Each entry will add 150 RAP Fee
+Each entry will add a 150 RAP fee.
 {% endhint %}
