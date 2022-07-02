@@ -15,23 +15,21 @@
 * Dave Agustin A. Caacoy | Co-Founder
 * Joenard V. Magallanes | Co-Founder
 
-## Core Teams
-
-### Chief Officers
+## Core Team
 
 * Allan Brando B. Catayoc | CEO
 * Ryan  M. Panuncia | COO
 * Joshua S. Pales | CTO
 * Kean John Sean Lagbo | CGO
 
-### Development Team
+## Development Team
 
 * Arvin John Bulatin | Game Developer Lead
 * Ainol Obando | Game Developer
 * Kenneth Delos Santos | UI/UX Lead
 * Alberto Ymas | Web Developer
 
-### Production Team
+## Production Team
 
 * Luis Miguel M. Panta | Game Strategic Lead
 * Dave Agustin A. Caacoy | Creative Director
@@ -41,10 +39,10 @@
 * Claire Mamalias | Sketch Art Talent&#x20;
 * Gabriel Bryan S. Agudo | Documentation Writer
 * Brylle Solano | Documentation Writer
-* Gerald Madarang Mercedes | Lead Moderator
 
 ## Marketing Team
 
+* Gerald Madarang Mercedes | Lead Moderator
 * Felix Eras III | Moderator
 * Adrian Gabriel Cantada | Moderator
 * Keith Leugie Albarida | Moderator
