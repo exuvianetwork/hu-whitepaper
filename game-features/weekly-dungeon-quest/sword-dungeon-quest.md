@@ -4,7 +4,7 @@ Access this dungeon to have a chance to defeat a boss and receive rewards. On a 
 
 ## Boss Rotation
 
-(Fire) - (Water) - (Air) - (Earth) - (Light) - (Dark)
+(Fire) - (Water) - (Earth) - (Air) - (Light) - (Dark)
 
 ## Fragments Drop Probability
 
@@ -12,8 +12,8 @@ Access this dungeon to have a chance to defeat a boss and receive rewards. On a 
 | -------- | -------- | ----------- |
 | Fire     | 4        | 22%         |
 | Water    | 4        | 22%         |
-| Air      | 4        | 22%         |
 | Earth    | 4        | 22%         |
+| Air      | 4        | 22%         |
 | Light    | 2        | 6%          |
 | Dark     | 2        | 6%          |
 
