@@ -19,7 +19,7 @@
 
 ### Chief Officers
 
-* Allan Brando B. Catayoc | CEO
+* Allan Brando B. Catayoc | CEO [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Ryan  M. Panuncia | COO
 * Joshua S. Pales | CTO
 * Kean John Sean Lagbo | CGO
