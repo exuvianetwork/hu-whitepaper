@@ -1,8 +1,8 @@
 ---
 description: >-
-  Documents provide information or data about the project. This is dynamic and
-  is subject to change with each update due to development or critical events.
-  Last updated 6th of July, 2022.
+  This documentation provides information or data about the project. This is
+  dynamic and is subject to change with each update due to development or
+  critical events. Last updated 6th of July, 2022.
 ---
 
 # Heroes Uprising
