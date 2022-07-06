@@ -1,8 +1,8 @@
 ---
 description: >-
-  This documentation is an evolving document and as such there may be
-  information within that is updated or changed throughout development. Last
-  updated 5th of July, 2022.
+  Documents provide information or data about the project. This is dynamic and
+  is subject to change with each update due to development or critical events.
+  Last updated 6th of July, 2022.
 ---
 
 # Heroes Uprising

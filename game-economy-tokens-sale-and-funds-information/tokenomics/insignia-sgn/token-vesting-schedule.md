@@ -8,13 +8,15 @@ Seed: 10% Unlocked Before public exchange listing, then 10% quarterly
 
 Private: 20% Unlocked Before public exchange listing, then 20% quarterly
 
-Reserved: 6 months fully locked after TGE then 10% quarterly
+Liquidity: 25% Unlocked Before public exchange listing, Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked for 2 years to their respective LP pair)
 
-Liquidity: 25% Unlocked Before public exchange listing, Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked forever to the respective LP pair)
+Game Rewards: 10% unlocked before public exchange listing, then 10% quarterly
+
+Reserved: 6 months fully locked after TGE then 10% quarterly
 
 Team & Advisor: 1 year fully locked after TGE then 25% quarterly
 
-Game Rewards: 10% unlocked before public exchange listing, then 10% quarterly
+Marketing: 10% unlocked before public exchange listing, then 10% quarterly
 
 Airdrop: 10% unlocked before public exchange listing, then 5% quarterly
 
