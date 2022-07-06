@@ -26,7 +26,8 @@
 
 ### Development Team
 
-* `Janbert Campos | Web Developer Lead` [`LinkedIn`](https://www.linkedin.com/in/janbert-campos-07427b244/) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
+* Janbert Campos | Web Developer Lead [`LinkedIn`](https://www.linkedin.com/in/janbert-campos-07427b244/) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
+* Eugene Tuscano | Full Stack Developer [`LinkedIn`](https://www.linkedin.com/in/janbert-campos-07427b244/) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Arvin John Bulatin | Game Developer Lead [`LinkedIn`](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213/) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Ainol Obando | Game Developer [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Alberto Ymas | Game Developer [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
@@ -42,10 +43,17 @@
 * Claire Mamalias | Sketch Art Talent [`LinkedIn`](https://www.linkedin.com/in/erin-claire-mamalias-952332244) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Gabriel Bryan S. Agudo | Documentation Writer [`LinkedIn`](https://www.linkedin.com/in/gabriel-bryan-agudo-2a324a244) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Brylle Solano | Documentation Writer [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
-* Gerald Madarang Mercedes | Lead Moderator [`LinkedIn`](https://www.linkedin.com/in/gerald-mercedes-8aa25a244) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
+
+
 
 ## Marketing Team
 
+* John Rey Cepeda | Marketing Manager
+*
+
+## Moderating Team
+
+* Gerald Madarang Mercedes | Lead Moderator [`LinkedIn`](https://www.linkedin.com/in/gerald-mercedes-8aa25a244) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Felix Eras III | Moderator [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Adrian Gabriel Cantada | Moderator [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Keith Leugie Albarida | Moderator [`LinkedIn`](https://www.linkedin.com/in/keith-leugie-albarida-254184244) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
