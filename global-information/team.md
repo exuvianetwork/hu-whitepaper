@@ -6,11 +6,11 @@
 
 ## Founding Team
 
-* Allan Brando B. Catayoc | Founder
+* Anne B. Sobrado | Founder
+* Allan Brando B. Catayoc | Co-Founder
 * Ryan M. Panuncia | Co-Founder
 * Joshua S. Pales | Co-Founder
 * Kean John Sean Lagbo | Co-Founder
-* Anne B. Sobrado | Co-Founder
 * Luis Miguel M. Panta | Co-Founder
 * Dave Agustin A. Caacoy | Co-Founder
 * Joenard V. Magallanes | Co-Founder
