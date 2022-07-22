@@ -18,6 +18,6 @@ Team & Advisor: 1 year fully locked after TGE then 25% quarterly
 
 Marketing: 10% unlocked before public exchange listing, then 10% quarterly
 
-Airdrop: 10% unlocked before public exchange listing, then 5% quarterly
+Airdrop & Event Rewards: 10% unlocked before public exchange listing, then 5% quarterly
 
 We've chosen this method for a variety of reasons. To keep the market pricing stable and to be fair to our private and public sales investors, as well as to safeguard everyone from a market crash.
