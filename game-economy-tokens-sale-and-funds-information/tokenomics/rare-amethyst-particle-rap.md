@@ -6,4 +6,4 @@ Rare Amethyst Particle (RAP) is a reward/utility token that can be obtained by e
 
 Please keep in mind that claiming your RAP takes two weeks. After that, you can make a claim after two weeks again.
 
-You can exchange your Rare Amethyst Particles on decentralized exchanges and Aivuxe.
+You can sell or exchange your Rare Amethyst Particles on decentralized exchanges and Aivuxe.
