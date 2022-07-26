@@ -48,11 +48,11 @@
 
 ## Marketing Team
 
-* John Rey Cepeda | Marketing Manager
+* John Rey Cepeda | Marketing Lead
 
 ## Moderating Team
 
-* Gerald Madarang Mercedes | Lead Moderator&#x20;
+* Gerald Madarang Mercedes | Moderator Lead
 * Felix Eras III | Moderator
 * Adrian Gabriel Cantada | Moderator
 * Keith Leugie Albarida | Moderator
