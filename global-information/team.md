@@ -26,12 +26,12 @@
 
 ### Development Team
 
-* Janbert Campos | Web Developer Lead
-* Eugene Tuscano | Full Stack Developer
+* Janbert Campos | Web Development Lead
 * Arvin John Bulatin | Game Developer Lead
 * Ainol Obando | Game Developer
 * Alberto Ymas | Game Developer
 * Kenneth Delos Santos | UI/UX Developer
+* Eugene Tuscano | Full Stack Developer
 
 ### Production Team
 
