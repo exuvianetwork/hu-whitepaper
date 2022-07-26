@@ -9,7 +9,7 @@ description: >-
 
 
 
-![V. 0.9.18](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
+![V. 0.9.19](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
 
 > Battle a bunch of enemies in the arena and dungeon to unlock loots and become a legendary hero.
 
