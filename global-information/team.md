@@ -27,7 +27,7 @@
 ### Development Team
 
 * Janbert Campos | Web Development Lead
-* Arvin John Bulatin | Game Developer Lead
+* Arvin John Bulatin | Game Development Lead
 * Ainol Obando | Game Developer
 * Alberto Ymas | Game Developer
 * Kenneth Delos Santos | UI/UX Developer
