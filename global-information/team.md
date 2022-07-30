@@ -36,7 +36,7 @@
 
 * Luis Miguel M. Panta | Game Strategic Lead  [Twitter](https://twitter.com/Luis70731440) [LinkedIn](https://www.linkedin.com/in/luis-panta-105242242/)
 * Dave Agustin A. Caacoy | Creative Director  [Twitter](https://twitter.com/CaacoyDave) [LinkedIn](https://www.linkedin.com/in/dave-agustin-caacoy-17381120b)
-* Joenard V. Magallanes | Social Media Manager
+* Joenard V. Magallanes | Social Media Manager  [Twitter](https://twitter.com/ahjin\_nard) [LinkedIn](https://www.linkedin.com/in/nard-magallanes-590062226)
 * Utsukushi Desu | Sketch Art Talent
 * Claire Mamalias | Sketch Art Talent  [Twitter](https://twitter.com/ethanolol70) [LinkedIn](https://www.linkedin.com/in/erin-claire-mamalias-952332244)
 * Gabriel Bryan S. Agudo | Documentation Writer
