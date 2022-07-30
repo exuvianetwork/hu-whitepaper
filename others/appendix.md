@@ -1,7 +1,5 @@
 # APPENDIX
 
-## REMARKS!
-
 {% hint style="warning" %}
 ALL TERMS WILL BE EXPLAINED BELOW
 {% endhint %}
