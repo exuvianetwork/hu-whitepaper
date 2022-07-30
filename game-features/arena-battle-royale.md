@@ -20,7 +20,7 @@ We will have a seasonal system for 3 months. Those who are on the leaderboard wi
 
 We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
 
-## Rank, MMR Brackets, and RAS rewards:
+## Rank, MMR Brackets, and RAP rewards:
 
 | Ranking      | MMR         | RAP REWARDS   |
 | ------------ | ----------- | ------------- |

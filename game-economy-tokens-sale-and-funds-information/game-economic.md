@@ -7,7 +7,7 @@ We came up with these methods to burn as many inflated tokens as possible and to
 By minting heroes, you can get your own random hero.
 
 {% hint style="info" %}
-All the RAE fees that are required for minting will be burned.
+All the RAP fees that are required for minting will be burned.
 {% endhint %}
 
 ## Marketplace Forging
@@ -15,7 +15,7 @@ All the RAE fees that are required for minting will be burned.
 We know we can't settle for less, so we forge weaponry to achieve or attain some impressive weaponry.
 
 {% hint style="info" %}
-Creating new weaponry required SGN and RAE. All of the RAE tokens required will be automatically sent to the burn address hence reducing the circulating supply. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+Creating new weaponry required SGN and RAP. All of the RAP tokens required will be automatically sent to the burn address hence reducing the circulating supply. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Marketplace Heroes
@@ -23,7 +23,7 @@ Creating new weaponry required SGN and RAE. All of the RAE tokens required will 
 Heroes are the basic requirements for playing Heroes Uprising. They will be the ones who wield the swords and make you a victorious champion.
 
 {% hint style="info" %}
-Normal Heroes can also be purchased with RAE on the marketplace. It will charge at least 4% of RAE as a fee. All RAE fees will be burned automatically.
+Normal Heroes can also be purchased with RAP on the marketplace. It will charge at least 4% of RAP as a fee. All RAP fees will be burned automatically.
 {% endhint %}
 
 ## Marketplace Swords
@@ -41,13 +41,13 @@ Sprites can be purchased with WETH on the marketplace. It will charge at least 4
 ## Sprite Fusion
 
 {% hint style="info" %}
-All of the fusion fees that cost Rare Amethyst Elixir (RAE) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+All of the fusion fees that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Sword Fusion
 
 {% hint style="info" %}
-All of the fusion fees that cost Rare Amethyst Elixir (RAE) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+All of the fusion fees that cost Rare Amethyst Particle (RAP) will be burned. All the SGN will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
 {% endhint %}
 
 ## Weekly Dungeon Quest
@@ -65,13 +65,13 @@ You need SGN to create a guild. SGN fees will be split into 5 parts 15% to the T
 ## Guild Tech
 
 {% hint style="info" %}
-All of the resources (RAP) needed in order to upgrade a specific Guild Tech will be burned.
+All of the resources (RAP) needed in order to upgrade a certain Guild Tech will be burned.
 {% endhint %}
 
-## Durability Replenish Potion (Marketplace)&#x20;
+## Durability Replenish Potion
 
 {% hint style="info" %}
-All the RAE used to purchase a potion will be burned automatically.
+All the RAP that is used to purchase a potion will be burned automatically.
 {% endhint %}
 
 ## Heroes Cosmetics
@@ -82,18 +82,18 @@ All RAP that is used to customize your heroes will be burned automatically.
 
 ## Heroes/Swords Change Name
 
-It needs RAE to change an NFT asset name.
+It needs RAP to change an NFT asset name.
 
 {% hint style="info" %}
-All RAE used to change your heroes/swords' names will be burned automatically.
+All RAP that is used to change your heroes/swords name will be burned automatically.
 {% endhint %}
 
-## Limits and Fees On RAE Claiming
+## Limits and Fees On RAP Claiming
 
-RAE Claiming has a limit and it has fees if it exceeds the claiming limit. It is indicated below:
+RAP Claiming has a limit and it has fees if it exceeds the claiming limit. It is indicated below:
 
 {% hint style="info" %}
-RAE CLAIMING LIMIT: 30,000 RAP
+RAP CLAIMING LIMIT: 30,000 RAP
 {% endhint %}
 
 {% hint style="warning" %}
@@ -102,15 +102,15 @@ The RAP claiming limit may change depending on the economic growth of the game.
 
 | AMOUNT                            | SANCTION FEE |
 | --------------------------------- | ------------ |
-| Less than or equal to 30,000 RAE  | 0%           |
-| Less than or equal to 50,000 RAE  | 1%           |
-| Less than or equal to 100,000 RAE | 2%           |
-| Less than or equal to 200,000 RAE | 4%           |
-| Less than or equal to 250,000 RAE | 5%           |
-| Greater than 250,000 RAE          | 10%          |
+| Less than or equal to 30,000 RAP  | 0%           |
+| Less than or equal to 50,000 RAP  | 1%           |
+| Less than or equal to 100,000 RAP | 2%           |
+| Less than or equal to 200,000 RAP | 4%           |
+| Less than or equal to 250,000 RAP | 5%           |
+| Greater than 250,000 RAP          | 10%          |
 
 {% hint style="info" %}
-Sanction Fees incurred due to exceeding the RAE Claiming Limit will be automatically burned.
+Sanction Fees incurred as a result of exceeding the RAP Claiming Limit will be automatically burned.
 {% endhint %}
 
 > In this way, we can always increase its demand without worrying about over-circulation.
@@ -119,3 +119,18 @@ Sanction Fees incurred due to exceeding the RAE Claiming Limit will be automatic
 All fees are subject to change, depending on the economic growth of the game.
 {% endhint %}
 
+## REMARKS!
+
+{% hint style="warning" %}
+ALL TERMS WILL BE EXPLAINED BELOW
+{% endhint %}
+
+| TERMS               | DEFINITION                                                                                                                                                                 |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SGN                 | Insignia Token (The Governance Token of Project Exuvia)                                                                                                                    |
+| RAP                 | Rare Amethyst Particle (The Utility Token of Heroes Uprising)                                                                                                              |
+| Team Treasury       | This will be the treasury for the salary of all Project Exuvia Employee.                                                                                                   |
+| Project Treasury    | This will be the treasury for the operating or development expenses of Project Exuvia.                                                                                     |
+| ERV Treasury        | This will be the treasury for ERV (Exuvia Reserve Vault) Treasury, this treasury tackles the safe guard of the economy across all Project Exuvia products.                 |
+| Prize Pool Treasury | This will be the treasury for Seasonal and Guild Domination Prize Pool for Heroes Uprising.                                                                                |
+| Liquidity Treasury  | This will be the treasury for Liquidity Pairs on any DEXs or our own Aivuxe which includes the USDT/SGN, USDT/RAP, WETH/SGN, WETH/RAP, BNB/SGN, BNB/RAP, and SGN/RAP pair. |
