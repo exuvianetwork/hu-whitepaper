@@ -21,28 +21,26 @@
 
 * Allan Brando B. Catayoc | CEO [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 * Ryan  M. Panuncia | COO [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
-* Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
+* Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175/) `` [`Twitter`](https://twitter.com/shots\_anonymous)``
 * Kean John Sean Lagbo | CGO [`LinkedIn`](https://www.linkedin.com/in/kenshinkean) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 
 ### Development Team
 
-* Janbert Campos | Web Development Lead
-* Arvin John Bulatin | Game Development Lead
+* Janbert Campos | Web Development Lead  [Twitter](https://twitter.com/JanbertCampos) [LinkedIn](https://www.linkedin.com/in/janbert-campos-07427b244/)
+* Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
 * Ainol Obando | Game Developer
 * Alberto Ymas | Game Developer
-* Kenneth Delos Santos | UI/UX Developer
 * Eugene Tuscano | Full Stack Developer
 
 ### Production Team
 
-* Luis Miguel M. Panta | Game Strategic Lead
+* Luis Miguel M. Panta | Game Strategic Lead  [Twitter](https://twitter.com/Luis70731440) [LinkedIn](https://www.linkedin.com/in/luis-panta-105242242/)
 * Dave Agustin A. Caacoy | Creative Director
 * Joenard V. Magallanes | Social Media Manager
-* Ivan Charlem Igot | Animator Lead
 * Utsukushi Desu | Sketch Art Talent
-* Claire Mamalias | Sketch Art Talent
+* Claire Mamalias | Sketch Art Talent  [Twitter](https://twitter.com/ethanolol70) [LinkedIn](https://www.linkedin.com/in/erin-claire-mamalias-952332244)
 * Gabriel Bryan S. Agudo | Documentation Writer
-* Brylle Solano | Documentation Writer
+* Brylle Solano | Documentation Writer  [Twitter](https://twitter.com/solanobry) [LinkedIn](https://www.linkedin.com/in/brylle-solano-317252247)
 
 
 
@@ -52,17 +50,18 @@
 
 ## Moderating Team
 
-* Gerald Madarang Mercedes | Moderator Lead
+* Gerald Madarang Mercedes | Moderator Lead  [Twitter](https://twitter.com/gerald\_madarang) [LinkedIn](https://www.linkedin.com/in/gerald-mercedes-8aa25a244/)
 * Felix Eras III | Moderator
 * Adrian Gabriel Cantada | Moderator
-* Keith Leugie Albarida | Moderator
-* Helix Ray Catayoc | Moderator
-* Shawn Justin Canillo | Moderator
-* Manuelito Campos Jr | Moderator
-* Bryan Mejares | Moderator
-* Jasper Bañez | Moderator
-* John Zenon Tan | Moderator
-* Kim Fisico | Moderator&#x20;
+* Keith Leugie Albarida | Moderator  [Twitter](https://twitter.com/KeithLeugie) [LinkedIn](https://www.linkedin.com/mwlite/in/keith-leugie-albarida-254184244)
+* Helix Ray Catayoc | Moderator  [Twitter](https://mobile.twitter.com/Cryptooo1111) [LinkedIn](https://www.linkedin.com/mwlite/in/helix-ray-catayoc-178356152)
+* Shawn Justin Canillo | Moderator  [Twitter](https://twitter.com/ShawnCanillo) [LinkedIn](https://www.linkedin.com/in/shawn-justin-canillo-96a327244)
+* Manuelito Campos Jr | Moderator  [Twitter](https://twitter.com/ManManCamposJr) [LinkedIn](https://www.linkedin.com/in/manuelito-campos-jr-a0124b244)
+* Bryan Mejares | Moderator  [Twitter](https://twitter.com/Pakloysss) [LinkedIn](https://www.linkedin.com/in/bryan-mejares-904187244)
+* Jasper Bañez | Moderator  [Twitter](https://mobile.twitter.com/JasperBaez5) [LinkedIn](https://www.linkedin.com/mwlite/in/jasper-ba%C3%B1ez-b07329244)
+* John Zenon Tan | Moderator  [Twitter](https://twitter.com/Gelokit) [LinkedIn](https://www.linkedin.com/in/john-zenon-tan-98418a244/)
+* Kim Fisico | Moderator  [Twitter](https://twitter.com/kim\_fisico) [LinkedIn](https://www.linkedin.com/in/kim-fisico-3893a8244)
+* Joshua C. Capulong | Moderator  [Twitter](https://twitter.com/Xcrypto\_assetX) [LinkedIn](https://www.linkedin.com/in/joshua-capulong-3895a6218/)
 
 ## Advisors & Ambassadors&#x20;
 
