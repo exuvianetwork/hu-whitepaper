@@ -60,7 +60,7 @@
 
 ## GAME ECONOMY, TOKENS, SALE, AND FUNDS INFORMATION
 
-* [Game Economic Balance](game-economy-tokens-sale-and-funds-information/game-economic/README.md)
+* [Game Economic Balance](game-economy-tokens-sale-and-funds-information/game-economic.md)
   * [In-game Token Exchange Rate](game-economy-tokens-sale-and-funds-information/game-economic/in-game-token-exchange-rate.md)
 * [Tokenomics](game-economy-tokens-sale-and-funds-information/tokenomics/README.md)
   * [Insignia (SGN)](game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/README.md)
