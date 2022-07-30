@@ -1,7 +1,5 @@
 # APPENDIX
 
-## REMARKS!
-
 {% hint style="warning" %}
 ALL TERMS WILL BE EXPLAINED BELOW
 {% endhint %}
@@ -10,6 +8,7 @@ ALL TERMS WILL BE EXPLAINED BELOW
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SGN                 | Insignia Token (The Governance Token of Project Exuvia)                                                                                                                    |
 | RAE                 | Rare Amethyst Elixir(The Utility Token of Heroes Uprising)                                                                                                                 |
+| WETH                | Wrapped ETH Token                                                                                                                                                          |
 | RAP                 | Rare Amethyst Particle (The In-Game Utility Token of Heroes Uprising)                                                                                                      |
 | Team Treasury       | This will be the treasury for the salary of all Project Exuvia Employee.                                                                                                   |
 | Project Treasury    | This will be the treasury for the operating or development expenses of Project Exuvia.                                                                                     |
