@@ -12,8 +12,8 @@ Joining or creating a Guild will grant you access to guild tech, guild expeditio
 [guild-expedition.md](guild-expedition.md)
 {% endcontent-ref %}
 
-{% content-ref url="guild-domination/" %}
-[guild-domination](guild-domination/)
+{% content-ref url="guild-domination.md" %}
+[guild-domination.md](guild-domination.md)
 {% endcontent-ref %}
 
 {% content-ref url="guild-ranking-rewards.md" %}

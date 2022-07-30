@@ -43,7 +43,7 @@
 * [Guild System](game-features/guild-system/README.md)
   * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
-  * [Guild Domination](game-features/guild-system/guild-domination/README.md)
+  * [Guild Domination](game-features/guild-system/guild-domination.md)
     * [Heroes Uprising International League](game-features/guild-system/guild-domination/heroes-uprising-international-league.md)
   * [Guild Ranking Rewards](game-features/guild-system/guild-ranking-rewards.md)
   * [Guild Shop](game-features/guild-system/guild-shop.md)
@@ -60,11 +60,12 @@
 
 ## GAME ECONOMY, TOKENS, SALE, AND FUNDS INFORMATION
 
-* [Game Economic Balance](game-economy-tokens-sale-and-funds-information/game-economic.md)
+* [Game Economic Balance](game-economy-tokens-sale-and-funds-information/game-economic/README.md)
+  * [In-game Token Exchange Rate](game-economy-tokens-sale-and-funds-information/game-economic/in-game-token-exchange-rate.md)
 * [Tokenomics](game-economy-tokens-sale-and-funds-information/tokenomics/README.md)
   * [Insignia (SGN)](game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/README.md)
     * [Token Vesting Schedule](game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule.md)
-  * [Rare Amethyst Particle (RAP)](game-economy-tokens-sale-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
+  * [Rare Amethyst Elixir (RAE)](game-economy-tokens-sale-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
 * [Token Sale Information](game-economy-tokens-sale-and-funds-information/token-sale-information.md)
 * [Founding NFT Sale](game-economy-tokens-sale-and-funds-information/founding-nft-sale/README.md)
   * [Founding Sword NFT Sale](game-economy-tokens-sale-and-funds-information/founding-nft-sale/founding-sword-nft-sale.md)
@@ -91,3 +92,7 @@
 
 * [Exuvia Reserve Vault (ERV)](project-exuvia/project-exuvia-guard.md)
   * [ERV Council](project-exuvia/exuvia-protection-vault-epv/epv-council.md)
+
+## Others
+
+* [APPENDIX](others/appendix.md)
