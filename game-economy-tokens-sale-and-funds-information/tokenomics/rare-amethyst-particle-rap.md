@@ -1,6 +1,6 @@
 # Rare Amethyst Elixir (RAE)
 
-![](../../../.gitbook/assets/rap-particle11111.png)
+![](../../.gitbook/assets/rap-particle11111.png)
 
 Rare Amethyst Elixir (RAE) is a reward/utility token that can be obtained by exchanging it with _Rare Amethyst Particle_ ( \[RAP] an in-game currency), you can check the exchange rate here. This can also be used to purchase weapons and heroes at the marketplace.
 
