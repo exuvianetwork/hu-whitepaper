@@ -21,7 +21,8 @@
     * [Heroic](gamebook/weapons/founding/heroic.md)
     * [Corrupted](gamebook/weapons/founding/corrupted.md)
   * [Swords](gamebook/weapons/swords.md)
-* [Sprites](gamebook/sprites-system.md)
+* [Sprites](gamebook/sprites-system/README.md)
+  * [Founding Sprites](gamebook/sprites-system/founding-sprites.md)
 
 ## Cards
 
