@@ -20,7 +20,7 @@
 ### Chief Officers
 
 * Allan Brando B. Catayoc | CEO [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
-* Ryan  M. Panuncia | COO [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
+* Ryan  M. Panuncia | COO
 * Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175/) `` [`Twitter`](https://twitter.com/shots\_anonymous)``
 * Kean John Sean Lagbo | CGO [`LinkedIn`](https://www.linkedin.com/in/kenshinkean) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 
