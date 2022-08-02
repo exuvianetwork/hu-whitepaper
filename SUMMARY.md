@@ -35,6 +35,7 @@
   * [Swords](gamebook/weapons/swords.md)
 * [Sprites](gamebook/sprites-system/README.md)
   * [Founding Sprites](gamebook/sprites-system/founding-sprites.md)
+  * [Sprites](gamebook/sprites-system/sprites.md)
 
 ## Cards
 

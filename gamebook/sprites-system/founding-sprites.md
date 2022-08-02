@@ -4,12 +4,5 @@ Here are the most limited Sprite NFTs that will be available when our marketplac
 
 ## Founding Sprites Rarity
 
-Each element has 7 different rarities. The Rarity ladder is indicated below.
+Founding Sprites are all exotic
 
-* Common
-* Uncommon
-* Rare
-* Epic
-* Legendary
-* Mythic
-* Exotic
