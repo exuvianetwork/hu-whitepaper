@@ -77,7 +77,7 @@ All the RAE used to purchase a potion will be burned automatically.
 ## Heroes Cosmetics
 
 {% hint style="info" %}
-All RAP that is used to customize your heroes will be burned automatically.
+All RAE  that is used to customize your heroes will be burned automatically.
 {% endhint %}
 
 ## Heroes/Swords Change Name
@@ -97,7 +97,7 @@ RAE CLAIMING LIMIT: 30,000 RAP
 {% endhint %}
 
 {% hint style="warning" %}
-The RAP claiming limit may change depending on the economic growth of the game.
+The RAE claiming limit may change depending on the economic growth of the game.
 {% endhint %}
 
 | AMOUNT                            | SANCTION FEE |

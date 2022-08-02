@@ -12,6 +12,6 @@
 [public-sale.md](../public-sale.md)
 {% endcontent-ref %}
 
-{% content-ref url="nft-sale-development.md" %}
-[nft-sale-development.md](nft-sale-development.md)
+{% content-ref url="nft-sale-development/" %}
+[nft-sale-development](nft-sale-development/)
 {% endcontent-ref %}

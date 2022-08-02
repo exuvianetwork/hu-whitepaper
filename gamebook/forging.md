@@ -28,7 +28,7 @@ The category of the sword element will be determined on the blade.
 | 3/5         | 4            | 300 | 1   |
 | 4/5         | 5            | 150 | 1   |
 
-These figures may change depending on the game's economic balance. The RAP and SGN required per forge can change.
+These figures may change depending on the game's economic balance. The RAE and SGN required per forge can change.
 
 ## **Genetics**
 
@@ -45,7 +45,7 @@ The dominant gene is what determines the part that is physically present on the 
 
 ## Element Calculation
 
-Each forged weapon has a 50% chance of inheriting each of the weapons element used on forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
+Each forged weapon has a 50% chance of inheriting each of the weapons element used in forging. So if you pair two different elements then you have a 50% on producing the other and 50% on producing the other weapons element. If you pair both of the same elements, the forged weapon is guaranteed that element.
 
 ## Collab Forging
 
@@ -60,7 +60,7 @@ Players will list their available pair on the marketplace and wait for the other
 {% hint style="info" %}
 _e.g._\
 \_\_\
-_A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forged four times. The other player will gather the requirements needed to forge those collab pairs. Then after gathering the required amount of RAP and SGN, and completing forging they will split all the forged weapons in half. Having each player two forged weapons._
+_A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forged four times. The other player will gather the requirements needed to forge those collab pairs. Then after gathering the required amount of RAE and SGN, and completing forging they will split all the forged weapons in half. Having each player two forged weapons._
 {% endhint %}
 
 ## Cooldown Times

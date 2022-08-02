@@ -28,7 +28,7 @@ Fused unto 1 sword with 60% chance random elements and cards, 40% pure element a
 
 ### Sword Fusion Requirements
 
-| Type        | Swords | SGN | RAP  |
+| Type        | Swords | SGN | RAE  |
 | ----------- | ------ | --- | ---- |
 | Dual Fusion | 2      | 2   | 1000 |
 | Quad Fusion | 4      | 2   | 500  |
@@ -59,7 +59,7 @@ Element outcome is dependent on the percentage drop, as will be shown in this ch
 
 ### Sprite Fusion Requirements
 
-| From      | To        | SGN Cost | RAP Cost |
+| From      | To        | SGN Cost | RAE Cost |
 | --------- | --------- | -------- | -------- |
 | Common    | Uncommon  | 4        | 300      |
 | Uncommon  | Rare      | 4        | 600      |
@@ -69,5 +69,5 @@ Element outcome is dependent on the percentage drop, as will be shown in this ch
 | Mythic    | Exotic    | 4        | 9600     |
 
 {% hint style="danger" %}
-These figures may change depending on the game's economic balance. The RAP and SGN required per fuse can change.
+These figures may change depending on the game's economic balance. The RAE and SGN required per fuse can change.
 {% endhint %}

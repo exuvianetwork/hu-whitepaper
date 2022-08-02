@@ -34,7 +34,13 @@
       * [Dark](gamebook/weapons/founding/corrupted/dark.md)
   * [Swords](gamebook/weapons/swords.md)
 * [Sprites](gamebook/sprites-system/README.md)
-  * [Founding Sprites](gamebook/sprites-system/founding-sprites.md)
+  * [Founding Sprites](gamebook/sprites-system/founding-sprites/README.md)
+    * [Water](gamebook/sprites-system/founding-sprites/water.md)
+    * [Earth](gamebook/sprites-system/founding-sprites/earth.md)
+    * [Air](gamebook/sprites-system/founding-sprites/air.md)
+    * [Light](gamebook/sprites-system/founding-sprites/light.md)
+    * [Dark](gamebook/sprites-system/founding-sprites/dark.md)
+    * [Fire](gamebook/sprites-system/founding-sprites/fire.md)
   * [Sprites](gamebook/sprites-system/sprites.md)
 
 ## Cards
@@ -52,8 +58,8 @@
 * [Crafting System](game-features/crafting-system.md)
 * [Fusion System](game-features/combine-system.md)
 * [Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
-  * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
   * [Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
+  * [Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
 * [Guild System](game-features/guild-system/README.md)
   * [Guild Tech](game-features/guild-system/guild-tech.md)
   * [Guild Expedition](game-features/guild-system/guild-expedition.md)
@@ -91,11 +97,14 @@
   * [Public Sale](game-economy-tokens-sale-and-funds-information/funds-breakdown/public-sale.md)
   * [Founding NFT Sale](game-economy-tokens-sale-and-funds-information/funds-breakdown/founding-nft-sale/README.md)
     * [Founding Sword NFT Sale](game-economy-tokens-sale-and-funds-information/funds-breakdown/founding-nft-sale/founding-sword-nft-sale.md)
+    * [Founding Sprite NFT Sale](game-economy-tokens-sale-and-funds-information/funds-breakdown/founding-nft-sale/founding-sprite-nft-sale.md)
   * [Development Funds Breakdown](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/README.md)
     * [Seed Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/seed-sale-development.md)
     * [Private Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/private-sale-development.md)
     * [Public Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/public-sale-development.md)
-    * [NFT Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development.md)
+    * [NFT Sale (DEVELOPMENT)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development/README.md)
+      * [Founding Sword NFT Sale (Development)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development/founding-sword-nft-sale-development.md)
+      * [Founding Sprite NFT Sale (Development)](game-economy-tokens-sale-and-funds-information/funds-breakdown/development-funds-breakdown/nft-sale-development/founding-sprite-nft-sale-development.md)
 
 ## GLOBAL INFORMATION
 
