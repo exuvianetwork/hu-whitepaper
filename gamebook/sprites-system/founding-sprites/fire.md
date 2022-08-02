@@ -1,3 +1,3 @@
 # Fire
 
-![](../../../.gitbook/assets/fire.png)
+![](<../../../.gitbook/assets/fire (3).png>)

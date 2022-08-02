@@ -35,12 +35,12 @@
   * [Swords](gamebook/weapons/swords.md)
 * [Sprites](gamebook/sprites-system/README.md)
   * [Founding Sprites](gamebook/sprites-system/founding-sprites/README.md)
+    * [Fire](gamebook/sprites-system/founding-sprites/fire.md)
     * [Water](gamebook/sprites-system/founding-sprites/water.md)
     * [Earth](gamebook/sprites-system/founding-sprites/earth.md)
     * [Air](gamebook/sprites-system/founding-sprites/air.md)
     * [Light](gamebook/sprites-system/founding-sprites/light.md)
     * [Dark](gamebook/sprites-system/founding-sprites/dark.md)
-    * [Fire](gamebook/sprites-system/founding-sprites/fire.md)
   * [Sprites](gamebook/sprites-system/sprites.md)
 
 ## Cards

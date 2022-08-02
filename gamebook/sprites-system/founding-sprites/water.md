@@ -1,3 +1,3 @@
 # Water
 
-![](<../../../.gitbook/assets/water (1).png>)
+![](../../../.gitbook/assets/water.png)
