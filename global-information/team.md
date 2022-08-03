@@ -46,8 +46,6 @@
 
 ## Marketing Team
 
-* John Rey Cepeda | Marketing Lead
-
 ## Moderating Team
 
 * Gerald Madarang Mercedes | Moderator Lead  [Twitter](https://twitter.com/gerald\_madarang) [LinkedIn](https://www.linkedin.com/in/gerald-mercedes-8aa25a244/)

@@ -119,4 +119,4 @@
 
 ## Others
 
-* [APPENDIX](others/appendix.md)
+* [TERMINOLOGY](others/terminology.md)

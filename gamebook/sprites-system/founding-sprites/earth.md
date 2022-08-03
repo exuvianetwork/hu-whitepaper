@@ -1,3 +1,3 @@
 # Earth
 
-![](../../../.gitbook/assets/earth.png)
+![](<../../../.gitbook/assets/earth (1).png>)

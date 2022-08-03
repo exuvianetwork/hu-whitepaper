@@ -1,3 +1,3 @@
 # Dark
 
-![](../../../.gitbook/assets/dark.png)
+![](<../../../.gitbook/assets/dark (2).png>)
