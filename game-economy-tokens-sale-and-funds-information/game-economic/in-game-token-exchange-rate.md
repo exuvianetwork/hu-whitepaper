@@ -1,5 +1,5 @@
 ---
-description: this exchange rate will automatically updated each day at 00:0(GMT+8)
+description: this exchange rate will automatically update each day at 00:0(GMT+8)
 ---
 
 # In-game Token Exchange Rate
