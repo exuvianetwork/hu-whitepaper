@@ -2,14 +2,14 @@
 description: >-
   This documentation provides information or data about the project. This is
   dynamic and is subject to change with each update due to development or
-  critical events. Last updated 6th of July, 2022.
+  critical events. Last updated 4th of August, 2022.
 ---
 
 # Heroes Uprising
 
 
 
-![V. 0.9.19](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
+![](.gitbook/assets/247992708\_606036963761904\_1206956356521206668\_n.png)
 
 > Battle a bunch of enemies in the arena and dungeon to unlock loots and become a legendary hero.
 
