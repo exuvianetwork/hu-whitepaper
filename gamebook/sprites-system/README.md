@@ -1,6 +1,6 @@
 # Sprites
 
-Sprites are from a different realm called Anglevin and have been summoned to aid heroes in battle because of their innate magical abilities to strengthen the individuals that they are bonded with. Each fairy has a different elemental affinity, and a sprite's power is dependent upon the magic quality it possesses.
+Sprites are from a different realm called Anglevin and have been summoned to aid heroes in battle because of their innate magical abilities to strengthen the individuals that they are bonded with. Each Sprite has a different elemental affinity, and a Sprite's power is dependent upon the magic quality it possesses.
 
 ## Sprites
 

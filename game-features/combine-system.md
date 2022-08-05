@@ -35,7 +35,7 @@ Fused unto 1 sword with 60% chance random elements and cards, 40% pure element a
 
 ## Sprite Fusion
 
-If fusion does not result in a rarity increase, then the companion you receive will be the same grade as the ones used but will have a random element. The companions used for fusion will be automatically burned.
+If fusion does not result in a rarity increase, then the Sprite you receive will be the same grade as the ones used but will have a random element. The Sprites used for fusion will be automatically burned.
 
 | From      | To        | Probability |
 | --------- | --------- | ----------- |
