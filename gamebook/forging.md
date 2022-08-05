@@ -20,7 +20,7 @@ The category of the sword element will be determined on the blade.
 
 ## **Forging Fees**
 
-| FORGE COUNT | Forge Number | RAP | SGN |
+| FORGE COUNT | Forge Number | RAE | SGN |
 | ----------- | ------------ | --- | --- |
 | **0/5**     | 1            | 750 | 1   |
 | 1/5         | 2            | 600 | 1   |
@@ -73,7 +73,7 @@ Swords gifted under 48 hours will no longer gain rewards from any battle.
 
 > _Having one sword gifted will trigger the above consequence._
 
-### Forging
+### Forging - The waiting time that can be forge again
 
 We have a forging cooldown to balance the growth of swords.
 
@@ -87,7 +87,7 @@ We have a forging cooldown to balance the growth of swords.
 | 3/5         | 48             |
 | 4/5         | 60             |
 
-### Smelting
+### Smelting - The waiting time that the sword is forged
 
 We have smelting time depending on the forge count of the parent. Below is the smelting time per forge count.
 
