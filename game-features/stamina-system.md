@@ -12,5 +12,5 @@ The amount of stamina that players receive prevents them from earning a huge amo
 | 30 - OR MORE  | 60/60 + GUILD BONUS |
 
 {% hint style="info" %}
-To add more Stamina for free check it here.
+To add more Stamina for free check it [here](https://docs.heroesuprising.com/game-features/stamina-system/hu-adrevenue-system).
 {% endhint %}

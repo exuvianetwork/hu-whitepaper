@@ -2,13 +2,15 @@
 
 Since preserving market equilibrium is a difficult task, We developed this concept as a viable solution that will benefit both our community and investors
 
-Development: 10% unlocked Before public exchange listing and 10% quarterly
+Development: 10% unlocked before public exchange listing and 10% quarterly
 
-Seed: 10% Unlocked Before public exchange listing, then 10% quarterly
+Seed Sale: 10% unlocked before public exchange listing, then 10% quarterly
 
-Private: 20% Unlocked Before public exchange listing, then 20% quarterly
+Private Sale: 20% unlocked before public exchange listing, then 20% quarterly
 
-Liquidity: 25% Unlocked Before public exchange listing, Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked for 2 years to their respective LP pair)
+Public: 100% unlocked before public exchange listing.
+
+Liquidity: 25% unlocked Before public exchange listing, Then 10% monthly over 5 months then 5% monthly for another 5 months (all unlocked tokens will be locked for 2 years to their respective LP pair)
 
 Game Rewards: 10% unlocked before public exchange listing, then 10% quarterly
 
