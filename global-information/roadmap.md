@@ -14,8 +14,8 @@
 
 * [x] Website and Whitepaper Development Starts
 * [x] Discord Server Release
-* [ ] Website Release
-* [ ] Whitepaper Release
+* [x] Website Release
+* [x] Whitepaper Release
 * [ ] Game Development Starts
 * [ ] Marketplace Development
 * [ ] Governance Token Deployment
