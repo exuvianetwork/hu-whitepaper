@@ -2,7 +2,7 @@
 description: >-
   This documentation provides information or data about the project. This is
   dynamic and is subject to change with each update due to development or
-  critical events. Last updated 5th of August, 2022.
+  critical events. Last updated 8th of August, 2022.
 cover: .gitbook/assets/2 (1).jpg
 coverY: -29.45619335347432
 ---
@@ -19,7 +19,7 @@ The Land of Mydoslyne is the land of Honor, Fame, and Glory. Owned and ruled by 
 
 There are different tribes in every elemental region. The Flames of Phoenetra Tribe, The Waves of Seagandia Tribe, The Great Stone of Yagamuth Tribe, The Breeze of Kuzityre Tribe, The Beam of Arkansun Tribe, and The Depth Void Tribe. Although Monsters are present in the Land of Mydoslene, the tribes go for the hunt, to provide for their needs and to keep the land safe from the evils of the depth. Nothing else feels great than being called the best warriors of the Land of Mydoslene, to be acknowledged as the fiercest, bravest, and smartest. To earn riches, glory, fame, and to earn the right to be called the greatest hero in the land of Mydoslyne. The tribes forge their swords to wield, slay monsters, and aid in their arena battles. To earn medallions, and trophies and to show who has more power in the Land of Mydoslene.
 
-Heroes Uprising is a fantasy-themed Free-to-Play and Play-and-Earn game in which players can earn tokens through battling. The game is designed to reward players for their interactions via blockchain technology.
+Heroes Uprising is a fantasy-themed Free-to-Play and Play-and-Earn turn-based RPG card game in which players can earn rewards through battling. The game is designed to reward players for their interactions via blockchain technology.
 
 The game is created for the players to have fun while earning rewards. Players/gamers are encouraged to recognize that this is the start of the next chapter of gaming through NFTs.
 
