@@ -14,8 +14,10 @@
 
 * [x] Website and Whitepaper Development Starts
 * [x] Discord Server Release
+* [x] Early Adopters Event Starts
 * [ ] Website Release
 * [ ] Whitepaper Release
+* [ ] Discord Invite Event Starts&#x20;
 * [ ] Game Development Starts
 * [ ] Marketplace Development
 * [ ] Governance Token Deployment
@@ -26,7 +28,6 @@
 * [ ] Pre-Marketing
 * [ ] AMA: What is Heroes Uprising?
 * [ ] Seed Sale Starts
-* [ ] Early Adopters Event Start
 * [ ] Whitelisting Starts
 * [ ] Private Sale Round
 * [ ] Game Cards Release
