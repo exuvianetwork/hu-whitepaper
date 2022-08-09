@@ -2,12 +2,13 @@
 
 ### Phase 1
 
-* [x] &#x20;Concept Creation
+* [x] Concept Creation
 * [x] Team Assembly
 * [x] Research
 * [x] Whitepaper Preparation
 * [x] Theme and Art Creation Starts
 * [x] Smart Contract Development Starts
+* [x] Game Development Starts
 * [x] Social Interactions
 
 ### Phase 2
@@ -18,8 +19,7 @@
 * [ ] Website Release
 * [ ] Whitepaper Release
 * [ ] Discord Invite Event Starts&#x20;
-* [ ] Game Development Starts
-* [ ] Marketplace Development
+* [ ] Marketplace Development Starts
 * [ ] Governance Token Deployment
 * [ ] TGE
 
@@ -30,19 +30,20 @@
 * [ ] Seed Sale Starts
 * [ ] Whitelisting Starts
 * [ ] Private Sale Round
-* [ ] Game Cards Release
-* [ ] Public Sale Starts
+* [ ] Public Sale Starts (IDO)
 * [ ] Gameplay Video Release
+* [ ] Early Adopters Airdrop SGN Reward Distribution
 
 ### Phase 4
 
 * [ ] Marketplace Release
+* [ ] Discord Invite Event SGN Reward Distribution
 * [ ] Limited Sword NFT Sale Starts (Founding NFTs)
 * [ ] Sprite NFT Sale Starts (Founding NFTs)
 * [ ] Game Alpha Testing starts
 * [ ] AMA: How to Play Heroes Uprising?
 * [ ] Game Beta Testing Starts
-* [ ] SGN Token Airdrop
+* [ ] SGN Token Airdrop for Founding NFT Holders
 
 ### Phase 5
 
