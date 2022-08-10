@@ -20,7 +20,7 @@
 ### Chief Officers
 
 * Allan Brando B. Catayoc | CEO [`LinkedIn`](https://www.linkedin.com/in/allanbrandocatayoc) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
-* Ryan  M. Panuncia | COO
+* Ryan  M. Panuncia | COO [`LinkedIn`](https://www.linkedin.com/in/ryan-panuncia-b090a3226/) `` [`Twitter`](https://twitter.com/Exuvia\_Ryan)&#x20;
 * Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175/) `` [`Twitter`](https://twitter.com/shots\_anonymous)``
 * Kean John Sean Lagbo | CGO [`LinkedIn`](https://www.linkedin.com/in/kenshinkean) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 
@@ -35,7 +35,7 @@
 ### Production Team
 
 * Luis Miguel M. Panta | Game Strategic Lead  [Twitter](https://twitter.com/Luis70731440) [LinkedIn](https://www.linkedin.com/in/luis-panta-105242242/)
-* Dave Agustin A. Caacoy | Creative Director  [Twitter](https://twitter.com/CaacoyDave) [LinkedIn](https://www.linkedin.com/in/dave-agustin-caacoy-17381120b)
+* Dave Agustin A. Caacoy | Game Design Lead  [Twitter](https://twitter.com/CaacoyDave) [LinkedIn](https://www.linkedin.com/in/dave-agustin-caacoy-17381120b)
 * Joenard V. Magallanes | Social Media Manager  [Twitter](https://twitter.com/ahjin\_nard) [LinkedIn](https://www.linkedin.com/in/nard-magallanes-590062226)
 * Utsukushi Desu | Sketch Art Talent
 * Claire Mamalias | Sketch Art Talent  [Twitter](https://twitter.com/ethanolol70) [LinkedIn](https://www.linkedin.com/in/erin-claire-mamalias-952332244)

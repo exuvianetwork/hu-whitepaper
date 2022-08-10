@@ -13,11 +13,13 @@
 
 ### Phase 2
 
-* [x] Website and Whitepaper Development Starts
+* [x] Website Development Starts
+* [x] Whitepaper Creation Starts
+* [x] Angel Investor Sale Starts
 * [x] Discord Server Release
 * [x] Early Adopters Event Starts
+* [x] Whitepaper Release
 * [ ] Website Release
-* [ ] Whitepaper Release
 * [ ] Discord Invite Event Starts&#x20;
 * [ ] Marketplace Development Starts
 * [ ] Governance Token Deployment
