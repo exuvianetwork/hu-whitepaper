@@ -1,4 +1,11 @@
-# Sale Information
+# Token Sale Information
+
+## ANGEL INVESTOR SALE
+
+| SECTION          | VALUE           |
+| ---------------- | --------------- |
+| TOKENS AVAILABLE | 1,000,000 $SGN  |
+| STARTS           | August 02, 2022 |
 
 ## SEED SALE
 
