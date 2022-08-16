@@ -24,14 +24,6 @@
 * Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175/) `` [`Twitter`](https://twitter.com/shots\_anonymous)``
 * Kean John Sean Lagbo | CGO [`LinkedIn`](https://www.linkedin.com/in/kenshinkean) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
 
-### Development Team
-
-* Janbert Campos | Web Development Lead  [Twitter](https://twitter.com/JanbertCampos) [LinkedIn](https://www.linkedin.com/in/janbert-campos-07427b244/)
-* Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
-* Ainol Obando | Game Developer
-* Alberto Ymas | Game Developer
-* Eugene Tuscano | Full Stack Developer
-
 ### Production Team
 
 * Luis Miguel M. Panta | Game Strategic Lead  [Twitter](https://twitter.com/Luis70731440) [LinkedIn](https://www.linkedin.com/in/luis-panta-105242242/)
@@ -42,7 +34,13 @@
 * Gabriel Bryan S. Agudo | Documentation Writer
 * Brylle Solano | Documentation Writer  [Twitter](https://twitter.com/solanobry) [LinkedIn](https://www.linkedin.com/in/brylle-solano-317252247)
 
+### Development Team
 
+* Janbert Campos | Web Development Lead  [Twitter](https://twitter.com/JanbertCampos) [LinkedIn](https://www.linkedin.com/in/janbert-campos-07427b244/)
+* Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
+* Ainol Obando | Game Developer
+* Alberto Ymas | Game Developer
+* Eugene Tuscano | Full Stack Developer
 
 ## Marketing Team
 
