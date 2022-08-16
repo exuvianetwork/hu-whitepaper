@@ -32,3 +32,6 @@
 | WHITELIST        | N/A            |
 | IDO PLATFORM     | TBA            |
 
+{% hint style="danger" %}
+ALL UNSOLD TOKENS WILL BE BURNED
+{% endhint %}
