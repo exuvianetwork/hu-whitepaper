@@ -5,9 +5,10 @@ description: >-
   critical events. Last updated 19th of August, 2022.
 cover: .gitbook/assets/2 (1).jpg
 coverY: -29.45619335347432
+layout: landing
 ---
 
-# Heroes Uprising
+# ⚔ Heroes Uprising
 
 
 
