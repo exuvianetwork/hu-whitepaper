@@ -4,16 +4,16 @@ Each Sword NFT has its own Durability, this will indicate players' progress in t
 
 ### How can I replenish my Swords Durability?
 
-Players can replenish Swords Durability by purchasing a potion that can be purchased using RAP on the marketplace. Each sword needs one potion to replenish its durability to 100%.
+Players can replenish Swords Durability by purchasing a potion that can be purchased with USDT on the marketplace. Each sword needs one potion to replenish its durability to 100%.
 
 ### What is the max durability of the sword?
 
 It depends on whether it is a Founding Sword or a Normal Sword. Check the max durability on the table below
 
-| TYPE           | MAX DURABILITY |
-| -------------- | -------------- |
-| FOUNDING SWORD | 1500/1500      |
-| NORMAL SWORD   | 1000/1000      |
+| TYPE           | RANDOM MAX DURABILITY |
+| -------------- | --------------------- |
+| FOUNDING SWORD | 50-100                |
+| NORMAL SWORD   | 20-75                 |
 
 {% hint style="warning" %}
 ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDING ON THE ECONOMIC GROWTH OF THE GAME.
