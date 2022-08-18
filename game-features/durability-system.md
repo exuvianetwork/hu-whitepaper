@@ -14,7 +14,3 @@ It depends on whether it is a Founding Sword or a Normal Sword. Check the max du
 | -------------- | --------------------- |
 | FOUNDING SWORD | 50-100                |
 | NORMAL SWORD   | 20-75                 |
-
-{% hint style="warning" %}
-ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDING ON THE ECONOMIC GROWTH OF THE GAME.
-{% endhint %}
