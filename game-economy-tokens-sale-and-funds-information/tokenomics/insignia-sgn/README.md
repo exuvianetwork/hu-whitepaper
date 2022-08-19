@@ -1,4 +1,4 @@
-# Insignia (SGN)
+# 🪙 Insignia (SGN)
 
 ![](../../../.gitbook/assets/273924197\_241463344753943\_7662091046184021214\_n.png)
 
@@ -6,15 +6,16 @@ Insignia (SGN), an ERC20 token, is the governance token for Project Exuvia that 
 
 ### SGN Tokenomics
 
-| SECTION          | VALUE              |
-| ---------------- | ------------------ |
-| Initial Supply   | 100,000,000 $SGN   |
-| Max Supply       | 1,000,000,000 $SGN |
-| Token Type       | Governance Token   |
-| Decimals         | 18                 |
-| Ticker           | SGN                |
-| Network          | Polygon            |
-| Contract Address | TBA                |
+| SECTION          | VALUE             |
+| ---------------- | ----------------- |
+| Initial Supply   | 100,000,000 SGN   |
+| Max Supply       | 1,000,000,000 SGN |
+| Token Type       | Governance Token  |
+| Decimals         | 18                |
+| Token Name       | Insignia          |
+| Ticker           | SGN               |
+| Network          | Polygon           |
+| Contract Address | TBA               |
 
 {% hint style="info" %}
 only 10% of the total max supply will be generated as an initial supply and the rest will be generated through staking.

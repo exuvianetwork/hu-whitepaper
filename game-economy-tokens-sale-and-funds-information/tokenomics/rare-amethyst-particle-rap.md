@@ -1,4 +1,4 @@
-# Rare Amethyst Elixir (RAE)
+# 🧴 Rare Amethyst Elixir (RAE)
 
 ![](../../.gitbook/assets/rap-particle11111.png)
 
@@ -7,3 +7,20 @@ Rare Amethyst Elixir (RAE) is a reward/utility token that can be obtained by exc
 Please keep in mind that claiming your RAP takes two weeks. After that, you can make a claim after two weeks again.
 
 You can sell or exchange your Rare Amethyst Particles on decentralized exchanges and Aivuxe.
+
+## RAE Tokenomics
+
+| SECTION          | VALUE                |
+| ---------------- | -------------------- |
+| Initial Supply   | 5,000,000 RAE        |
+| Max Supply       | ∞                    |
+| Token Type       | Utility Token        |
+| Decimals         | 18                   |
+| Token Name       | Rare Amethyst Elixir |
+| Ticker           | RAE                  |
+| Network          | Polygon              |
+| Contract Address | TBA                  |
+
+{% hint style="info" %}
+All initial supply will be used for liquidity
+{% endhint %}
