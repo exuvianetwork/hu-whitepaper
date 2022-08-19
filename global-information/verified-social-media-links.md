@@ -1,4 +1,4 @@
-# Verified Social Media Links
+# 🔗 Verified Social Media Links
 
 ## Heroes Uprising
 

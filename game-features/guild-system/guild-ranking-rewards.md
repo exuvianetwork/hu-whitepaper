@@ -1,4 +1,4 @@
-# Guild Ranking
+# 🏅 Guild Ranking Rewards
 
 Recruit more powerful players and work together to climb the guild rankings. Guilds can advance in rank by fighting other guilds and winning arena battle royale. The guild MMR will be determined by each player's MMR in that guild as well as the Guild Domination. Top guilds will be credited with amazing rewards and trophies.
 

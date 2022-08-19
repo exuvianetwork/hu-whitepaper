@@ -1,4 +1,4 @@
-# Guild Domination
+# ⚔ Guild Domination
 
 ![](../../.gitbook/assets/domination.jpg)
 

@@ -1,4 +1,4 @@
-# Fusion System
+# 🖱 Fusion System
 
 ## Sword Fusion
 

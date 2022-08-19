@@ -1,4 +1,4 @@
-# Guild Expedition
+# 🗺 Guild Expedition
 
 ![](../../.gitbook/assets/Expedition.jpg)
 

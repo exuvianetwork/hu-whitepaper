@@ -1,4 +1,4 @@
-# Tokenomics
+# 💰 Tokenomics
 
 {% content-ref url="insignia-sgn/" %}
 [insignia-sgn](insignia-sgn/)

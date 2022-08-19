@@ -4,7 +4,7 @@ description: >-
   and follow up with burns to finish off enemies.
 ---
 
-# Fire element
+# 🔥 Fire element
 
 ### **Aidan**
 

@@ -1,2 +1,2 @@
-# Founding NFT Sale
+# 🍀 Founding NFT Sale
 

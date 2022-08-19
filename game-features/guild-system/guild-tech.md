@@ -1,4 +1,4 @@
-# Guild Tech
+# ⚙ Guild Tech
 
 ![](../../.gitbook/assets/tech.jpg)
 

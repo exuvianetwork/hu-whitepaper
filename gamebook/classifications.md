@@ -1,4 +1,4 @@
-# Classifications
+# 🎌 Classifications
 
 Different elements are included in each weapon and hero. Each element has its strengths and weaknesses when it comes to battling other elements.
 

@@ -1,4 +1,4 @@
-# Security Features
+# 🔑 Security Features
 
 ## Logging in-game
 

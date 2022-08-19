@@ -2,7 +2,7 @@
 description: this exchange rate will automatically update each day at 00:0(GMT+8)
 ---
 
-# In-game Token Exchange Rate
+# 🤝 In-game Token Exchange Rate
 
 | EXCHANGE FROM | EXCHANGE TO | EXCHANGE RATE |
 | ------------- | ----------- | ------------- |

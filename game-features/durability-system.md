@@ -1,4 +1,4 @@
-# Durability System
+# 🤺 Durability System
 
 Each Sword NFT has its own Durability, this will indicate players' progress in the game. Players will deduct each other's sword durability through every battle done. Each battle will deduct ONE ( 1 ) Durability. Once it goes down to ZERO ( 0 ) Durability, players will not be able to get any rewards despite having Stamina. Eventually, the sword's durability will reach zero and you don't want that to happen, even if the players have 2 Swords that still have an amount of durability left and 1 sword that has zero durability, they will still not be able to get any rewards after each battle. You need to maintain all of your Swords Durability that is equipped on your Heroes above zero in order to continue gaining rewards.
 

@@ -1,4 +1,4 @@
-# Cosmetics
+# 💄 Cosmetics
 
 Cosmetics will be available in Heroes Uprising, giving players more options in terms of customizing their personal experience and expressing their sense of style in the game. Players will be able to trade and collect cosmetics with one another.
 

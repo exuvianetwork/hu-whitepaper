@@ -1,4 +1,4 @@
-# Stats
+# 💹 Stats
 
 | Element              |  Health  | Agility | Vital Strike |
 | -------------------- | :------: | :-----: | :----------: |
@@ -14,6 +14,8 @@
 | Alira (Light Female) | 40 (437) |    35   |  35 (12.5%)  |
 | Draven (Dark Male)   | 39 (430) |    36   |  35 (12.5%)  |
 | Sena (Dark Female)   | 39 (430) |    36   |  35 (12.5%)  |
+
+
 
 #### Stat Drawbacks if not using the same element
 

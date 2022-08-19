@@ -1,4 +1,4 @@
-# Heroes
+# 🧙 Heroes
 
 Heroes are summoned by players to assist them in their journey through the land of Mydoslyne. These summoned heroes will aid you in your quest, but each element has its own set of strengths and weaknesses, so choose your hero wisely and build your team to your liking.
 

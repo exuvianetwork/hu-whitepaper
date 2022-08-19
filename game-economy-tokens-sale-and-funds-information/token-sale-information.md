@@ -1,4 +1,4 @@
-# Token Sale Information
+# 💸 Token Sale Information
 
 ## ANGEL INVESTOR SALE
 

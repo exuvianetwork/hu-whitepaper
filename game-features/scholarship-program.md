@@ -1,4 +1,4 @@
-# Scholarship Program
+# 🏫 Scholarship Program
 
 ![](../.gitbook/assets/Scholarshipprogram.jpg)
 

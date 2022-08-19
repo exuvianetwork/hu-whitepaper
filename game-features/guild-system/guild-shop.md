@@ -1,4 +1,4 @@
-# Guild shop
+# 🛒 Guild Shop
 
 ![](../../.gitbook/assets/SHOP.jpg)
 

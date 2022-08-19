@@ -1,4 +1,4 @@
-# Rare Amethyst Particle (RAP)
+# 🧴 Rare Amethyst Particle (RAP)
 
 ![](../../../.gitbook/assets/RAP-NEW.png)
 

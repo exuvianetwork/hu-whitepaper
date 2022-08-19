@@ -5,7 +5,7 @@ description: >-
   kill the enemy.
 ---
 
-# Earth element
+# 🪦 Earth element
 
 ### Mason
 

@@ -1,4 +1,4 @@
-# Arena Battle Royale
+# ⚔ Arena Battle Royale
 
 ### Battle System
 

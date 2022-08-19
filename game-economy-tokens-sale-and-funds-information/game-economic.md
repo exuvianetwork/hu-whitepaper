@@ -1,4 +1,4 @@
-# Game Economic Balance
+# 📈 Game Economic Balance
 
 We came up with these methods to burn as many inflated tokens as possible and to put funds in our treasury to sustain support for the never-ending development of the team.
 
@@ -68,10 +68,10 @@ You need SGN to create a guild. SGN fees will be split into 5 parts 15% to the T
 All of the resources (RAP) needed in order to upgrade a specific Guild Tech will be burned.
 {% endhint %}
 
-## Durability Replenish Potion (Marketplace)&#x20;
+## Durability Replenish Potion
 
 {% hint style="info" %}
-All the RAE used to purchase a potion will be burned automatically.
+All of the USDT will be used to buy-back SGN and RAE to provide liquidity that will be locked for 10 years.
 {% endhint %}
 
 ## Heroes Cosmetics

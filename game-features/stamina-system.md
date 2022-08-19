@@ -1,4 +1,4 @@
-# Stamina System
+# ⚡ Stamina System
 
 Stamina is the main factor in earning RAP in Heroes Uprising, once they start playing they will receive 30 stamina per day that will reset every 00:00 GMT +8. Once the player enters the Arena Battle Royal, a stamina point will be consumed whether the player was successful or not.
 

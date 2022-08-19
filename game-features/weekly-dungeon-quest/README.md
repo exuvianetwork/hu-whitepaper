@@ -1,4 +1,4 @@
-# Weekly Dungeon Quest
+# 🏛 Weekly Dungeon Quest
 
 There are six gates that hold immortal elemental monsters, each one of these monsters threatened the world as a way to save everyone they have been imprisoned by the Goddess but as time passed the seals on these gates have gotten weaker one gate will open each week releasing a monster for the player to fight and push back, inside those gates are valuable rewards just waiting to be claimed.
 

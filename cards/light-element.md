@@ -1,4 +1,6 @@
-# Light Element
+# ☀ Light Element
+
+
 
 | **Blade**                | **Description**                                                                    | **Base Damage** | **Mana Cost** | **Base Armor** |        **Buff**        | **Debuff** |
 | ------------------------ | ---------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :--------------------: | :--------: |
@@ -21,9 +23,9 @@
 | Ray of Light          | Heal the front character by 100 and apply immunity.                     |        0        |       1       |       50       | Heal, Immunity |            |
 | Light Combo (Melee)   | When combined with two other light cards, a critical hit is guaranteed. |       100       |       1       |       20       |                |            |
 
-| **Ability Names**                                                   | **Description**                                                                                | **Base Damage** | **Mana Cost** | **Base Armor** |   **Buff**  | **Debuff** |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :---------: | :--------: |
-| <p>Holy Shield - </p><p><strong>(Pommel)</strong></p>               | If this character's armor doesn't break, apply a speed boost to this character for two rounds. |        0        |       1       |       50       | Speed Boost |            |
-| <p>Miracle - </p><p><strong>(Pommel)</strong></p>                   | Remove all debuffs from the entire team and heal 100 of the lowest HP character.               |        0        |       2       |       40       |   Cleanse   |            |
-| <p>Last One Standing (Melee) - </p><p><strong>(Pommel)</strong></p> | If this hero is the last one alive in the team, heal by the amount this card inflicts.         |        80       |       1       |        0       |             |            |
-| <p>Rejuvinate - </p><p><strong>(Pommel)</strong></p>                | Remove all debuffs from this character                                                         |        0        |       0       |       35       |     Heal    |            |
+| **Ability Names**                                                  | **Description**                                                                                | **Base Damage** | **Mana Cost** | **Base Armor** |   **Buff**  | **Debuff** |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :---------: | :--------: |
+| <p>Holy Shield -</p><p><strong>(Pommel)</strong></p>               | If this character's armor doesn't break, apply a speed boost to this character for two rounds. |        0        |       1       |       50       | Speed Boost |            |
+| <p>Miracle -</p><p><strong>(Pommel)</strong></p>                   | Remove all debuffs from the entire team and heal 100 of the lowest HP character.               |        0        |       2       |       40       |   Cleanse   |            |
+| <p>Last One Standing (Melee) -</p><p><strong>(Pommel)</strong></p> | If this hero is the last one alive in the team, heal by the amount this card inflicts.         |        80       |       1       |        0       |             |            |
+| <p>Rejuvinate -</p><p><strong>(Pommel)</strong></p>                | Remove all debuffs from this character                                                         |        0        |       0       |       35       |     Heal    |            |

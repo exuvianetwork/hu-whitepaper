@@ -1,4 +1,4 @@
-# Guild System
+# 🏢 Guild System
 
 ![](../../.gitbook/assets/280046764\_547675686964943\_7143949812595273658\_n.jpg)
 

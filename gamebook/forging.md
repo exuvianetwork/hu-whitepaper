@@ -1,4 +1,4 @@
-# Forging System
+# 🔨 Forging System
 
 ![](../.gitbook/assets/forge.jpg)
 

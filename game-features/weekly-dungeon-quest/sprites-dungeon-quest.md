@@ -1,4 +1,4 @@
-# Sprites Dungeon Quest
+# 🧚 Sprites Dungeon Quest
 
 Access this dungeon to have a chance to defeat a boss and receive rewards. On a specific day, entry is unlimited until the boss is defeated. The entry fee that will be used is RAP (Rare Amethyst Particle). The boss has a huge number of health points, so the player must keep re-entering to whittle down the boss's health until it is finally defeated. Bosses change every week on a rotation basis.
 

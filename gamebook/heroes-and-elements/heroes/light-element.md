@@ -4,7 +4,7 @@ description: >-
   fights.
 ---
 
-# Light element
+# ☀ Light element
 
 ### Bastian
 
