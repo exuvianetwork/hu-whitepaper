@@ -31,8 +31,8 @@
 * Joenard V. Magallanes | Social Media Manager  [Twitter](https://twitter.com/ahjin\_nard) [LinkedIn](https://www.linkedin.com/in/nard-magallanes-590062226)
 * Utsukushi Desu | Sketch Art Talent
 * Claire Mamalias | Sketch Art Talent  [Twitter](https://twitter.com/ethanolol70) [LinkedIn](https://www.linkedin.com/in/erin-claire-mamalias-952332244)
-* Gabriel Bryan S. Agudo | Documentation Writer
-* Brylle Solano | Documentation Writer  [Twitter](https://twitter.com/solanobry) [LinkedIn](https://www.linkedin.com/in/brylle-solano-317252247)
+* Gabriel Bryan S. Agudo | Content Writer
+* Brylle Solano | Content Writer  [Twitter](https://twitter.com/solanobry) [LinkedIn](https://www.linkedin.com/in/brylle-solano-317252247)
 
 
 
