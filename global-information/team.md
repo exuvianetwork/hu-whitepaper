@@ -26,6 +26,8 @@
 
 ``
 
+``
+
 * Luis Miguel M. Panta | Game Strategic Lead  [Twitter](https://twitter.com/Luis70731440) [LinkedIn](https://www.linkedin.com/in/luis-panta-105242242/)
 * Dave Agustin A. Caacoy | Game Design Lead  [Twitter](https://twitter.com/CaacoyDave) [LinkedIn](https://www.linkedin.com/in/dave-agustin-caacoy-17381120b)
 * Joenard V. Magallanes | Social Media Manager  [Twitter](https://twitter.com/ahjin\_nard) [LinkedIn](https://www.linkedin.com/in/nard-magallanes-590062226)
@@ -40,6 +42,7 @@
 * Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
 * Ainol Obando | Game Developer
 * Alberto Ymas | Game Developer
+* Victor Perfecto Bucabuca `| Game Developer / Animator`
 * Kevin Buzon Fontanoza | Full Stack Developer
 * Carl Alexson M. Patan-ao | Project Manager
 
