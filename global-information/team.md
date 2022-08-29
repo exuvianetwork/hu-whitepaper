@@ -11,9 +11,6 @@
 * Ryan M. Panuncia | Co-Founder
 * Joshua S. Pales | Co-Founder
 * Kean John Sean Lagbo | Co-Founder
-* Luis Miguel M. Panta | Co-Founder
-* Dave Agustin A. Caacoy | Co-Founder
-* Joenard V. Magallanes | Co-Founder
 
 ## Core Team
 
@@ -23,8 +20,6 @@
 * Ryan  M. Panuncia | COO [`LinkedIn`](https://www.linkedin.com/in/ryan-panuncia-b090a3226/) `` [`Twitter`](https://twitter.com/Exuvia\_Ryan)&#x20;
 * Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175/) `` [`Twitter`](https://twitter.com/shots\_anonymous)``
 * Kean John Sean Lagbo | CGO [`LinkedIn`](https://www.linkedin.com/in/kenshinkean) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
-
-``
 
 ``
 
@@ -42,7 +37,7 @@
 * Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
 * Ainol Obando | Game Developer
 * Alberto Ymas | Game Developer
-* Victor Perfecto Bucabuca `| Game Developer / Animator`
+* Victor Perfecto Bucabuca | Game Developer / Animator
 * Kevin Buzon Fontanoza | Full Stack Developer
 * Carl Alexson M. Patan-ao | Project Manager
 
