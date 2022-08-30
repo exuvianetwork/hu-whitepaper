@@ -16,4 +16,4 @@ Holds a destructive element that destroys anything in its way, Aidan has mastere
 
 <figure><img src="../../../.gitbook/assets/Fire_female.png" alt=""><figcaption></figcaption></figure>
 
-Blazing through the battlefield with a fiery resolve, Liayra decimates enemies left and right, choosing to attack first and then wait for a plan. new
+Blazing through the battlefield with a fiery resolve, Liayra decimates enemies left and right, choosing to attack first and then wait for a plan.
