@@ -4,9 +4,11 @@ Cosmetics will be available in Heroes Uprising, giving players more options in t
 
 All cosmetics are varied in six parts and rarities with each unique effect added to the game when equipped.
 
+&#x20;                                               &#x20;
+
+&#x20;                                                 \[ image not available for this moment ]
 
 
-sample image FRONT                                                                 sample image BACK
 
 
 
@@ -24,3 +26,7 @@ Short/Skirt - applies a death effect\
 Boots - apply a dash/trail effect
 
 There will be seasonal and limited amounts of cosmetics that will be released and all will be purchasable with Rare Amethyst Particle. The cosmetics are tradeable with other players.
+
+{% hint style="info" %}
+Seasonal cosmetics are not yet available.
+{% endhint %}

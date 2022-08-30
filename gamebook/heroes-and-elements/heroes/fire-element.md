@@ -10,6 +10,8 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Fire_Male.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Fire_Male-01-01.svg" alt=""><figcaption></figcaption></figure>
+
 Holds a destructive element that destroys anything in its way, Aidan has mastered this element to eliminate demons and return the world to what it once was.
 
 ### Liayra
