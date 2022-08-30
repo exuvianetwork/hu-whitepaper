@@ -2,9 +2,9 @@
 
 Marketplace transactions being carried out will require both a buyer and a seller, wherein there will be a 4% tax charged for the given sale and will then be directly deducted into the treasuries mentioned [here](https://docs.heroesuprising.com/game-economy-tokens-sale-and-funds-information/game-economic).
 
-
-
-\[IMAGE OF THE MARKETPLACE HERE]
+{% hint style="info" %}
+Marketplace development hasn't started yet
+{% endhint %}
 
 ### Overview
 
