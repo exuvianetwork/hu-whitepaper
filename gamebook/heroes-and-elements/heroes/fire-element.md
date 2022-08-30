@@ -8,12 +8,12 @@ description: >-
 
 ### **Aidan**
 
-<figure><img src="../../../.gitbook/assets/Fire_Male-test-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Fire_Male111.png" alt=""><figcaption></figcaption></figure>
 
 Holds a destructive element that destroys anything in its way, Aidan has mastered this element to eliminate demons and return the world to what it once was.
 
 ### Liayra
 
-![](../../../.gitbook/assets/1\_w-iVExiJAjX-c2SEOKdlVA.png)
+<figure><img src="../../../.gitbook/assets/Fire_female.png" alt=""><figcaption></figcaption></figure>
 
 Blazing through the battlefield with a fiery resolve, Liayra decimates enemies left and right, choosing to attack first and then wait for a plan.
