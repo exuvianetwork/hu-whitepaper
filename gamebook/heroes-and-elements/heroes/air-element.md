@@ -8,12 +8,12 @@ description: >-
 
 ### Zephyr
 
-![](../../../.gitbook/assets/1\_XIbBH-F0CnKRPe5M2PPczw.png)
+<figure><img src="../../../.gitbook/assets/Wind_Male.png" alt=""><figcaption></figcaption></figure>
 
 Rarely seen by anyone due to his unmatched speed, fights with Zephyr rarely last few seconds as enemies go down before even realizing what has hit them
 
 ### Misha
 
-![](../../../.gitbook/assets/1\_o7p75qH6IlC60I1\_jPEfig.png)
+<figure><img src="../../../.gitbook/assets/Wind_female.png" alt=""><figcaption></figcaption></figure>
 
 Described by people who encountered her as a soft gentle breeze, Misha fights enemies with quick calculated cuts that render foes weak.

@@ -8,12 +8,12 @@ description: >-
 
 ### Flyse
 
-![](../../../.gitbook/assets/1\_-6R8SCi1eOm30MlRaqBbvQ.png)
+<figure><img src="../../../.gitbook/assets/Water_Male.png" alt=""><figcaption></figcaption></figure>
 
 Flyse rarely takes action, opting to just watch from the sideline, but when the waters he vowed to protect are threatened, his wrath is not far behind.
 
 ### Oshal
 
-![](../../../.gitbook/assets/1\_17F60p2tunk7oVmd1Kvx3w.png)
+<figure><img src="../../../.gitbook/assets/Water_Female.png" alt=""><figcaption></figcaption></figure>
 
 Compassionate and calm. Oshal is always right beside her friends. She may seem harmless, but she will not hesitate to put down anyone that hurts her friends.
