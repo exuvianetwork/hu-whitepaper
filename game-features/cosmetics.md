@@ -4,19 +4,7 @@ Cosmetics will be available in Heroes Uprising, giving players more options in t
 
 All cosmetics are varied in six parts and rarities with each unique effect added to the game when equipped.
 
-&#x20;                                               &#x20;
-
-&#x20;                                                 \[ image not available at this moment ]
-
-
-
-
-
-
-
-&#x20;  &#x20;
-
-
+<figure><img src="../.gitbook/assets/COSMETICS.png" alt=""><figcaption></figcaption></figure>
 
 Mask - applies an enemy kill effect\
 Dress/shirt - applies a special ambient effect when using ranged attacks\

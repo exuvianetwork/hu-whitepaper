@@ -24,4 +24,4 @@ Airdrop & Event Rewards: 10% unlocked after TGE, then 5% quarterly
 
 Angel Investor Sale: 5% unlocked after TGE, then 5% quarterly
 
-We've chosen this method for a variety of reasons. To keep the market pricing stable and to be fair to our private and public sales investors, as well as to safeguard everyone from a market crash.
+We selected this approach for a number of factors. to protect everyone from a market crash, to be fair to our private and public sales investors, and to maintain stable market pricing.
