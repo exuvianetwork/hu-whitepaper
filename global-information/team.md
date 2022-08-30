@@ -20,32 +20,32 @@
 * Ryan  M. Panuncia | COO [`LinkedIn`](https://www.linkedin.com/in/ryan-panuncia-b090a3226/) `` [`Twitter`](https://twitter.com/Exuvia\_Ryan)&#x20;
 * Joshua S. Pales | CTO [`LinkedIn`](https://www.linkedin.com/in/joshua-pales-95aa48175/) `` [`Twitter`](https://twitter.com/shots\_anonymous)``
 * Kean John Sean Lagbo | CGO [`LinkedIn`](https://www.linkedin.com/in/kenshinkean) `` [`Twitter`](https://twitter.com/abc\_aivuxe)``
-
-``
-
+* Carl Alexson M. Patan-ao | Project Manager
 * Luis Miguel M. Panta | Game Strategic Lead  [Twitter](https://twitter.com/Luis70731440) [LinkedIn](https://www.linkedin.com/in/luis-panta-105242242/)
+* Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
 * Dave Agustin A. Caacoy | Game Design Lead  [Twitter](https://twitter.com/CaacoyDave) [LinkedIn](https://www.linkedin.com/in/dave-agustin-caacoy-17381120b)
+* Kevin Buzon Fontanoza | Web Development Lead
+* Janbert Campos | Web Development Lead  [Twitter](https://twitter.com/JanbertCampos) [LinkedIn](https://www.linkedin.com/in/janbert-campos-07427b244/)
 * Joenard V. Magallanes | Social Media Manager  [Twitter](https://twitter.com/ahjin\_nard) [LinkedIn](https://www.linkedin.com/in/nard-magallanes-590062226)
+* Gerald Madarang Mercedes | Moderator Lead  [Twitter](https://twitter.com/gerald\_madarang) [LinkedIn](https://www.linkedin.com/in/gerald-mercedes-8aa25a244/)
+
+### Game Developers
+
+* Victor Perfecto Bucabuca | Game Developer / Animator
+* Alberto Ymas | Game Developer
+* Ainol Obando | Game Developer
+
+### Graphic Designers | Content Writers
+
 * Utsukushi Desu | Sketch Art Talent
 * Claire Mamalias | Sketch Art Talent  [Twitter](https://twitter.com/ethanolol70) [LinkedIn](https://www.linkedin.com/in/erin-claire-mamalias-952332244)
 * Gabriel Bryan S. Agudo | Content Writer
 * Brylle Solano | Content Writer  [Twitter](https://twitter.com/solanobry) [LinkedIn](https://www.linkedin.com/in/brylle-solano-317252247)
 
-
-
-* Janbert Campos | Web Development Lead  [Twitter](https://twitter.com/JanbertCampos) [LinkedIn](https://www.linkedin.com/in/janbert-campos-07427b244/)
-* Arvin John Bulatin | Game Development Lead  [Twitter](https://twitter.com/BulatinJohnWork) [LinkedIn](https://www.linkedin.com/in/arvin-john-bulatin-5387b0213)
-* Ainol Obando | Game Developer
-* Alberto Ymas | Game Developer
-* Victor Perfecto Bucabuca | Game Developer / Animator
-* Kevin Buzon Fontanoza | Full Stack Developer
-* Carl Alexson M. Patan-ao | Project Manager
-
 ## Marketing Team
 
 ## Moderating Team
 
-* Gerald Madarang Mercedes | Moderator Lead  [Twitter](https://twitter.com/gerald\_madarang) [LinkedIn](https://www.linkedin.com/in/gerald-mercedes-8aa25a244/)
 * Keith Leugie Albarida | Moderator  [Twitter](https://twitter.com/KeithLeugie) [LinkedIn](https://www.linkedin.com/mwlite/in/keith-leugie-albarida-254184244)
 * Helix Ray Catayoc | Moderator  [Twitter](https://mobile.twitter.com/Cryptooo1111) [LinkedIn](https://www.linkedin.com/mwlite/in/helix-ray-catayoc-178356152)
 * Shawn Justin Canillo | Moderator  [Twitter](https://twitter.com/ShawnCanillo) [LinkedIn](https://www.linkedin.com/in/shawn-justin-canillo-96a327244)

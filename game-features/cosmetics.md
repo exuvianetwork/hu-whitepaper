@@ -6,7 +6,7 @@ All cosmetics are varied in six parts and rarities with each unique effect added
 
 &#x20;                                               &#x20;
 
-&#x20;                                                 \[ image not available for this moment ]
+&#x20;                                                 \[ image not available at this moment ]
 
 
 
