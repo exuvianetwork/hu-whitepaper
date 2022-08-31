@@ -2,19 +2,16 @@
 
 ### Battle System
 
-The Heroes Journey fighting system is a turn-based card game in which your squad of three heroes must eliminate all adversaries in order to win. Each turn, a player must play cards wisely in order to increase their chances of winning.
+The Heroes Uprising fighting system is a turn-based card game in which your squad of three heroes must eliminate all your opponent’s heroes in order to win. Each turn, a player must play cards wisely in order to increase their chances of winning.
 
 ### Battle Stage
 
-Once both players click the attack button, the battle will begin.\
-\-At the start of each round, item cards will be added at random.\
-\-Buffs that affect the attack sequence will be applied next round.\
-\-The effect of each card will be applied once it is used during the round.\
-\-Heroes will attack their closest target except when using cards that allow the hero to attack furthest or behind their closest target.
+Once players find a match on our matchmaking system by clicking the fight button, the battle will begin shortly;
 
-### Seasonal System
-
-We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
+* At the start of each round, cards will be added at random.&#x20;
+* Buffs that affect attack sequence will be applied next round&#x20;
+* Effect of each card will be applied once it’s used during the round&#x20;
+* Heroes will attack their closes target except when using cards that allow the hero to attack furthest or behind the closes target.
 
 ## Seasonal System
 
