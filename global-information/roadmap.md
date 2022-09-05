@@ -20,7 +20,7 @@
 * [x] Early Adopters Event Starts
 * [x] Website Release
 * [x] Whitepaper Release
-* [ ] Discord Invite Event Starts&#x20;
+* [x] Discord Invite Event Starts&#x20;
 * [ ] Marketplace Development Starts
 * [ ] Governance Token Deployment
 * [ ] TGE
