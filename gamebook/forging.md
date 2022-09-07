@@ -5,7 +5,7 @@
 If you want a better card combination, you can forge new weapons, exactly as in any other fantasy game. These weapons can be utilized in battle, used to make new weapons, or sold on the open market.
 
 {% hint style="info" %}
-Players can only forge their weapons five times with every forge increasing the SGN And RAE required.
+Players can only forge their weapons five times.
 {% endhint %}
 
 ## Sword Parts

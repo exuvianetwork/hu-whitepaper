@@ -21,7 +21,7 @@
 * [x] Website Release
 * [x] Whitepaper Release
 * [x] Discord Invite Event Starts&#x20;
-* [ ] Marketplace Development Starts
+* [x] Marketplace Development Starts
 * [ ] Governance Token Deployment
 * [ ] TGE
 
