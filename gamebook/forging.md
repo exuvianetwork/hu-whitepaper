@@ -10,11 +10,9 @@ Players can only forge their weapons five times.
 
 ## Sword Parts
 
-Sword can be varied in 4 parts and each part has its designated cards for the game
-
-While forging these parts will be randomly dismantled to create a new weapon and card combination within it.
-
-The category of the sword element will be determined on the blade.
+Sword can be varied in 4 parts and each part has its designated cards for the game. While forging these parts will be randomly passes to the forged weapon to create a new weapon and card combination within it. \
+\
+The category of the sword element will be determined by the blade.
 
 ![](../.gitbook/assets/273003254\_462047952071439\_9035256204137697450\_n.png)
 
@@ -22,11 +20,11 @@ The category of the sword element will be determined on the blade.
 
 | FORGE COUNT | Forge Number | RAE | SGN |
 | ----------- | ------------ | --- | --- |
-| **0/5**     | 1            | 750 | 1   |
-| 1/5         | 2            | 600 | 1   |
-| 2/5         | 3            | 450 | 1   |
-| 3/5         | 4            | 300 | 1   |
-| 4/5         | 5            | 150 | 1   |
+| **0/5**     | 1            | 750 | 2   |
+| 1/5         | 2            | 600 | 2   |
+| 2/5         | 3            | 450 | 2   |
+| 3/5         | 4            | 300 | 2   |
+| 4/5         | 5            | 150 | 2   |
 
 These figures may change depending on the game's economic balance. The RAE and SGN required per forge can change.
 
