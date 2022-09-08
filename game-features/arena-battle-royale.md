@@ -2,8 +2,8 @@
 
 ### Triple Category Matchmaking
 
-1. Classic Category - This category is for free-to-play feature, this will be a practice category or a training category to those who are testing their teams. Players will not earn any MMR points nor they will not earn any rewards from battling.
-2. Unranked Category - This category is applicable to free-to-play feature also, this will be an intense player vs player matchmaking but players will not earn any MMR points on winning but players will earn rewards on winning. Players MMR will not decrease and increase, so basically players rank will staying on the 750 MMR points.
+1. Classic Category - This category is for free-to-play feature, this will be a practice category or a training category to those who are testing their teams. Players will not earn any MMR points nor they will earn any rewards from battling.
+2. Unranked Category - This category is applicable to free-to-play feature also, this will be an intense player vs player matchmaking but players will not earn any MMR points on winning but players will earn rewards on winning. Players MMR will not increase but it can decrease when losing.
 3. Ranked Category - This category will not be applicable to those free-to-play players, and it is also required to join a Guild in order to access this feature. Players MMR is at stake in here, so basically Ranked Category is for competitive players who invested their way in to play for this category.
 
 ### Battle System
