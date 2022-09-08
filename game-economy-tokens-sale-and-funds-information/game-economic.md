@@ -59,7 +59,13 @@ Both Weekly Dungeon Quest (Sprite and Sword) ticket fees (RAP) will be burned.
 ## Guild Creation
 
 {% hint style="info" %}
-You need SGN to create a guild. SGN fees will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+You need USDT to create a guild. USDT fees will be split into 5 parts 15% to the Team Treasury, 20% to the Project Treasury, 15% to the ERV Treasury, 10% to the Prize Pool Treasury ( 50% to the Seasonal and 50% to the Guild Domination Prize Pool ), and 40% to the Liquidity Treasury.
+{% endhint %}
+
+## Guild members Rent Fee
+
+{% hint style="info" %}
+USDT fees from members will be split into 2 parts 80% to the Guild Creator, and 20% to the Liquidity Treasury.
 {% endhint %}
 
 ## Guild Tech
