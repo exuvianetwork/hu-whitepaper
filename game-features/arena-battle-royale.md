@@ -1,5 +1,11 @@
 # ⚔ Arena Battle Royale
 
+### Triple Category Matchmaking
+
+1. Classic Category - This category is for free-to-play feature, this will be a practice category or a training category to those who are testing their teams. Players will not earn any MMR points nor they will not earn any rewards from battling.
+2. Unranked Category - This category is applicable to free-to-play feature also, this will be an intense player vs player matchmaking but players will not earn any MMR points on winning but players will earn rewards on winning. Players MMR will not decrease and increase, so basically players rank will staying on the 750 MMR points.
+3. Ranked Category - This category will not be applicable to those free-to-play players, and it is also required to join a Guild in order to access this feature. Players MMR is at stake in here, so basically Ranked Category is for competitive players who invested their way in to play for this category.
+
 ### Battle System
 
 The Heroes Uprising fighting system is a turn-based card game in which your squad of three heroes must eliminate all your opponent’s heroes in order to win. Each turn, a player must play cards wisely in order to increase their chances of winning.
@@ -17,7 +23,7 @@ Once players find a match on our matchmaking system by clicking the fight button
 
 We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
 
-## Rank, MMR Brackets, and RAS rewards:
+## Rank, MMR Brackets, and RAP rewards:
 
 | Ranking      | MMR         | RAP REWARDS   |
 | ------------ | ----------- | ------------- |
