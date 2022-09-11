@@ -54,12 +54,17 @@
 
 ## GAME FEATURES
 
+* [⚔ Arena Battle Royale](game-features/arena-battle-royale.md)
+* [⚡ Stamina System](game-features/stamina-system.md)
+  * [📺 HU AdRevenue System](game-features/stamina-system/hu-adrevenue-system.md)
+* [🤺 Durability System](game-features/durability-system.md)
+* [💄 Cosmetics](game-features/cosmetics.md)
 * [🔨 Forging System](gamebook/forging.md)
-* [🖱 Fusion System](game-features/combine-system.md)
 * [🏛 Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
   * [⚔ Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
   * [🧚 Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
 * [🛠 Crafting System](game-features/crafting-system.md)
+* [🖱 Fusion System](game-features/combine-system.md)
 * [🏢 Guild System](game-features/guild-system/README.md)
   * [⚙ Guild Tech](game-features/guild-system/guild-tech.md)
   * [🗺 Guild Expedition](game-features/guild-system/guild-expedition.md)
@@ -67,11 +72,6 @@
     * [🎮 Heroes Uprising International League](game-features/guild-system/guild-domination/heroes-uprising-international-league.md)
   * [🏅 Guild Ranking Rewards](game-features/guild-system/guild-ranking-rewards.md)
   * [🛒 Guild Shop](game-features/guild-system/guild-shop.md)
-* [🤺 Durability System](game-features/durability-system.md)
-* [⚡ Stamina System](game-features/stamina-system.md)
-  * [📺 HU AdRevenue System](game-features/stamina-system/hu-adrevenue-system.md)
-* [⚔ Arena Battle Royale](game-features/arena-battle-royale.md)
-* [💄 Cosmetics](game-features/cosmetics.md)
 * [🏫 Scholarship Program](game-features/scholarship-program.md)
 * [🔑 Security Features](game-features/security-features.md)
 
