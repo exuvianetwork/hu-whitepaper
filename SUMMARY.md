@@ -55,11 +55,11 @@
 ## GAME FEATURES
 
 * [🔨 Forging System](gamebook/forging.md)
-* [🛠 Crafting System](game-features/crafting-system.md)
 * [🖱 Fusion System](game-features/combine-system.md)
 * [🏛 Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
   * [⚔ Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
   * [🧚 Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
+* [🛠 Crafting System](game-features/crafting-system.md)
 * [🏢 Guild System](game-features/guild-system/README.md)
   * [⚙ Guild Tech](game-features/guild-system/guild-tech.md)
   * [🗺 Guild Expedition](game-features/guild-system/guild-expedition.md)
