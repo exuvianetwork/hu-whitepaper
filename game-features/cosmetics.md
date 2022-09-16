@@ -8,7 +8,7 @@ All cosmetics are varied in six parts and rarities with each unique effect added
 
 Mask - applies an enemy kill effect\
 Dress/shirt - applies a special ambient effect when using ranged attacks\
-Gloves - applies an ambient effect when using ranged attacks\
+Gloves - applies an ambient effect when using melee attacks\
 Cape/wings - applies a special ambient effect on vital strikes\
 Short/Skirt - applies a death effect\
 Boots - apply a dash/trail effect

@@ -10,7 +10,7 @@ You can get your Heroes by minting or purchasing one on the marketplace.
 
 ## Minting Heroes
 
-Minting a hero does not guarantee you your desired Hero, it will be generated randomly. You can't decide what element and gender it will generate once you mint a hero. You can use RAP to mint heroes.
+Minting a hero does not guarantee you your desired Hero, it will be generated randomly. You can't decide what element and gender it will generate once you mint a hero. You can use RAE to mint heroes.
 
 {% hint style="warning" %}
 _"Minting requirements may change depending on the game's economic balance."_
