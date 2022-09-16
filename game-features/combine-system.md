@@ -71,3 +71,9 @@ Element outcome is dependent on the percentage drop, as will be shown in this ch
 {% hint style="danger" %}
 These figures may change depending on the game's economic balance. The RAE and SGN required per fuse can change.
 {% endhint %}
+
+### Burner
+
+{% hint style="info" %}
+this feature is only available for Quad Fusion and Sprite Fusion
+{% endhint %}

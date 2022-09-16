@@ -1,8 +1,8 @@
 ---
 description: >-
-  This documentation provides information or data about the project. This is
-  dynamic and is subject to change with each update due to development or
-  critical events. Last updated 8th of September, 2022.
+  This documentation provides information about the project. This is dynamic and
+  is subject to change with each update due to development or critical events.
+  Last updated 16th of September, 2022.
 cover: .gitbook/assets/2 (1).jpg
 coverY: -29.45619335347432
 ---
