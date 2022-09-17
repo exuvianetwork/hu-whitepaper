@@ -6,7 +6,7 @@ Rare Amethyst Elixir (RAE) is a reward/utility token that can be obtained by exc
 
 Please keep in mind that claiming your RAP takes two weeks. After that, you can make a claim after two weeks again.
 
-You can sell or exchange your Rare Amethyst Particles on decentralized exchanges and Aivuxe.
+You can sell or exchange your Rare Amethyst Elixir on decentralized exchanges and Aivuxe.
 
 ## RAE Tokenomics
 
