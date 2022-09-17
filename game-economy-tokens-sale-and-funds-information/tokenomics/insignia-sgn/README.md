@@ -14,7 +14,7 @@ Insignia (SGN), an ERC20 token, is the governance token for Project Exuvia that 
 | Decimals         | 18                |
 | Token Name       | Insignia          |
 | Ticker           | SGN               |
-| Network          | TBA               |
+| Network          | Ethereum          |
 | Contract Address | TBA               |
 
 {% hint style="info" %}
