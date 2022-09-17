@@ -66,6 +66,7 @@
 * [🛠 Crafting System](game-features/crafting-system.md)
 * [🖱 Fusion System](game-features/combine-system.md)
 * [🏢 Guild System](game-features/guild-system/README.md)
+  * [⚔ Ranked Arena Battle Royale](game-features/guild-system/ranked-arena-battle-royale.md)
   * [⚙ Guild Tech](game-features/guild-system/guild-tech.md)
   * [🗺 Guild Expedition](game-features/guild-system/guild-expedition.md)
   * [⚔ Guild Domination](game-features/guild-system/guild-domination.md)
