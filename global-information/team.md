@@ -33,7 +33,7 @@
 
 * Victor Perfecto Bucabuca | Game Developer / Animator
 * Alberto Ymas | Game Developer
-* Ainol Obando | Game Developer
+* Gray Gdenn Ocubillo Inot | Game Developer
 
 ### Graphic Designers | Content Writers
 
