@@ -7,7 +7,7 @@
 | Blursed (Melee)          | Apply an attack boost, a speed boost, and inflict 30% of its maximum HP on itself. |        60       |       0       |       40       | Atk Boost, Speed Boost |            |
 | Planned Attack (Melee)   | If the target is faster, gain 1 mana.                                              |        65       |       1       |       35       |                        |            |
 | Twilight (Melee)         | Discard one card from the enemy hand.                                              |        40       |       1       |       60       |                        |            |
-| Divine Judgement (Melee) | If this hero is faster than the target, it deals 40% more damage.                  |                 |       85      |        1       |           45           |            |
+| Divine Judgement (Melee) | If this hero is faster than the target, it deals 40% more damage.                  |        85       |       1       |       45       |                        |            |
 
 | **Guard**              | **Description**                                                            | **Base Damage** | **Mana Cost** | **Base Armor** | **Buff** |   **Debuff**   |
 | ---------------------- | -------------------------------------------------------------------------- | :-------------: | :-----------: | :------------: | :------: | :------------: |
