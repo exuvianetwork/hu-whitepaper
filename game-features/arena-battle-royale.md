@@ -2,9 +2,9 @@
 
 ### Triple Category Matchmaking
 
-1. Classic Category - This category is for free-to-play features, this will be a practice category or a training category for those who are testing their teams. Players will not earn any MMR points nor they will earn any rewards from battling.&#x20;
-2. Unranked Category - This category is applicable to the free-to-play feature also, this will be an intense player vs player matchmaking but players will grind from 0 MMR to 750 MMR to earn rewards.&#x20;
-3. Ranked Category - This category will not be applicable to those free-to-play players, and it is also required to join a Guild in order to access this feature. Players’ MMR is at stake in here, so basically Ranked Category is for competitive players who invested their way in to play for this category.
+1. Brawl Category - This category is for free-to-play features, this will be a practice category or a training category for those who are testing their teams. Players will not earn any MMR points nor they will earn any rewards from battling.&#x20;
+2. Classic Category - This category applies to the free-to-play feature also, this will be an intense player vs player matchmaking but players will grind from 0 MMR to 750 MMR to earn rewards.&#x20;
+3. Ranked Category - This category will not apply to free-to-play players, and it is also required to join a Guild to access this feature. Players’ MMR is at stake here, so basically Ranked Category is for competitive players who invested their way in to play for this category.
 
 ### Battle System
 
