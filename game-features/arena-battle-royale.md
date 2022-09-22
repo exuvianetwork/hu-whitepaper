@@ -23,7 +23,26 @@ Once players find a match on our matchmaking system by clicking the fight button
 
 We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
 
-## Rank, MMR Brackets, and RAP rewards:
+## Rank, MMR Brackets, and RAP rewards for Classic Category:
+
+| Ranking      | MMR         | RAP REWARDS     |
+| ------------ | ----------- | --------------- |
+| Peasant      | 749 Below   | NO REWARD       |
+| Squire I     | 750 - 949   | .1 PER WIN      |
+| Squire II    | 950 - 1149  | .2 PER WIN      |
+| Squire III   | 1150 -1349  | .3 PER WIN      |
+| Knight I     | 1350 - 1549 | .9-.4 PER WIN   |
+| Knight II    | 1550 - 1749 | 1.2-1 PER WIN   |
+| Knight III   | 1750 - 1949 | 1.5-1.3 PER WIN |
+| Champion I   | 1950 - 2149 | 2-1.6 PER WIN   |
+| Champion II  | 2150 - 2349 | 2.3-2.1 PER WIN |
+| Champion III | 2350 - 2549 | 2.5-2.4 PER WIN |
+| Hero I       | 2550 - 2699 | 2.8-2.6 PER WIN |
+| Hero II      | 2700 - 2849 | 3-2.9 PER WIN   |
+| Hero III     | 2850 - 2999 | 3.4-3.1 PER WIN |
+| Legend       | 3000 +      | 3.5 PER WIN     |
+
+## Rank, MMR Brackets, and RAP rewards for Ranked Category:
 
 | Ranking      | MMR         | RAP REWARDS   |
 | ------------ | ----------- | ------------- |
@@ -43,7 +62,7 @@ We will have a seasonal system for 3 months. Those who are on the leaderboard wi
 | Legend       | 3000 +      | 35 PER WIN    |
 
 {% hint style="danger" %}
-Ranks and MMR on both Classic and Ranked are separate.&#x20;
+Ranks and MMR on both Classic and Ranked are separate, as well as the rewards.
 {% endhint %}
 
 {% hint style="warning" %}
