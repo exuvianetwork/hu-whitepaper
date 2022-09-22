@@ -42,6 +42,10 @@ We will have a seasonal system for 3 months. Those who are on the leaderboard wi
 | Hero III     | 2850 - 2999 | 34-31 PER WIN |
 | Legend       | 3000 +      | 35 PER WIN    |
 
+{% hint style="danger" %}
+Ranks and MMR on both Classic and Ranked are separate.&#x20;
+{% endhint %}
+
 {% hint style="warning" %}
 ALL FIGURES ABOVE ARE SUBJECT TO CHANGE DEPENDING ON THE ECONOMIC GROWTH OF THE GAME.
 {% endhint %}
