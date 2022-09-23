@@ -21,7 +21,7 @@ Once players find a match on our matchmaking system by clicking the fight button
 
 ## Seasonal System
 
-We will have a seasonal system for 3 months. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
+We will have a seasonal system for 3 months and only applies on the Ranked Category. Those who are on the leaderboard will have a portion of the seasonal prize pool. So grind to the top to be the best weapon wielder of Mydoslyne.
 
 ## Rank, MMR Brackets, and RAP rewards for Classic Category:
 
