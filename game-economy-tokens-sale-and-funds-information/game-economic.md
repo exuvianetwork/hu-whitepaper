@@ -1,6 +1,6 @@
 # 📈 Game Economic Balance
 
-We came up with these methods to burn as many inflated tokens as possible and to put funds in our treasury to sustain support for the never-ending development of the team.
+We came up with these methods to burn as many inflated tokens as possible and to put funds in our treasury that sustains the never-ending development of the team.
 
 ## Minting Heroes
 
