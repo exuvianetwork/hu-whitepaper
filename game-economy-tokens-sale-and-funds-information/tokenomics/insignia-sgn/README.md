@@ -35,4 +35,4 @@ only 10% of the total max supply will be generated as an initial supply and the 
 | Team & Advisor          | 7%         | 7,000,000 $SGN  | [YES](https://docs.heroesuprising.com/game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule) |
 | Marketing               | 5%         | 5,000,000 $SGN  | [YES](https://docs.heroesuprising.com/game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule) |
 | Airdrop & Event Rewards | 2%         | 2,000,000 $SGN  | [YES](https://docs.heroesuprising.com/game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule) |
-| Angel Investor Sale     | 1%         | 1,000,000 $SGN  | [YES](https://docs.heroesuprising.com/game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule) |
+| Angel Sale              | 1%         | 1,000,000 $SGN  | [YES](https://docs.heroesuprising.com/game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule) |
